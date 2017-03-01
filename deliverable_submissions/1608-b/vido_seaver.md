@@ -1,6 +1,6 @@
 # Vido Seaver
 
-## Module 4 Deliverables:
+## Module 4 Deliverables: https://www.turing.io/alumni/vido-seaver
 
 * Link to Turing Alumni Portfolio:
 * Link to overview of 6 Cold Outreach emails following this [format]#Documentation should include the following for all 6 emails:
