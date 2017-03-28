@@ -1,22 +1,81 @@
-# Feedback I: Building an Understanding of Giving & Receiving Feedback
-# Feedback I:
+# Feedback I
+## Confronting Our Feedback Triggers & Writing Effective Feedback
+
+This is the first of 3 different feedback sessions you'll receive at Turing along with a session on mindful communication. We believe that a big component of unlocking your potential at Turing revolves around strengthening your communication skills, and giving and receiving feedback well allows you to improve your practices and strengthen your relationships for longterm growth in your career path.
+
+### Pre-Reading for the Session
+
+[Chapter One from Thanks for the Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/files/Thanks%20For%20the%20Feedback_Ch%201.pdf)
+
+### Slides
+[Slides for this session](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit?usp=sharing)
 
 ### Objectives
+* 
 
 ### Deliverable
+You will submit feedback for each of your project partners this module by sending a paragraph of written feedback intended for your partner in a DM to Allison. She will review your feedback and send you any follow-up
+
+### Session Structure
+
+* Opening (13 mins)
+* 
 
 #### Opening
 Why are we talking about this? 
-Benefits of receiving feedback well
-Creating “pull”
-Personal reflection first: Think of a couple of pieces of feedback in the recent past that you have found tough to receive. Can you recall any physiological reaction that you had to the feedback? What were the most immediate thoughts to go through your mind as you received this feedback? How would you describe your experience in relation to the three triggers (truth, relationship, identity) discussed in this chapter? Which of the three triggers (truth, relationship, or identity) do you find most befuddling and why? What has helped you manage these triggers
-Then share with partner? Or whole group?
-Recap the 3 triggers
+
+The benefits of receiving feedback well include:
+
+* Increased learning and improvements
+* Other people find it more enjoyable to work with you
+* Easier to collaborate with others to solve problems
+* You can set an example to help others see the value in seeking feedback for themselves
+
+**Personal Reflection:**
+
+Think of a couple of pieces of feedback in the recent past that you found tough to receive. Can you recall any physiological reaction that you had to the feedback? What were the most immediate thoughts to go through your mind as you received this feedback? How would you describe your experience in relation to the three triggers (truth, relationship, identity) discussed in the chapter that you read? Which of the three triggers (truth, relationship, or identity) do you find most befuddling and why? What has helped you manage these triggers?
+
+Turn & Talk: Share your experience with a partner
+
+Recap the 3 triggers as a whole group. 
+
+### Intention vs. Impact
+Intention vs. impact (20 mins) -- MAKE INTERACTIVE/DIFFERENTIATED
+Discuss that concept
+Truth Triggers
+-Discuss 3 types of feedback with regard to truth triggers? 
+Right and wrong spotting -- how our triggers come into play
+Blind spots
+Discuss an example of coaching and how intention and impact can get switched up (see in Grace Lead printout) 
+Relationship Triggers
+Switchtracking
+Identity Triggers
+Baseline
+Dismantling Distortions
+
+How to make this feedback easier? (7 mins) 
+Clarify your intention by following these 3 principles:
+Specific 
+Actionable -- must be constructive
+Kind
+Examples of what this looks like
+
+Types of feedback (6 mins)
+Discuss 3 types of feedback
+Examples of each and why they serve certain purposes
+Ask for the type of feedback you want
+At Turing, you should give and receive appreciation and coaching
+
+Writing your feedback: (7 mins)
+Examples of written feedback
+What should you be aware of? Written tone
+Keep in mind that you’re all trying to help each other -- how can you give feedback that will be the most meaningful
+
+### You Do: Work time (10 mins)
+Write out your feedback for your project partner
 
 
 
-
-[Slides for this lesson](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit?usp=sharing)
 
 ### Objectives:
 
