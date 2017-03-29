@@ -67,9 +67,16 @@ When you are asked that question, recognize that you don't have the context to p
   * Talk to someone you trust to get some feedback (mentors, Lia, Meg, etc.)
   * Reach out to any other companies that you're talking with. Let them know that you’ve received an offer, and ask, *"do you know what your timeline is for making a hiring decision?"* Ask for any next steps.
     * Why do this? You're leveraging your offer (see *Create Leverage* below). You've also taken the guessing game out of it; instead of stressing about the offers, the ball is in their court. 
-    * This also tells the company that you a person who is sought after, which increase their interest.
+    * This also tells the company that you a person who is sought after, which increase their interest
+  
+ You may not always have the luxury of a lot of time. What if:
+  * Someone says, *"I need to know an answer in 48 hours."* You should still get as much information as you can, but you might not be able to
+  * In this case, create a pro and con list -- to decide which offer you’ll take
+  * It’s not a red flag that they need you to hurry necessarily -- maybe they just got a bigger workload
+  * Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
+  * You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."
 
-* **Negotiating an Offer:** Once you've decided on your counter, go back to the company --
+* **Negotiating an Offer:** Once you have all the facts and can make a decision, go back to the company --
   * Always negotiate in person or via phone, **never through email.**
   * Eliminate passive language when negotiating, but always be generous and respectful.
   * Be honest and transparent
