@@ -150,7 +150,9 @@ Reminder of guidelines for feedback conversations. Be specific, actionable, and 
 
 * “I really like the way you circled back to the company mission!”
 * “Your subject line does a great job of capturing the reader's attention!”
-* “You did a great job of finding a personal connection through snowboarding!”
+* “The personal connection about snowboarding was really clear!”
+* "I wasn't quite sure what your connection was. Try out a few different phrases to get more specific."
+* "I didn't hear a call to action. Provide a date and time to meet to make it easy for someone to respond."
 
 “Good job buddy!” is *NOT* constructive feedback
 
