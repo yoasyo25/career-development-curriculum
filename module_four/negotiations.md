@@ -104,7 +104,7 @@ When you are asked that question, recognize that you don't have the context to p
   * If you are in other interviews, let those companies know you've received an offer letter, but that you're most interested in an opportunity with their company. Then ask if they could let you know a timeline for making a hiring decision so you can let the other company know when you could make your decision by. (Always do this verbally -- never through email.)
   * When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity; however, you're deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date? (Always do this in person or via phone so the hiring manager can hear you're sincere).
   
-* **Bottom Line: Negotiating is Always Important:**
+* **Bottom Line: Negotiating is Always Important**
   * ...even if it’s just to ask clarifying questions!
   * **It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
   * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back. 
@@ -112,10 +112,6 @@ When you are asked that question, recognize that you don't have the context to p
     * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
     * You should be somewhere you want to be and where you’re valued
     * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
- 
- 
-  
-  Provide space for roleplays? 
   
 ### Resources for Follow-Up
 
@@ -125,32 +121,27 @@ When you are asked that question, recognize that you don't have the context to p
 
 ### FAQs
 
-Does first number set up subsequent numbers?
-Yes -- say they offer $80k, great offer, but in 2-5 years with potential 1-5% increase, will that be enough longterm? Compare to inflation rates to consider cost of living
-What’s great now might not be great in 2 years; why devs hop jobs
-Is it better to be at the high end of the band in first job of your career and max out? Or meet in the middle?
-Don’t think too hard about that; when it comes to tech companies, they’re not as specific as other corporations -- could depend, bigger ones are more traditional
-Go for what you can get; you probably won’t stay at your first job for 2 years, not realistic, not common; for that reason, don’t think so much about strategy -- if you tap out, you’ll go somewhere else
-Hopefully, there are other things you’ll consider to make your decisions besides money
-Noah: asked for more context and boht times, they said “here’s what we’ll pay, how do you feel about it?”
-You could say, I’d love to learn about the position and everything that this position would entail to have this conversation at a deeper level; you could say at that moment that my expectations were closer to X but don’t price yourself out of the conversation
-Be honest in that situation -- if it’s not a realm that you’re comfortable with, be aware that this is fine to end the conversation
-When there’s an unexpected answer, what do you?
-In the lower end, someone comes in at $45k or they give you a number right away; I was hoping to be closer to $75k, is there any wiggle room there? This will help them understand flexibility
-High end -- don’t put a number on the table bc of this story. Person who made no more than $30k previously, he fumbled in the negotiations area -- was asked for expectations and hiring manager said we start juniors at $97k. That person had been expecting $65k, had they put that on the table, they might not have mentioned the $97k, would’ve lost $30k. Person asked Lia what to do, she recommended to round it to $100k, they didn’t but didn’t hurt to ask. 
-Takeaways: person kept a straight face and said thank you for that information; still want to know more about the benefit packages and perks
-But this is why to not put a number on the table
-Is it possible or how could you go about negotiating for work visas?
-Find a US-based company with international ties
-You could talk to them about being located in the other country; they will do a sponsorship but not same type bc US taxes are still being paid
-Could start in US first but let them know your longterm goal is to be in X country
-Any companies with locations in other countries are already willing to have that conversation
-Would recommend to not ask for a visa during negotiations bc that’s an indication that you’ll be leaving them
-Friend’s company in Montreal, they sponsored her being there, her taxes were still US-based; she couldn’t be in the country without sponsorship 
-Or, you could say you don’t have a visa right now, do you sponsor visas? In big companies, more likely; in small companies, less likely
-Can cost up to $10,000
-Lia knows someone who took a lesser salary to negotiate visa sponsorship
-Noah: when he’s emailed the companies, it’s been helpful for them to know that he wants to go abroad
-It’s seen as a perk
+#### Does the first number set up subsequent numbers?
+* Yes -- say they offer $80k, which is a great offer, but think longterm. In 2-5 years with a potential 1-5% increase, will that be enough? Take into account inflation rates and cost of living. What’s great now might not be great in 2 years. This is why developers change jobs as often as they do. 
+
+#### Is it better to be at the high end of salary in your first job of your career and max out? Or meet in the middle?
+* Go for what you can get. Since you probably won’t stay at your first job for 2 years, don’t think so much about strategy -- if you tap out, you’ll go somewhere else
+
+#### What if you ask for context, and the company says, “here’s what we’ll pay, how do you feel about it?”
+* You could say, *"I’d love to learn about the position and everything that this position would entail to have this conversation at a deeper level."*
+* You could also say, *"My expectations were closer to X."* But don’t price yourself out of the conversation. Be honest in that situation -- if it’s not a realm that you’re comfortable with, be aware that it is fine to end the conversation.
+
+#### When there’s an unexpected answer, what do you do?
+* If the answer is in the lower end, you could say something like, *"I was hoping to be closer to $75k, is there any wiggle room there?"* This will help them understand flexibility.
+* If the number is on the high end, absolutely don't put a number on the table! Keep a straight face and thank them for that information. You still want to ask questions about the benefit packages and perks. Learn from this awesome story:
+  * Someone who made no more than $30k previously was asked for expectations during a job interview for his first dev job. He didn't say anything yet, but he was hoping for $65k. The hiring manager said, "We start juniors at $97k." If the dev had put his first number on the table, he could've lost out on $30k.
+  * *This is why you never put a number on the table*
+
+#### How can you approach negotiating for work visas?
+* Find a US-based company with international ties. You could talk to them about being relocated to another country. They will do a sponsorship, but it's easier for them because US taxes are still being paid. Any companies with locations in other countries are already willing to have that conversation
+* Otherwise, we would recommend to not ask for a visa during negotiations because that’s an indication that you’ll be leaving them
+* For a company with international ties, you could say you don’t have a visa right now, and do they sponsor visas? For big companies, it's more likely as visas can cost up to $10,000
+* You could consider taking a lesser salary to negotiate visa sponsorship
+
 
 
