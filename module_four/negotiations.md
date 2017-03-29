@@ -50,24 +50,44 @@ When you are asked that question, recognize that you don't have the context to p
   * Never give a number. If you're filling out an online form, and it expects an answer, it's fine to write in 0 or $1 and mention that you want to have an in-person discussion (as all salary discussions should be). 
   
 * **After Receiving an Offer:**
-  * 24 Hour Rule: When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
+  * **Example:** You receive the following offer:
+    * $70k with benefits
+    * Unlimited PTO
+    * $2500/yr for professional development
+    * $75/month for transit
+    
+  How would you handle an offer like this?
+  
+  * Take at least 24 hours: When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
+    * You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
   * Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary?
+    * For instance, in this example, consider asking for other benefits -- “Unlimited PTO” sometimes means no PTO. Ask “what’s your minimum PTO days? Do you require people to take a certain amount of time off? How frequently do people take off?” This work-life balance questioning will help you understand the culture. 
+    * What do *you* care about? 
+    * What's missing from the offer? What didn't they talk about?
+      * In this example, they did not mention a 401k, maternity/paternity leave, signing bonuses, or other perks
   * Talk to someone you trust to get some feedback (mentors, Lia, Meg, etc.)
+  * Reach out to any other companies that you're talking with. Let them know that you’ve received an offer, and ask, *"do you know what your timeline is for making a hiring decision?"* Ask for any next steps.
+    * Why do this? You're leveraging your offer (see *Create Leverage* below). You've also taken the guessing game out of it; instead of stressing about the offers, the ball is in their court. 
+    * This also tells the company that you a person who is sought after, which increase their interest.
 
-* **Negotiating an Offer:**
+* **Negotiating an Offer:** Once you've decided on your offer and your counter, go back to the company --
   * Always negotiate in person or via phone, **never through email.**
   * Eliminate passive language when negotiating, but always be generous and respectful.
   * Be honest and transparent
   * Get all of the facts -- are there other potential opportunities not on the table yet?
-  * Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
-  * It may be helpful to say, *"I was hoping to make **X** how can we close the gap on this?"
+  * The general rule of thumb is to ask for 5-10% more. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
+  * "I'm excited about this offer. I was hoping to make **X**. How can we close the gap on this?" 
+    * Using "we" shows that this is a joint effort
+    * Not an aggressive move -- "close the gap" instead of "I need this"
+    * Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes. 
+  * 
   * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate. Consider asking for a three - six month review to re-evaluate compensation.
   
 * **Create Leverage:**  
   * If you are in other interviews, let those companies know you've received an offer letter, but that you're most interested in an opportunity with their company. Then ask if they could let you know a timeline for making a hiring decision so you can let the other company know when you could make your decision by. (Always do this verbally -- never through email.)
-  * When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, however you're deep in the process with "x number" of companies and it's too early into your career to burn any bridges, you'd like to honor the process. Could you give them an answer by "X" date? (Always do this in person or via phone so the hiring manager can hear you're sincere).
+  * When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity; however, you're deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date? (Always do this in person or via phone so the hiring manager can hear you're sincere).
   
-* **Still Feeling Unsure? Keep in Mind that You've Been Working Towards This:**
+* **Still Feeling Unsure? Keep in Mind That You've Been Working Towards This:**
   * The communication skills you've been honing during your tenure at Turing ...
   
   Provide space for roleplays? 
