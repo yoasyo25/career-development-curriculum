@@ -95,7 +95,7 @@ When you are asked that question, recognize that you don't have the context to p
     * Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
     
   #### Pair Practice
-  Partner up with someone and role play having a conversation around negotiations with each other. One partner will play the hiring manager while the other partner practices negotiating. Then switch. Please approach this practce with good intentions -- *we're not trying to make this harder than it already is.* 
+  Partner up with someone and role play having a conversation around negotiations with each other. One partner will play the hiring manager while the other partner practices negotiating. Then switch. Please approach this practice with good intentions -- *we're not trying to make this harder than it already is.* 
     
 * **What if a Company Can't Meet Your Counter?**
   * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate
