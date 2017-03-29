@@ -75,6 +75,9 @@ When you are asked that question, recognize that you don't have the context to p
     * It’s not a red flag that they need you to hurry necessarily -- maybe they just got a bigger workload
     * Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
     * You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."
+    
+#### You Do
+Spend some time thinking about this example offer, and write in your journal some things that you want to consider if this was offered to you. 
 
 * **Negotiating an Offer:** Once you have all the facts and can make a decision, go back to the company --
   * Always negotiate in person or via phone, **never through email.**
@@ -90,6 +93,9 @@ When you are asked that question, recognize that you don't have the context to p
     * Using "we" shows that this is a joint effort
     * Not an aggressive move -- "close the gap" instead of "I need this"
     * Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
+    
+#### Pair Practice
+Partner up with someone and role play having a conversation around negotiations with each other. One partner will play the hiring manager while the other partner practices negotiating. Then switch. Please approach this practce with good intentions -- *we're not trying to make this harder than it already is.* 
     
 * **What if a Company Can't Meet Your Counter?**
   * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate
