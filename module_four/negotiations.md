@@ -8,7 +8,7 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 ### Session Structure
 
 * Opening (8 mins)
-* Discussion Points 
+* Discussion Points (32 mins)
 * Q&A (20 mins)
 
 ### Objectives 
