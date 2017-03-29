@@ -106,6 +106,11 @@ When you are asked that question, recognize that you don't have the context to p
 * **Keep in Mind:**
   * Don’t negotiate too high, so you don’t waste that extra money you could’ve negotiated earlier
   * Negotiating just an extra $5000 or less isn’t worth it -- it doesn’t even out to a lot of money. It’s not worth it and could make you look petty. You don't want to ruin a relationship over it
+  * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back. 
+    * In the 500-600 people that Lia has had experience with coaching negotiations, that has only happened once. 
+    * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
+    * You should be somewhere you want to be and where you’re valued
+    * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
   
 * **Create Leverage:** When you've been meeting with other companies  
   * If you are in other interviews, let those companies know you've received an offer letter, but that you're most interested in an opportunity with their company. Then ask if they could let you know a timeline for making a hiring decision so you can let the other company know when you could make your decision by. (Always do this verbally -- never through email.)
@@ -114,11 +119,6 @@ When you are asked that question, recognize that you don't have the context to p
 * **Bottom Line: Negotiating is Always Important**
   * ...even if it’s just to ask clarifying questions!
   * **It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
-  * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back. 
-    * In the 500-600 people that Lia has had experience with coaching negotiations, that has only happened once. 
-    * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
-    * You should be somewhere you want to be and where you’re valued
-    * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
   
 ### Resources for Follow-Up
 
