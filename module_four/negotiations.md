@@ -3,6 +3,14 @@
 
 For some reason we live in a world that is afraid to talk openly about money. That changes for you today. In this session, we'll have an open discussion about averages our alums are currently making in full-time junior developer jobs, apprenticeships, internships, and contract/freelance opportunities -- and how you should negotiate for what you want.
 
+[Slides for this session](https://docs.google.com/presentation/d/1UBHC5M0KQ712bUN8aeCfqKI7ti-Q_FajxSSJB5_5sDo/edit?usp=sharing)
+
+### Session Structure
+
+* Opening (8 mins)
+* Discussion Points 
+* Q&A (20 mins)
+
 ### Objectives 
 
 - Evaluate offer package for more than solely the salary amount
@@ -15,14 +23,7 @@ Reflect in journals:
 
 * When you hear the words "bargaining" and "haggling," what words or images come to mind? 
 * When you hear the word "negotiating," what words or images come to mind?
-* How are these images/word associations different or similar?
-
-**Turn & Talk:**
-
-* Share with the person next to you.
-* Share 1-2 reflections with the whole group. 
-
-It's time to unpack our feelings about negotiating in order to be empowered to have this conversation in meaningful way. 
+* How are these images/word associations different or similar? 
 
 **Whole Group Discussion:**
 
@@ -36,11 +37,11 @@ When you are asked that question, recognize that you don't have the context to p
 
   * A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $5,000. But you can pick up $5,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. 
 
-  * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that is rightfully yours. 
+  * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours. 
 
 * **Shift your Mindset to Embrace Negotiations:**
-  * Could do turn and talk here; what are your initial feelings about the idea of negotiating? 
-  * Bottom line: successful people negotiate
+  * **Turn & Talk:** What did you write down at the beginning of the session about your associations with the idea of negotiating? It's time to unpack our feelings about negotiating in order to be empowered to have this conversation in a meaningful way. What are your initial feelings about the idea of negotiating? 
+  * Bottom line: Successful people negotiate
 
 * **Back to the initial question -- "What are your salary expectations?"**
 
