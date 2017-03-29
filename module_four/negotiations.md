@@ -77,7 +77,7 @@ When you are asked that question, recognize that you don't have the context to p
     * In this case, create a pro and con list -- to decide which offer you’ll take
     * It’s not a red flag that they need you to hurry necessarily -- maybe they just got a bigger workload
     * Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
-    * You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."
+    * You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."*
     
   #### You Do
   Spend some time thinking about this example offer, and write in your journal some things that you want to consider if this was offered to you. 
