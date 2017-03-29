@@ -50,7 +50,7 @@ Recap the 3 triggers as a whole group:
 * Relationship
 * Identity 
 
-### Three Kinds of Feedback (8 mins)
+### Three Kinds of Feedback
 In order to better recognize our triggers, we need to first understand what kind of feedback we're hearing
 
 * **Appreciation** is giving thanks to your partner and encouraging your partner to keep doing what they're doing well. 
@@ -68,7 +68,11 @@ In order to better recognize our triggers, we need to first understand what kind
 		* Aligns expectations and informs decision making
 		
 #### Examples - which type of feedback is this?
-* "
+* "I appreciate how you jumped into discussing our Git workflow. I was feeling lost about that, and you helped me understand it more because you took the time to explain what you were doing."
+
+* "I would have liked to hear your ideas more. It seemed like you were hesitant to share them with me and questioned yourself a lot. I think the initial brainstorming phase would be a good time to share your ideas so that you can test them out or spend time explaining them in a lower stakes environment."
+
+* "Compared to the last time we paired together, I noticed that you were debugging errors more quickly this time around. I can see that you've been spending time going through the docs, and I appreciate how much more efficient that made our worktime." 
 
 #### Tips:
 
@@ -82,13 +86,13 @@ In order to better recognize our triggers, we need to first understand what kind
 Here's more on why feedback can create triggers...
 
 ### Intention vs. Impact (15 mins)
-Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. 
+Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. The way we are impacted by feedback can correspond with one of the three triggers. 
 
 For example:
 
 | Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
-| You could be more confident | When you don't know something, be confident enough to admit it. | You should give others the impression that you have all the answers |
+| You could be more confident | When you don't know something, be confident enough to admit it. | You come across as doubtful or passive; instead, you should give others the impression that you have all the answers. Be a phony. |
 
 * What kind of feedback is this?
 * What other impacts might this message have?
@@ -100,14 +104,14 @@ Discuss these examples with your partner:
 
 | Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
-| Don't be so quick to make a decision without talking to me | Consider other people's points of view when making a decision | Don't think for yourself. Tone down your enthusiasm. Be bland and passive |
-| You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. No one is noticing my hard work. |
+| Don't be so quick to make a decision without talking to me | Consider other people's points of view when making a decision | I already asked you about everything we did. Do you want me to be passive and not think for myself? |
+| You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. This instructor is too hard on me. |
 
 **Discussion Questions:**
 For each piece of feedback, answer these questions:
 
 * What kind of feedback is this?
-* How might you reframe this feedback considering the impact?
+* How might you reframe this feedback considering the impact? How does this relate to a trigger? 
 * We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
 
 ### Blind Spots
@@ -128,11 +132,13 @@ Clarify your intent by following these 3 guidelines:
 * Actionable
 * Kind
 
-What does this look like in action? 
+What does this look like in action? Generate some norms as a group. 
 
 ### Example of Written Feedback
 
 > Thank you for your contributions, especially in styling of several of our pages in the last few days. The site presentation looks much better as a result. Thank you also for checking in with me before you began working on a new item. I know that you didn’t always feel strong with some of the more complex aspects of our project, and I think that may have caused you to communicate with me less. I feel like there were several times during the project where either you had a missing DB migration or merge conflicts due to working off a branch with a head far behind our current dev_branch. I would suggest that you communicate with your future pairs more often to help avoid these issues. Committing and submitting PR's more often, even if it means smaller steps, would also help resolve merge conflicts along the way rather than letting them build into massive problems that take away from project time. In the last two days of the project, I feel like your contributions improved tremendously, and I very much appreciated the work you did.
+
+What do you notice about this feedback? What's working well? What would you change? 
 
 ### You Do: Work Time (10 mins)
 Write out your feedback for your project partner
@@ -143,22 +149,5 @@ Keep in mind:
 * How does your tone sound?
 * Remember that we're all trying to help each other -- how can you give feedback that will be most meaningful for your partner's growth?
 
-
-
-
-
-### Three Types of Feedback
-* Appreciation (Meaning) -- thanks, I see your hard work
-	* Relationship and human connection
-	* Motivation
-	* Authentic
-
-* Coaching (Accelerate Learning) -- I want to help you improve
-	* Learn, grow, change
-	* Something is missing or something is wrong
-
-* Evaluation (Know where we stand) -- How you measure up
-	* Comparison, implicitly or explicitly, against others or a particular set of standards
-	* Aligns expectations and informs decision making
-	* Also the LOUDEST
-
+### Closing
+Recap the 3 triggers and 3 types of feedback
