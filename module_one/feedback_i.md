@@ -53,61 +53,95 @@ Recap the 3 triggers as a whole group:
 ### Three Kinds of Feedback (8 mins)
 In order to better recognize our triggers, we need to first understand what kind of feedback we're hearing
 
-* Appreciation:....
-* Coaching
-* Evaluation
-
-Examples of each;
+* **Appreciation** is giving thanks to your partner and encouraging your partner to keep doing what they're doing well. 
+	* To be effective: 
+		* Specific
+		* Authentic
+		* Delivered in a form that works for you
+* **Coaching** is discussing a better way to do something to help you grow. Coaching can be related to improving your skills or at fixing a perceived imbalance in a relationship.
+	* To be effective:
+		* Listening
+		* Asking questions
+* **Evaluation** is telling your partner where they stand compared to a standard or compared to others. Evaluation aligns expectations and clarifies consequences. 
+	* To be effective:
+		* Be clear the standards or expectations to evaluate against
+		* Aligns expectations and informs decision making
+		
+#### Examples - which type of feedback is this?
+* "
 
 #### Tips:
 
 * Ask for the type of feedback you want
 * At Turing, you should give and receive appreciation and coaching
 
+#### Turn & Talk
+* Which type(s) of feedback will be more difficult for you to give?
+* Which type(s) of feedback will be more difficult for you to hear? Are there any triggers that come up?
 
-
-Here's when feedback can create triggers...
+Here's more on why feedback can create triggers...
 
 ### Intention vs. Impact (15 mins)
 Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. 
 
 For example:
 
-| Message | Intent | Giver's Impact |
+| Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
-|  |  |  |
+| You could be more confident | When you don't know something, be confident enough to admit it. | You should give others the impression that you have all the answers |
 
 * What kind of feedback is this?
 * What other impacts might this message have?
 * How does this relate to a trigger? 
 * How could this language be reframed to be more aligned with the intent? 
 
-Turn & Talk for the next 2 examples:
+#### Turn & Talk:
+Discuss these examples with your partner:
 
+| Feedback | Giver's Intent | Giver's Impact |
+| ------ | ---------------- | ---------------- |
+| Don't be so quick to make a decision without talking to me | Consider other people's points of view when making a decision | Don't think for yourself. Tone down your enthusiasm. Be bland and passive |
+| You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. No one is noticing my hard work. |
 
+**Discussion Questions:**
+For each piece of feedback, answer these questions:
 
-### Blind Spots (8 mins)
+* What kind of feedback is this?
+* How might you reframe this feedback considering the impact?
+* We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
 
+### Blind Spots
+Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
 
+* Your facial expressions
+* Your tone of voice
+* Your behavior patterns
 
+How could blind spots potentially affect the intent of a feedback giver's words?
 
-### Being Intentional in Giving Feedback (10 mins)
+What blind spots should we be aware of when we're providing written feeback? 
+
+### Being Intentional in Giving Feedback
 Clarify your intent by following these 3 guidelines:
 
 * Specific
 * Actionable
 * Kind
 
-Examples of written feedback:
+What does this look like in action? 
+
+### Example of Written Feedback
 
 > Thank you for your contributions, especially in styling of several of our pages in the last few days. The site presentation looks much better as a result. Thank you also for checking in with me before you began working on a new item. I know that you didn’t always feel strong with some of the more complex aspects of our project, and I think that may have caused you to communicate with me less. I feel like there were several times during the project where either you had a missing DB migration or merge conflicts due to working off a branch with a head far behind our current dev_branch. I would suggest that you communicate with your future pairs more often to help avoid these issues. Committing and submitting PR's more often, even if it means smaller steps, would also help resolve merge conflicts along the way rather than letting them build into massive problems that take away from project time. In the last two days of the project, I feel like your contributions improved tremendously, and I very much appreciated the work you did.
-
-What should you be aware of? Written tone
-Keep in mind that you’re all trying to help each other -- how can you give feedback that will be the most meaningful?
 
 ### You Do: Work Time (10 mins)
 Write out your feedback for your project partner
 
+Keep in mind:
+
+* What should you be aware of? 
+* How does your tone sound?
+* Remember that we're all trying to help each other -- how can you give feedback that will be most meaningful for your partner's growth?
 
 
 
