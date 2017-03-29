@@ -63,6 +63,10 @@ When you are asked that question, recognize that you don't have the context to p
   * Consider all pieces of the offer, is there more value in negotiating another part of the offer than salary?
   * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate. Consider asking for a three - six month review to re-evaluate compensation.
   
+* **Still Feeling Unsure? Keep in Mind that You've Been Working Towards This:**
+  * The communication skills you've been honing during your tenure at Turing ...
+  
+  Provide space for roleplays? 
   
 ### Resources for Follow-Up
 
