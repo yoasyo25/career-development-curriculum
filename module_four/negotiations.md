@@ -29,7 +29,7 @@ Reflect in journals:
 
 * How would you answer the question, *"what are your salary expectations?"* 
 
-When you are asked that question, recognize that you don't have the context to provide an answer -- and you don't have to. Let's discuss why not. 
+When you are asked that question, recognize that you don't have the context to provide an answer -- and you don't have to.
 
 ### Discussion Points
 
