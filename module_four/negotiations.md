@@ -8,8 +8,11 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 ### Session Structure
 
 * Opening (8 mins)
-* Discussion Points (27-32 mins)
-* Q&A (15-20 mins)
+* Discussion Points (32 mins)
+  * Turn & Talk (5 mins) 
+  * Writing (5 mins)
+  * Pair practice (7-8 mins)
+* Q&A (20 mins)
 
 ### Objectives 
 
@@ -25,7 +28,7 @@ Reflect in journals:
 * When you hear the word "negotiating," what words or images come to mind?
 * How are these images/word associations different or similar? 
 
-**Whole Group Discussion:**
+**Turn & Talk:**
 
 * How would you answer the question, *"what are your salary expectations?"* 
 
