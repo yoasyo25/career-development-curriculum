@@ -95,7 +95,7 @@ When you are asked that question, recognize that you don't have the context to p
   * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate
   * Consider asking for a three-month review to set goals and milestones and continue to evaluate what you’re worth
   * Follow that up with a six-month review to evaluate your performance against those goals/milestones
-    * Say something like, *"I want to see these goals, and if I make them by 6 months, I want to then discuss a raise in my salary."* Bring it up in intial negotiation to put it on the table, and even if they do reviews later in the year, it doesn't hurt to ask during the initial negotiation.
+    * Say something like, *"I want to see these goals, and if I make them by 6 months, I want to then discuss a raise in my salary."* Bring it up in initial negotiation to put it on the table, and even if they do reviews later in the year, it doesn't hurt to ask during the initial negotiation.
     
   * Another way to ask is for a signing bonus:
     * *"I know we can’t meet my salary requirements, but what about rounding it out with a signing bonus?"*
