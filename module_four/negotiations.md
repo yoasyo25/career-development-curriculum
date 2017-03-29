@@ -61,6 +61,9 @@ When you are asked that question, recognize that you don't have the context to p
     
   How would you handle an offer like this?
   
+    #### You Do
+  Spend some time thinking about this example offer, and write in your journal some things that you want to consider if this was offered to you.
+  
   * Take at least 24 hours: When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
     * You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
   * Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary?
@@ -77,10 +80,7 @@ When you are asked that question, recognize that you don't have the context to p
     * In this case, create a pro and con list -- to decide which offer you’ll take
     * It’s not a red flag that they need you to hurry necessarily -- maybe they just got a bigger workload
     * Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
-    * You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."*
-    
-  #### You Do
-  Spend some time thinking about this example offer, and write in your journal some things that you want to consider if this was offered to you. 
+    * You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."* 
 
 * **Negotiating an Offer:** Once you have all the facts and can make a decision, go back to the company --
   * Always negotiate in person or via phone, **never through email.**
