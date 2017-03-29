@@ -62,3 +62,10 @@ When you are asked that question, recognize that you don't have the context to p
   * When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Say, *"thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
   * Consider all pieces of the offer, is there more value in negotiating another part of the offer than salary?
   * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate. Consider asking for a three - six month review to re-evaluate compensation.
+  
+  
+### Resources for Follow-Up
+
+* Reach out to Lia, who has studied negotiations practices extensively
+* Reach out to Meg 
+* Check out [this post](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) for more in-depth tips on what was discussed above
