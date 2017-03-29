@@ -33,6 +33,9 @@ When you are asked that question, recognize that you don't have the context to p
 ### Discussion Points
 
 * **Why Negotiating Matters:**
+A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $5,000. But you can pick up $5,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. 
+
+Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) [in tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that is rightfully yours. 
 
 * **Shift your Mindset to Embrace Negotiations:**
   * Could do turn and talk here; what are your initial feelings about the idea of negotiating? 
@@ -41,6 +44,7 @@ When you are asked that question, recognize that you don't have the context to p
 * **Back to the initial question -- "What are your salary expectations?"**
 
   * If asked, *"What are your salary expectations"*, do not put a number on the table -- you can't offer and negotiate for yourself. Instead, say: *"I would love to hear what you're offering for this position so I can have more context for the conversation."*
+  * During this discussion, you may be talking with a hiring manager. Don’t be offended if they ask you again -- they are just doing what they've been told, and they might not be equipped to go through a negotiation at that time. You should still push back about wanting to know more about what is being offered. 
 
 * **Having the Conversation:**
   * Always negotiate in person or via phone, **never through email.**
