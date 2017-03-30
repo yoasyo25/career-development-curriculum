@@ -123,7 +123,7 @@ Blind spots are always present as a gap between the self we think we present and
 
 How could blind spots potentially affect the intent of a feedback giver's words?
 
-What blind spots should we be aware of when we're providing written feeback? 
+What blind spots should we be aware of when we're providing written feedback? 
 
 ### Being Intentional in Giving Feedback
 Clarify your intent by following these 3 guidelines:
