@@ -26,7 +26,11 @@ Front End: this review will happen *three times* in the module.
 ### Session Structure
 
 * Opening (13 mins)
-* 
+* Kinds of Feedback (13 mins)
+* Intent vs. Impact & Blind Spots (18 mins)
+* Example (5 mins)
+* Writing (11 mins)
+
 
 #### Opening
 Why are we talking about this? 
@@ -85,7 +89,7 @@ In order to better recognize our triggers, we need to first understand what kind
 
 Here's more on why feedback can create triggers...
 
-### Intention vs. Impact (15 mins)
+### Intention vs. Impact 
 Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. The way we are impacted by feedback can correspond with one of the three triggers. 
 
 For example:
