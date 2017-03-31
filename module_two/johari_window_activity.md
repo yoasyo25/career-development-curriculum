@@ -26,7 +26,7 @@ Next, sort adjectives that were selected by your peers but not by you into the *
 **Step Five:**
 Adjectives that were not selected by either you or your peers remain in the **Unknown** quadrant. These traits might not apply or because there is a collective ignorance of their existence in your behavior. 
 
-###Adjective List
+### Adjective List
 
 * able
 * accepting
