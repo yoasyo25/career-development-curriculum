@@ -25,11 +25,11 @@ Front End: this review will happen *three times* in the module.
 
 ### Session Structure
 
-* Opening (13 mins)
-* Kinds of Feedback (13 mins)
-* Intent vs. Impact & Blind Spots (18 mins)
+* Opening (14 mins)
+* Kinds of Feedback (17 mins)
+* Intent vs. Impact & Blind Spots (16 mins)
 * Example (5 mins)
-* Writing (11 mins)
+* Writing (8 mins)
 
 
 #### Opening
@@ -44,7 +44,13 @@ The benefits of giving and receiving feedback well include:
 
 **Personal Reflection:**
 
-Think of a couple of pieces of feedback in the recent past that you found tough to receive. Can you recall any physiological reaction that you had to the feedback? What were the most immediate thoughts to go through your mind as you received this feedback? How would you describe your experience in relation to the three triggers (truth, relationship, identity) discussed in the chapter that you read? Which of the three triggers (truth, relationship, or identity) do you find most befuddling and why? What has helped you manage these triggers?
+Think of a couple of pieces of feedback in the recent past that you found tough to receive:
+
+* What were the most immediate thoughts to go through your mind as you received this feedback? 
+* How would you describe your experience in relation to the three triggers (truth, relationship, identity)? 
+* Which of the three triggers do you find most perplexing and why? 
+* What might help you manage these triggers?
+
 
 **Turn & Talk:** Share your experience with a partner
 
@@ -72,7 +78,7 @@ In order to better recognize our triggers, we need to first understand what kind
 		* Aligns expectations and informs decision making
 		
 #### Examples - which type of feedback is this?
-* "I appreciate how you jumped into discussing our Git workflow. I was feeling lost about that, and you helped me understand it more because you took the time to explain what you were doing."
+* "I admire how you jumped into discussing our Git workflow. I was feeling lost about that, and you helped me understand it more because you took the time to explain what you were doing."
 
 * "I would have liked to hear your ideas more. It seemed like you were hesitant to share them with me and questioned yourself a lot. I think the initial brainstorming phase would be a good time to share your ideas so that you can test them out or spend time explaining them in a lower stakes environment."
 
@@ -96,7 +102,7 @@ For example:
 
 | Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
-| You could be more confident | When you don't know something, be confident enough to admit it. | You come across as doubtful or passive; instead, you should give others the impression that you have all the answers. Be a phony. |
+| I think you should work on being more confident | When you don't know something, be confident enough to admit it. | You come across as doubtful or passive; instead, you should give others the impression that you have all the answers. Be a phony. |
 
 * What kind of feedback is this?
 * What other impacts might this message have?
