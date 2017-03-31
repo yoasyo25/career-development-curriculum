@@ -32,6 +32,8 @@ Adjectives that were not selected by either you or your peers remain in the **Un
 * accepting
 * accountable
 * adaptable
+* aggressive
+* assertive
 * available
 * bold
 * brave
@@ -81,6 +83,7 @@ Adjectives that were not selected by either you or your peers remain in the **Un
 * oblivious
 * observant
 * organized
+* passive
 * patient
 * perseverant 
 * positive
@@ -94,7 +97,6 @@ Adjectives that were not selected by either you or your peers remain in the **Un
 * rigid
 * rude
 * searching
-* self-assertive
 * self-conscious
 * selfish
 * selfless
