@@ -1,7 +1,7 @@
 # Strengths & Storytelling
 ## Connecting Through Personal Stories
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/15tibaEz4FVKstwwJ1USsQCZOALCcRMe5KIRbWgcGCoc/edit?usp=sharing)
 
 ### Session Structure
 
