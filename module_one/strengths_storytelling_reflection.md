@@ -6,7 +6,7 @@ Build on your professional story by thinking about how you're progressing at Tur
 
 * How are you different today than when you first started at Turing? Where are you stronger now than on day 1?
 
-* Considering how you describe these themes, how do you want others to see you?
+* Considering how you describe these themes, how do you want others to see you as you continue to progress through Turing?
 
 * How might these themes play a role in describing your Turing story?
 
