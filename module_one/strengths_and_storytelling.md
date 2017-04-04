@@ -59,7 +59,7 @@ Now it's time to think about your own story and about yourself as a compelling c
 * How do you think you demonstrate those values to people around you?
 * Could other people identify your values from your actions/words/presence? Why or why not?
 
-### Small Group Share -- Telling story of how you got here and who you are
+### Small Group Share
 
 Students will get into groups of 4 to discuss key takeaways from their individual reflection. Each group member should get 3 minutes to talk (uninterrupted about the first two reflection questions). Assign someone to keep time. You will have additional time in your group after everyone shares. With that additional time, discuss your ideas for this final question:
 
