@@ -65,7 +65,7 @@ Students will get into groups of 4 to discuss key takeaways from their individua
 
 * How can we operate as a cohort to build on our similarities and learn from our differences?
 
-### Whole Group Share -- Possibly a different question
+### Whole Group Share 
 
 Each groups's presenter shares their groups discussion of "How do you think these differences/similarites will impact your cohort?" 
 
