@@ -134,6 +134,7 @@ When you are asked that question, recognize that you don't have the context to p
 * Reach out to Lia, who has studied negotiations practices extensively
 * Reach out to Meg 
 * Check out [this post](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) for more in-depth tips on what was discussed above
+* [Scenarios and discussion on negotiating as a woman](https://www.washingtonpost.com/graphics/business/womens-wages/salary-negotiation-guide-women/?utm_term=.cc721527f9ac)
 
 ### FAQs
 
