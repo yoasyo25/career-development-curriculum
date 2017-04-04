@@ -106,8 +106,8 @@ As your prepare for graduation, you'll be asked to tell the story of your Turing
 Examples of presentation slides: 
 
 * [Matt Kaufman, 1608-FE](http://slides.com/mattkaufman/deck#/)
-* [Ali Schlereth, 1608-BE](
-* [Noah Berman, 1608-BE](
+* [Ali Schlereth, 1608-BE](https://github.com/turingschool/career-development-curriculum/blob/master/files/Ali_LightningTalk.pdf)
+* [Noah Berman, 1608-BE](https://github.com/turingschool/career-development-curriculum/blob/master/files/noah_berman_last_day_presentation.pdf)
 
 ### Closing
 
