@@ -17,20 +17,26 @@ Right & Wrong Spotting (20 mins)
     Talk through examples with a partner & then share
   Work time: Spend time reflecting on feedback that you've gotten; create a right and wrong spotting column and writing out any questions that you need to ask
 
-Johari Windows/Personal Reflections (20-30 mins)
+Johari Windows/Personal Reflections (20 mins sorting through JW, 10 mins on personal reflection -- knowing they will be coached)
 
-Appreciative Inquiry (30 mins)??????????
-  Discuss 5D approach to appreciative inquiry
+Appreciative Inquiry (30 mins)
+  Discuss 5D approach to appreciative inquiry -- using this to unearth ways you can apply the feedback you've been given
   Coach each other based on what you've discovered during your reflections
-  Find Ways to Take Feedback
+ 
+
+### Why
+In your third and final feedback session, we'll dive into 
+
+Why do we focus on ...
 
 ### Objectives
 
 * 
+* Apply Appreciative Inquiry coaching techniques to group coaching
 
 ### Deliverable
 
-Have a feedback conversation and document it using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+
 
 ### Opening
 Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?
