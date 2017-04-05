@@ -54,7 +54,7 @@ Sharing from 1-2 people -- what was compelling about your partner's story?
 Now it's time to think about your own story and about yourself as a compelling character. In your journals, reflect on the following questions:
 
 * What brought you here to Turing and this new career?  
-* What lenses or identities do you view the world through most often?
+* What lenses or identities do you view the world through most often? (Examples of lenses:  gender, ethnicity, family, birthplace, culture, parental status, etc.)
 * What are the values that drive you?
 * How do you think you demonstrate those values to people around you?
 * Could other people identify your values from your actions/words/presence? Why or why not?
