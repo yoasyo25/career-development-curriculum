@@ -114,7 +114,7 @@ When you are asked that question, recognize that you don't have the context to p
 
 * **Keep in Mind:**
   * Don’t negotiate too high, so you don’t waste that extra money you could’ve negotiated earlier
-  * Negotiating just an extra $5000 or less isn’t worth it -- it doesn’t even out to a lot of money. It’s not worth it and could make you look petty. You don't want to ruin a relationship over it
+  * Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
   * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back. 
     * In the 500-600 people that Lia has had experience with coaching negotiations, that has only happened once. 
     * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
