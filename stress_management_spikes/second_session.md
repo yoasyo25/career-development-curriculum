@@ -5,10 +5,11 @@
 
 Length: 20 hours
 
-* Defining Stress (20 mins)
+* Defining Stress (15 mins)
 * Rethinking Stress Exercises (40 mins)
 * Transforming Stress Exercises (40 mins)
 * Goal-Setting (20 mins)
+* Closing (5 mins)
 
 ### Objectives
 
@@ -20,6 +21,7 @@ Students will leave session with...
   Hook: List multiple situations and students identify when they hear something "stressful"
   
   * How do we define stress? Students pinpoint what it was from the examples that described "stress"
+  * How can we know when something is a "minor stress" compared to a "major stress"?
   * How is *suffering* different from *stress*?
   
   Definition (from Upside of Stress): Stress is what arises when something you care about is at stake.
@@ -30,6 +32,9 @@ Students will leave session with...
 ### Rethinking Stress Exercises
 
 
-### Transformign Stress Exercises
+### Transforming Stress Exercises
 
 ### Goal-Setting
+
+### Closing
+Come back to the initial brainstorms about levels and differentiations of stress
