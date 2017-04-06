@@ -25,9 +25,11 @@ Appreciative Inquiry (30 mins)
  
 
 ### Why
-In your third and final feedback session, we'll dive into 
+In your third and final feedback session, we'll spend time reflecting on how we can find meaning in the feedback we receive and make concrete action plans for how to improve our practices and behaviors. 
 
-Why do we focus on ...
+What value is there in using feedback for personal growth? Why is this something we're talking about at Turing?
+
+* Whole Group Discussion
 
 ### Objectives
 
@@ -44,12 +46,23 @@ Why is working on our skills for giving and receiving feedback so important? Why
 * Whole group discussion
 * Discuss objectives and deliverable
 
-### Intent vs. Impact
-Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. 
+### Feedback Tests Our Growth Mindsets
+Review: what is a growth mindset? 
 
-| Feedback | Giver's Intent | Giver's Impact |
-| ------ | ---------------- | ---------------- |
-| Be more confident | When you don't know something, be confident enough to admit it. | You should give others the impression that you have all the answers |
+Pulse Check: How much does this sound like you?
+
+| To What Degree is this Me? | Never, Occasionally, Sometimes, Often, Always |
+| ------ | ---------------- | 
+| I love feedback. | 1 - 2 - 3 - 4 - 5 | 
+| I have someone who serves as a supportive mirror for me. | 1 - 2 - 3 - 4 - 5 |
+| I separate the strands of feeling, my story, and the feedback. | 1 - 2 - 3 - 4 - 5 |
+| I view tough situations as learning opportunities. | 1 - 2 - 3 - 4 - 5 |
+| I reward myself when I get something helpful from feedback because of the way I handled it.  | 1 - 2 - 3 - 4 - 5 |
+
+
+
+
+
 
 #### Whole Group Discussion
 What kind of feedback is the giver providing here? Reminder - the 3 types of feedback are:
