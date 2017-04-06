@@ -14,14 +14,6 @@ Length: 90 minutes
 * Appreciative Inquiry (25 mins.)
 * Closing (5 mins.)
 
-
-Johari Windows/Personal Reflections (20 mins sorting through JW, 10 mins on personal reflection -- knowing they will be coached)
-
-Appreciative Inquiry (30 mins)
-  Discuss 5D approach to appreciative inquiry -- using this to unearth ways you can apply the feedback you've been given
-  Coach each other based on what you've discovered during your reflections
- 
-
 ### Why
 In your third and final feedback session, we'll spend time reflecting on how we can find meaning in the feedback we receive and make concrete action plans for how to improve our practices and behaviors. 
 
@@ -31,8 +23,11 @@ What value is there in using feedback for personal growth? Why is this something
 
 ### Objectives
 
-* 
+* Analyze our reactions and feelings about feedback
+* Discuss and apply the Right & Wrong Spotting Technique to feedback reflections
+* Use the Johari Window technique to recognize your own blind spots
 * Apply Appreciative Inquiry coaching techniques to group coaching
+* Create goals for how to improve your collaboration practices
 
 ### Deliverable
 Use your Johari Windows and coaching practice today to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) in a gist to submit via the [PD deliverables submission repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
@@ -69,7 +64,7 @@ Turn to the person next to you to discuss your reflections on the above statemen
 When we receive feedback, often our first reaction is that it's wrong or unhelpful. That's a valid feeling resulting from a trigger and the impact that the feedback has on you -- go with it. Pay attention to why you're having this impact. 
 
 **In the moment:**
-Hone in on your internal voice to pay attention to what could be triggering you
+Hone in on your internal voice to pay attention to what could be triggering you:
 
 | Internal Voice | Listen For: | Ask: |
 | ----------- | ------------ | ------------ |
@@ -88,10 +83,37 @@ Use the Right & Wrong Spotting Technique to turn the feedback into something use
 Allison will model how she would use the Right & Wrong Spotting technique to parse through feedback.
 
 #### You Do
-Spend 
+Spend 10 minutes reflecting on feedback that you've received recently. Create a right and wrong spotting table and write out any questions that you have still to clarify that feedback further. You'll need to make sure to ask these questions from your previous partners later!
 
-  How this relates to triggers
-  Examples with internal voices
-    Talk through examples with a partner & then share
-  Work time: Spend time reflecting on feedback that you've gotten; create a right and wrong spotting column and writing out any questions that you need to ask
+### Johari Windows
 
+
+Complete the [Johari Window activity]() using the adjectives you and your teammates identified for you ahead of time. 
+
+Analyze:
+
+* What do you notice about each quadrant? 
+* For the Blind Spot quadrant, is there anything you'd like to build more awareness around? How will you do that? 
+
+
+#### You Do
+Spend 15 minutes creating your Johari Windows and then the last 10 minutes of this practice time on your reflection. Keep in mind that you'll be coaching each other in the next part of the lesson. 
+
+### Appreciative Inquiry
+Appreciative Inquiry is a coaching technique that...
+
+  Discuss 5D approach to appreciative inquiry -- using this to unearth ways you can apply the feedback you've been given
+
+### You Do
+Find a partner for coaching practice. Coaching practice will follow this pattern:
+
+* Spend 1 minute deciding on questions you'll ask your partner
+* Partner A asks questions of Partner B for 5 minutes. Partner B should take notes on any takeaways.
+* Switch - Partner B asks questions of Partner A for 5 minutes. Partner A should take notes on any takeaways.
+
+### Goal-Setting
+Take what you learned from your Appreciative Inquiry conversations to create some goals for yourself. Consider:
+
+* 
+
+### Closing
