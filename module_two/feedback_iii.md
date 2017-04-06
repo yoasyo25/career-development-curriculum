@@ -73,19 +73,9 @@ Hone in on your internal voice to pay attention to what could be triggering you
 
 | Internal Voice | Listen For: | Ask: |
 | ------ | ------------ | ---------- |
-| TRUTH
-That’s wrong.
-That’s not helpful.
-That’s not me | **Data** they have that I don’t and
-interpretations they have that are
-different from mine
-**Impacts** I’m hearing that I may not be
-aware of because of my blind spots | * Can you give me an example?
-* What did that mean to you?
-* What are your concerns?
-* What do you see me doing that’s getting in my
-own way?
-* How did that affect you? |
+| TRUTH<br>That’s wrong.<br>That’s not helpful.<br>That’s not me | **Data** they have that I don’t and
+interpretations they have that are different from mine<br>**Impacts** I’m hearing that I may not be
+aware of because of my blind spots | Can you give me an example?<br>What did that mean to you?<br>What are your concerns?<br>What do you see me doing that’s getting in my own way?<br>How did that affect you? |
 
 
 **Upon further reflection:**
