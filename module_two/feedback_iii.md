@@ -72,9 +72,11 @@ When we receive feedback, often our first reaction is that it's wrong or unhelpf
 Hone in on your internal voice to pay attention to what could be triggering you
 
 | Internal Voice | Listen For: | Ask: |
-| ------ | ------------ | ---------- |
-| TRUTH<br>That’s wrong.<br>That’s not helpful.<br>That’s not me | **Data** they have that I don’t and interpretations they have that are different from mine<br>**Impacts** I’m hearing that I may not be aware of because of my blind spots | Can you give me an example?<br>What did that mean to you?<br>What are your concerns?<br>What do you see me doing that’s getting in my own way?<br>How did that affect you? |
-
+| ----------- | ------------ | ------------ |
+| **TRUTH**<br>That’s wrong.<br>That’s not helpful.<br>That’s not me | **Data** they have that I don’t and interpretations they have that are different from mine<br>**Impacts** I’m hearing that I may not be aware of because of my blind spots | Can you give me an example?<br>What did that mean to you?<br>What are your concerns?<br>What do you see me doing that’s getting in my own way?<br>How did that affect you? |
+| **RELATIONSHIP**<br>After all I’ve done for you?<br>Who are you to say?<br>You’re the problem, not me. | **Changing the topic** to the relationship<br>**Systems** between us; what each of us is contributing to the relationship tensions | Help me understand your feedback then I want to talk about some of my relationship concerns.<br>What do you see me contributing to the problem between us?<br>What is most upsetting to you and why? |
+| **IDENTITY**<br>I screw up everything.<br>I’m doomed.<br>I’m not a bad person, am I? | **My wiring:** how sensitive I am to
+feedback and how quickly I recover<br>**Opportunities** for me to sort through for coaching; what I can use for growth and learning | Help me put your feedback in perspective with how you view me overall.<br>What could I do that would help me improve?<br>What could I change that would matter most to you? |
 
 **Upon further reflection:**
 Use the Right & Wrong Spotting Technique to turn the feedback into something useful. Start by listing everything that seems wrong about the feedback. And then go back through the feedback and pull out what might be *right* about it -- what truth is there in this feedback? What is something that you can easily implement?
