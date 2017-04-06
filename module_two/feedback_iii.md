@@ -32,12 +32,6 @@ What value is there in using feedback for personal growth? Why is this something
 ### Deliverable
 Use your Johari Windows and coaching practice today to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) in a gist to submit via the [PD deliverables submission repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
 
-### Opening
-Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?
-
-* Whole group discussion
-* Discuss objectives and deliverable
-
 ### Feedback Tests Our Growth Mindsets
 Review: what is a growth mindset? How do you think feedback might affect a growth mindset?
 
