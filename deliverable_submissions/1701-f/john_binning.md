@@ -9,3 +9,6 @@
 * Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+
+[Link](https://gist.github.com/JohnBinning/d2e70dc0092c7c5cf81c2dfe2dbaf5f7)
+
