@@ -15,5 +15,5 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 
 ### Schedule a Mock Interview
 
-* Ian Douglas
+* [Ian Douglas](iandouglas.youcanbook.me)
 * Marina Corona
