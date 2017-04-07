@@ -80,34 +80,61 @@ Allison will model how she would use the Right & Wrong Spotting technique to par
 Spend 10 minutes reflecting on feedback that you've received recently. Create a right and wrong spotting table and write out any questions that you have still to clarify that feedback further. You'll need to make sure to ask these questions from your previous partners later!
 
 ### Johari Windows
+Created by psychologists Joseph Luft and Harrington Ingham in 1955 (and named for them, combining the names Joe and Harry), the Johari Window is a technique used to help people better understand their relationship with themselves and others.
 
-
-Complete the [Johari Window activity]() using the adjectives you and your teammates identified for you ahead of time. 
+Complete the [Johari Window activity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. Create your own copy of the [Johari Window](https://docs.google.com/document/d/1IFaKPTEA3V96i8cboxqeAfgKEyEbigwIxQ5KQ-lp440/edit?usp=sharing).
 
 Analyze:
 
 * What do you notice about each quadrant? 
 * For the Blind Spot quadrant, is there anything you'd like to build more awareness around? How will you do that? 
 
-
 #### You Do
-Spend 15 minutes creating your Johari Windows and then the last 10 minutes of this practice time on your reflection. Keep in mind that you'll be coaching each other in the next part of the lesson. 
+Spend 15 minutes creating your Johari Windows and then the last 10 minutes of this practice time on [your reflection](https://github.com/turingschool/career-development-curriculum/edit/master/module_two/feedback_implementation_strengths_reflection.md). Keep in mind that you'll be coaching each other in the next part of the lesson. 
 
 ### Appreciative Inquiry
-Appreciative Inquiry is a coaching technique that...
+Appreciative Inquiry is a coaching technique that is focused on bringing about positive change. It is based on the idea that human beings move in the direction of what we ask about, and if we deliberately ask positive questions around affirmative topics, such as core values, peak experiences, best practices, and worthy accomplishments, we can ignite constructive dialogue and inspire action within organizations, communities, and individuals.
 
-  Discuss 5D approach to appreciative inquiry -- using this to unearth ways you can apply the feedback you've been given
+Today we'll use the 5D approach to appreciative inquiry to unearth ways you can apply the feedback you've been given. Instead of trying to figure out problems need to be solved from this feedback, Appreciative Inquiry's underlying assumption is that people are full of assets, capabilities, resources, and strengths that can be located, affirmed, leveraged, and encouraged. 
+
+The Appreciative Inquiry model follows this 5D approach:
+
+* Definition - selecting the right topic
+* Discovery - focusing on the best within that topic domain
+* Dream - envisioning possibilities
+* Design - creating prototypes of what should be
+* Destiny/Delivery - innovating and improvising fresh solutions
+
+*For more on Appreciative Inquiry and why it's helpful in professional development, check out this [article](https://www.forbes.com/sites/brettsteenbarger/2015/06/21/appreciative-inquiry-leading-by-asking-the-right-questions/2/#1a104b293767).*
+
+Here are some examples of Appreciative Inquiry questions:
+
+* What are you doing well right now, according to the data from you and your peers?
+* What feedback can you use to reenergize your approach to pairing practices?
+* Who are you when you're functioning at your best?
+* Tell me about a peak experience when you were functioning at your best without worrying about how others would approve or evaluate you, knowing you were doing your very best work.
+* What factors allow you to be most successful, and how can you create these circumstances?
+* What is your personal mission for what you want from your professional development?
+* What have you already learned that you can leverage and amplify?
+* What in your past successes provides the information that will help you be even more successful/creative/wise/powerful in the future?
+* When you think of your best self and where you'd like to go with your professional development, what is one step you want to take to get there?
 
 ### You Do
 Find a partner for coaching practice. Coaching practice will follow this pattern:
 
-* Spend 1 minute deciding on questions you'll ask your partner
-* Partner A asks questions of Partner B for 5 minutes. Partner B should take notes on any takeaways.
-* Switch - Partner B asks questions of Partner A for 5 minutes. Partner A should take notes on any takeaways.
+* Spend 1 minute deciding on 3-4 questions from the above list that you want your partner to ask you; you can also generate your own questions. 
+* Partner A asks questions of Partner B for 5 minutes. Partner A should ask any follow-up questions that can help clarify what Partner B is saying. Partner B should take notes on any takeaways.
+* Switch - Partner B asks questions of Partner A for 5 minutes. Partner B should ask any follow-up questions that can help clarify what Partner A is saying. Partner A should take notes on any takeaways.
 
 ### Goal-Setting
 Take what you learned from your Appreciative Inquiry conversations to create some goals for yourself. Consider:
 
-* 
+* As you finish up Module Two, what do you want to keep doing and what changes would you like to make?
+* As you look ahead to Module Three, what do you want to accomplish? How will you do that?
+* As you think about your upcoming job search, how will you approach it using what you do best?
+* Envision that it's a year from now. What is different in your life? How did you make that happen? What is the same and why?
 
 ### Closing
+Questions & Takeaways
+
+How will you use this experience to continue your growth at Turing and beyond?
