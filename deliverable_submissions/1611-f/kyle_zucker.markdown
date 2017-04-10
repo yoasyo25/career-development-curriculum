@@ -50,5 +50,5 @@
  
  ## What I Will Work on with Meg
  *What advice do you need? What would be helpful to talk through? Let Meg know here!*
- I've never met Meg! I'd like to talk about fake I have to be in order to "impress" hiring folks. 
+ I've never met Meg! I'd like to talk about fake I have to be in order to "impress" hiring folks. I'm also in a wierd place where my past failures in job hunting haunt my confidence moving forward. I feel I have to keep un-invested in any oppurtunity as I feel any oppurtunity is destined for failure. Oddly enough, I blame over-confidence for past failures. So overall my self-feedback now restricts any enthusiasm for job searching, while in the past I felt much more confident in my ability to land a gig. Now that same confidence feels wrong and my efforts are in vain. 
 
