@@ -1,14 +1,45 @@
 # Job Search Strategies II
 
+[Slides for this session](
+
+### The Why
+
+
 ### Objectives
 * Identify your top priorities in your job search 
 * Devise an action plan for post-graduation (you will use this plan when meeting with Meg)
 * Create a schedule for completing your goals
 
 ### Deliverable
+Discuss deliverable in depth....
+
+
 Create a job search action plan to share with Meg for how you will approach the job search after your graduation from Turing. 
 
 ### Opening
+You're here to embark on a new and satsifying career -- not just to find a job. 
+
+
+
+**Turn & Talk:** Turn to the person next to you to share updates on your job search:
+
+* How has your job search gone during this module? 
+* Did you find that you were able to use the plan you outlined at the end of Module 3?
+* Where have you focused your priorities? 
+* What's been successful for you?
+
+
+
+
+
+
+
+
+
+
+
+
+
 Job searching takes work. In fact, it may as well be a full-time job in itself. In this session, we'll discuss how you can create the structure needed to keep up with your job search in an effective way. 
 
 ### Post-Graduation Planning
