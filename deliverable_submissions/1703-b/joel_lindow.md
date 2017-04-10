@@ -1,5 +1,8 @@
 # Joel Lindow
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Link to DTR Memo: 
+https://gist.github.com/JoelLindow/4493eac4e98ac6d7b0811e15de180049
+
+* Link to gist documenting your strengths & storytelling reflection:
+https://gist.github.com/JoelLindow/4f6f2626a0bfe2ca58296e40ccaffeff
