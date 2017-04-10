@@ -1,6 +1,6 @@
 # Job Search Strategies II
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/15x2PaHDMICCjxBnKsMMlykp3xWsInDfwlyW3y9yKkwA/edit?usp=sharing)
 
 ### The Why
 
