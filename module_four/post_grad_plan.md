@@ -9,16 +9,26 @@ Some things to consider:
 * What do you envision for your career?
 * What do you want your 2nd and 3rd jobs to look like?
 * How do you want to be involved with the Turing community? The greater developer community?
-* 
+* Where do your passions lie?
 
 Fill out the first and second parts of this plan. The third part is optional although highly encouraged. 
 
+**Note:** If you have already secured a job prior to graduation, skip the first part of this plan and please fill out the second part of this plan. 
+
 ## Schedule & Goals for the Job Search
+1. Design a 40-hour "work week" that provides time for: 
+	* Code
+	* Outreach
+	* Research 
+	* Network   
+	* Any other areas where you'd like to grow
+How much time will you spend on each? When will you do each thing?
 
-#### Backwards planning: when do you want to receive and sign an offer by?
+
+2. Backwards planning: when do you want to receive and sign an offer by?
 
 
-#### What are your monthly and weekly goals to achieve that? Keep in mind goals for coding, researching, networking, cold outreach, and interviews
+3. What are your monthly and weekly goals to achieve that? Keep in mind goals for coding, researching, networking, cold outreach, and interviews
 
 * What skills would you like to improve or develop?
 
