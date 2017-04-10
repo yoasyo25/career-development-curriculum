@@ -11,7 +11,14 @@ Some things to consider:
 * How do you want to be involved with the Turing community? The greater developer community?
 * Where do your passions lie?
 
-Fill out the first and second parts of this plan. The third part is optional although highly encouraged. 
+### How to complete this plan:
+
+Fill out the first two parts of this plan:
+
+	1. Job Search Plan
+	2. Longterm Career Plan
+
+The third part is optional although highly encouraged. 
 
 **Note:** If you have already secured a job prior to graduation, skip the first part of this plan and please fill out the second part of this plan. 
 
