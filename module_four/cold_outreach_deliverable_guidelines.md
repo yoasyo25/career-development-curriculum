@@ -3,7 +3,7 @@
 * Company of Contact
   * "Allstate"
 
-* Person of contact and relevant postion 
+* Person of contact and relevant position 
   * "Joe Schneider, Senior Software Developer"
 
 * Date of contact
