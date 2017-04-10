@@ -22,7 +22,7 @@ The third part is optional although highly encouraged.
 
 **Note:** If you have already secured a job prior to graduation, skip the first part of this plan and please fill out the second part of this plan. 
 
-## Schedule & Goals for the Job Search
+## #1: Job Search Plan: Create a schedule & goals
 1. Design a 40-hour "work week" that provides time for: 
 	* Code
 	* Outreach
@@ -32,26 +32,33 @@ The third part is optional although highly encouraged.
 How much time will you spend on each? When will you do each thing?
 
 
+
 2. Backwards planning: when do you want to receive and sign an offer by?
+
 
 
 3. What are your monthly and weekly goals to achieve that? Keep in mind goals for coding, researching, networking, cold outreach, and interviews
 
+Keep in mind:
+
 * What skills would you like to improve or develop?
+* What is feasible in your schedule?
+* What actions will give you the most impact in your search?
 
 
+**[Example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7)** of clearly outlined goals and schedule to complete them. 
 
-Here is an [example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7) of clearly outlined goals and schedule to complete them. 
 
-## Longterm Goal-setting
+## #2: Longterm Career Plan: What are your career goals?
 Where do you want to go in your career? 
 
-Reflect a [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
+Reflect on this [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
 
 	Come up with your ending before you figure out your middle. Seriously. 
 	Endings are hard, get yours working up front.
 	
 1. Imagine that it's 5 years from now - what have you accomplished during that time? How is your life different? What steps did you take to achieve your goals?
+
 
 2. Create a vision statement for these longterm goals.
 
@@ -66,24 +73,39 @@ Reflect a [narrative rule described by Emma Coats, former Pixar story artist](ht
 
 
 
-
-
 ## Optional: Furthering your Skills and Contributing to the Developer Community
 You're encouraged to pick one of the below options to work on in addition to the previous two. However, these are both completely optional.
 
-### Side Hustle Plan
-What side project(s) do you want to work on? How could you 
+### Option #1: Side Hustle Plan
+What side project(s) do you want to work on? How could you decide on a side project?
 
-* Read about 
+Take these steps:
 
-Optional: 
--3. Options (encouraged to pick at least 1): 
-	-Side hustle: what side projects do you want to work on?
-		-Deliverable: read about side projects; brainstorm your own ideas and then document a plan for your side project
-	-Open Source: Similar to what they now do during the module; go find an OS project and list a couple projects you’d be interested in, why you’re interested, how you’ll contribute (it’s just a plan to contribute)
-	-Community Involvement: list 3 conferences and info about them, list 3 meetups and their details, come up blog post ideas (planning to contribute to the community)
+1. Generate and come up with an idea:
+	* Read and research -- what problems need solving?
+	* Brainstorm -- what's important to you?
+	* Have fun! What would be fun and exciting to try out?
 
-Career Plan
--Envisioning the future using strengths
--For both already have jobs and are looking for jobs
--Where are you going in your career?
+2. Document a plan for your side project:
+	* What will your MVP look like?
+	* When do you want working software by?
+	* Who are your users?
+	* Etc.
+
+
+
+### Option #2: Open Source Project
+How do you want to contribute to the developer community? 
+
+* Find an Open Source project couple projects you’d be interested in, why you’re interested, how you would like to contribute
+
+
+
+### Option #3: Community Involvement
+How do you want to be involved in the developer community?
+
+How you could approach this option:
+
+* Research at least 3 conferences you'd be interested in attending -- what would you get out of them? Do you want to speak at a conference at some point?
+* Find 3 new meetups to join -- how could you contribute to those meetups?
+* Write 3 new blog posts -- how can you share information with others?
