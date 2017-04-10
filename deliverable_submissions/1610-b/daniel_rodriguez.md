@@ -1,8 +1,10 @@
 # Daniel Rodriguez
 
 ## Mod 4 Deliverables:
-* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+* Link to overview of 6 Cold Outreach emails: 
+https://gist.github.com/drod1000/6646a1ae067862423a2c6f6c09d142dc
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
+https://www.turing.io/alumni/daniel-rodriguez
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
 
 
