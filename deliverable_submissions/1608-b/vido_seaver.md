@@ -1,6 +1,6 @@
 # Vido Seaver
 
-## Module 4 Deliverables:
+## Module 4 Deliverables: https://www.turing.io/alumni/vido-seaver
 
 ### Link to Turing Alumni Portfolio: https://www.turing.io/alumni/vido-seaver
 
