@@ -15,8 +15,8 @@ Some things to consider:
 
 Fill out the first two parts of this plan:
 
-	1. Job Search Plan
-	2. Longterm Career Plan
+1. Job Search Plan
+2. Longterm Career Plan
 
 The third part is optional although highly encouraged. 
 
