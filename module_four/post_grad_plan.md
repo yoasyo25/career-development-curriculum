@@ -38,11 +38,11 @@ Reflect a [narrative rule described by Emma Coats, former Pixar story artist](ht
 
 2. Create a vision statement for these longterm goals.
 
-Guidelines for writing your vision statement:
+	Guidelines for writing your vision statement:
 
-* Make your statements stretching, challenging, and interrupting of the status quo.
-* Write in the future tense (I will...)
-* Is the statement grounded -- have you been able to demonstrate something similar in the past?
+	* Make your statements stretching, challenging, and interrupting of the status quo.
+	* Write in the future tense (I will...)
+	* Is the statement grounded -- have you been able to demonstrate something similar in the past?
 
 
 3. Reference what you outlined in your Flower Exercise -- what preferred level of responsibility do you want to move to? Do you want to start your own company? What kind of work do you see yourself doing longterm? In your first year on the job, what skills do you want to develop to work towards your longterm goals?
