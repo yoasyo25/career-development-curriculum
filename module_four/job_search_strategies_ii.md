@@ -2,24 +2,32 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/15x2PaHDMICCjxBnKsMMlykp3xWsInDfwlyW3y9yKkwA/edit?usp=sharing)
 
-### The Why
+### Session Structure
 
+Length: 60 minutes
+
+* Opening (10 mins)
+* Intro to Barriers (2 mins)
+* Group Discussion (18 mins)
+* Whole Group Share Out & Synthesis (10 mins)
+* Plan Work Time (20 mins)
 
 ### Objectives
-* Identify your top priorities in your job search 
-* Devise an action plan for post-graduation (you will use this plan when meeting with Meg)
+* Identify areas where you might place barriers on yourself in terms of the job search
+* Devise an action plan to overcome those barriers
+* Create an updated action plan for your job search (you will use this plan when meeting with Meg)
+* Envision your longterm career path to align your job search
 * Create a schedule for completing your goals
 
 ### Deliverable
-Discuss deliverable in depth....
+The deliverable out of today's session is an [action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) -- both for your current job search and defining your longterm career goals. There is also an optional part of the plan in which you can strategize other ways you would like to grow and contribute to the developer community. 
 
-
-Create a job search action plan to share with Meg for how you will approach the job search after your graduation from Turing. 
+You will need to complete and submit this plan to Meg for any post-grad job search support from her. Remember, this action plan is a draft and will likely change. That is okay. But you need to start somewhere. 
 
 ### Opening
-You're here to embark on a new and satsifying career -- not just to find a job. 
+You're here to embark on a new and satsifying career -- not just to find a job. But we recognize where you are right now -- you've been in this program for almost 7+ months now, and you're ready to be back at work. This urgency can create all kinds of emotions, some of which are helpful for the job search and some of which aren't. Today, we'll discuss continuing to create strategies and longterm goals in order to navigate this scary/exciting time in a meaningful and successful way. The most important thing to remember is that you're not alone in this -- there are lots of tools available to you for you to utilize.
 
-
+Let's start by sharing what's worked well so far. 
 
 **Turn & Talk:** Turn to the person next to you to share updates on your job search:
 
@@ -28,52 +36,49 @@ You're here to embark on a new and satsifying career -- not just to find a job.
 * Where have you focused your priorities? 
 * What's been successful for you?
 
+**Whole Group Shareout:**
+2-3 partners share out
 
+* What strategies have been successful?
+* What got in the way?
 
+### (Perceived) Barriers to your Job Search
+We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
 
+* Examples of barriers:
+	* "I talk myself out of applying to certain jobs because I don’t meet enough of the listed qualifications."
+*This is common among women.*
+	* "I don’t feel comfortable networking. It feels forced, and I don’t want to do something that doesn’t feel genuine, so I stay home from meet-ups."
+	* "Interviews make me really nervous, so I end up performing badly. It’s hard for me to code or communicate on the spot."
+	* "I just want a job." When you don't clarify what you want, it can cause your job search to meander, and this could be a barrier for what you really want. 
 
+What are some barriers you might carry with you? Think about these areas:
 
-
-
-
-
-
-
-
-Job searching takes work. In fact, it may as well be a full-time job in itself. In this session, we'll discuss how you can create the structure needed to keep up with your job search in an effective way. 
-
-### Post-Graduation Planning
-Treat your schedule as though it is a 40-hour work week and divide your time between:
-
-* Code
-* Research
-* Outreach
+* Entering the Software Industry
+* Cold Outreach
 * Networking
+* Interviewing (either technical or culture fit)
+* Personal Branding for yourself
+* Other -- what other anxieties do you have that aren't covered in the other categories? 
 
-Ideally, two to four hours per day will be dedicated to code. 
+#### Group Discussion
+Get into groups of 3-4 people to discuss job search barriers. Everyone will get 2 minutes to describe what job search barriers they identify with, and then for 10 minutes, as a group, discuss possible strategies and action steps for overcoming those barriers. The goal here is to vocalize what could hold us back in the job search in order to increase accountability within your cohort and also help each other find solutions.
 
-### Goal Setting
-To define your goals for your plan, first ask yourself some questions to generate your longterm goal:
+Please assign a timekeeper, a notetaker, and a presenter. At the end of this discussion, each group will present out a 1-2 barriers discussed and what action steps will move them past those barriers.
 
-- When is your absolute cut-off for completing your job search?
-- When would you realistically like to have your job search completed by?
+#### Whole Group Share Out & Synthesis
+Each group's presenter will have 2 minutes to present the barriers they discussed and their proposed action steps. 
 
-**Strategy:** After setting your longterm goal for the job search, build a backwards plan:
 
-- 1. Set Monthly Goals: Using the date by which you'd like to complete your longterm goal, identify what needs to happen on a monthly basis to reach that date.
-	Example: If I want a job within six weeks after completing Turing, I would need to have at least three interviews within the first month after Turing.
-- 2. Set Weekly Goals: Based on the monthly goal, what needs to happen on a weekly basis to reach those goals?
-	Example: If I want at least three interviews within the first month, I would need to have at least 12 new conversations per week.
-- 3. Set Daily Goals: Based on the weekly goal, what needs to happen on a daily basis to reach the weekly goals?
-	Example: If I want at least 12 new conversations per week, I would need to send at least five cold/warm outreach emails per day.
+### Start Planning
+Take the rest of the session to work on your deliverable. 
 
-**Goal-setting Tips:** Spend thirty minutes each day and an hour each week assessing how your tasks align with your goals. Make adjustments as needed -- *it's so important to be flexible, kind to yourself, and realistic with time.*
+**Goal-setting Tips:** Spend thirty minutes each day and an hour each week assessing how your tasks align with your goals. Make adjustments as needed and be:
 
-### Tools
-If you somehow made it through Turing without using a calendar of some kind, congratulations -- you'll start using one now. Block out time on your calendar for each task you'll complete based on the amount of time you think is adequate. 
+* Flexible
+* Kind to yourself
+* Realistic with your time
 
-At the end of the week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. 
-
-Put your plan into a gist to share with Meg. Here's an [example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7) for your reference. 
+Put your plan into a gist to share with Meg. Here's an [example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7) of what this can look like for your reference. 
 
 Meg will send you a newsletter each week focused specifically on job searching tips. Make sure to read that newsletter and set up 1-on-1s with her regularly to discuss your search progress. You can schedule time with Meg [here](https://megstew.youcanbook.me/index.jsp) and the password is *complete*.
