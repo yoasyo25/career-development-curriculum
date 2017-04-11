@@ -13,7 +13,7 @@ Some things to consider:
 
 ### How to complete this plan:
 
-Fill out the first two parts of this plan:
+Create a gist from this template and fill out the first two parts of this plan:
 
 1. Job Search Plan
 2. Longterm Career Plan
@@ -24,7 +24,7 @@ The third part is optional although highly encouraged.
 
 ## #1: Job Search Plan: Create a schedule & goals
 1. Design a 40-hour "work week" that provides time for: 
-	* Code
+	* Code (ideally, 2-4 hours a day will be dedicated to coding)
 	* Outreach
 	* Research 
 	* Network   
@@ -33,11 +33,11 @@ How much time will you spend on each? When will you do each thing?
 
 
 
-2. Backwards planning: when do you want to receive and sign an offer by?
+2. Backwards planning: What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
 
 
 
-3. What are your monthly and weekly goals to achieve that? Keep in mind goals for coding, researching, networking, cold outreach, and interviews
+3. Based on what you outlined above, create monthly, weekly, and daily goals in order to reach your big goal.
 
 Keep in mind:
 
@@ -46,7 +46,17 @@ Keep in mind:
 * What actions will give you the most impact in your search?
 
 
-4. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
+
+4. Block out time on your calendar *now* to adhere to these goals. At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. 
+
+
+
+
+
+5. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
+
+
+
 
 
 
