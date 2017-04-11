@@ -46,6 +46,10 @@ Keep in mind:
 * What actions will give you the most impact in your search?
 
 
+4. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
+
+
+
 **[Example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7)** of clearly outlined goals and schedule to complete them. 
 
 
