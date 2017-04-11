@@ -1,3 +1,31 @@
+# Developer Identity
+## Personal Branding in the Software Industry
+
+[Slides for this session](
+
+### Session Structure
+
+Length: 60 minutes
+
+* Opening
+* 
+* Work Time (15-20 mins)
+
+### The Why & Connections
+
+
+### Objectives
+
+
+### Deliverable
+Should LinkedIn profile be linked into deliverables submissions? 
+
+
+### Opening
+Students will work on their LinkedIn throughout the session...
+
+Start with examples of personal branding -- what does it mean to brand yourself?
+
 
 
 
@@ -5,6 +33,8 @@
 - Specify personal brand
 - Identify transferable and new technical skills
 - Tell your story effectively
+
+#### Show Effective Examples
 
 ### Content Update
 
@@ -72,3 +102,6 @@
 ### Complete Profile
 - Share your email address, personal website, location, headshot
 - Never block someone from connecting with you while you are job searching -- the more information the better
+
+
+### Extension -- how to apply these principles to personal websites and beyond?
