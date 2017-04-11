@@ -25,7 +25,7 @@ The deliverable out of today's session is an [action plan](https://github.com/tu
 You will need to complete and submit this plan to Meg for any post-grad job search support from her. Remember, this action plan is a draft and will likely change. That is okay. But you need to start somewhere. 
 
 ### Opening
-You're here to embark on a new and satsifying career -- not just to find a job. But we recognize where you are right now -- you've been in this program for almost 7+ months now, and you're ready to be back at work. This urgency can create all kinds of emotions, some of which are helpful for the job search and some of which aren't. Today, we'll discuss continuing to create strategies and longterm goals in order to navigate this scary/exciting time in a meaningful and successful way. The most important thing to remember is that you're not alone in this -- there are lots of tools available to you for you to utilize.
+You're here to embark on a new and satisfying career -- not just to find a job. But we recognize where you are right now -- you've been in this program for almost 7+ months now, and you're ready to be back at work. This urgency can create all kinds of emotions, some of which are helpful for the job search and some of which aren't. Today, we'll discuss continuing to create strategies and longterm goals in order to navigate this scary/exciting time in a meaningful and successful way. The most important thing to remember is that you're not alone in this -- there are lots of tools available to you for you to utilize.
 
 Let's start by sharing how you've been managing the job search during this module. 
 
