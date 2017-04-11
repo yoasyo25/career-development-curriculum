@@ -1,8 +1,9 @@
 # Drew Palazzari
 
 ## Mod 4 Deliverables:
-* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md): [Cold Outreach Summaries](https://gist.github.com/Dpalazzari/cf64c6cfb632ee41d5153b7c898a2b77)
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
+[Turing Portfolio](https://www.turing.io/alumni/drew-palazzari)
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
 
 
