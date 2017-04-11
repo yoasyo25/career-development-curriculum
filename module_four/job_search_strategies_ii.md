@@ -27,7 +27,7 @@ You will need to complete and submit this plan to Meg for any post-grad job sear
 ### Opening
 You're here to embark on a new and satsifying career -- not just to find a job. But we recognize where you are right now -- you've been in this program for almost 7+ months now, and you're ready to be back at work. This urgency can create all kinds of emotions, some of which are helpful for the job search and some of which aren't. Today, we'll discuss continuing to create strategies and longterm goals in order to navigate this scary/exciting time in a meaningful and successful way. The most important thing to remember is that you're not alone in this -- there are lots of tools available to you for you to utilize.
 
-Let's start by sharing what's worked well so far. 
+Let's start by sharing how you've been managing the job search during this module. 
 
 **Turn & Talk:** Turn to the person next to you to share updates on your job search:
 
