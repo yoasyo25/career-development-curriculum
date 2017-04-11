@@ -2,6 +2,9 @@
 
 ## Mod 4 Deliverables:
 * Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+
+* Cold outreach emails: https://gist.github.com/Robbie-Smith/03e663581e3600c6962251f98b3a8d4a
+
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
 
