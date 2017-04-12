@@ -68,7 +68,7 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
   <th colspan="5">Connect With Turing Staff</th>
   </tr>
   <tr>
-  <td><a href="https://www.linkedin.com/profile/view?id=30991974&authType=NAME_SEARCH&authToken=nKiA&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1437430498336%2Ctas%3Alia%20jame">Lia James</a></td>
+  <td><a href="https://www.linkedin.com/in/allisonreu?authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Allison Reu Singer</a></td><td><a
   <td><a href="https://www.linkedin.com/in/jcasimir?authType=NAME_SEARCH&authToken=iqEN&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A40587160%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970121949%2Ctas%3Ajeff%20ca">Jeff Casimir</a></td>
   <td><a href="https://www.linkedin.com/in/novohispano?authType=NAME_SEARCH&authToken=16ZS&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A20849959%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970228139%2Ctas%3AJorge">Jorge Tellez</a></td>
    </tr>
@@ -87,7 +87,7 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
   <td><a href="https://www.linkedin.com/in/brennamartenson?authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Brenna Martenson</a></td>
   <td><a href="https://www.linkedin.com/in/joanne-m-w-liu-09a98614?authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Joanne Liu</a></td>
   </tr>
-   <td><a href="https://www.linkedin.com/in/allisonreu?authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Allison Reu Singer</a></td><td><a href="https://www.linkedin.com/in/erin-neill-williams-793696a8?authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Erin Williams</a></td>
+   <td><a href="https://www.linkedin.com/in/laurenfazah/authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Lauren Fazah</a></td><td><a href="https://www.linkedin.com/in/erin-neill-williams-793696a8?authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Erin Williams</a></td>
     </tr>
 </table>
 
