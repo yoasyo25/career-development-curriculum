@@ -7,27 +7,44 @@
 
 Length: 60 minutes
 
-* Opening
-* 
-* Work Time (15-20 mins)
-
-### The Why & Connections
-
+* Opening (12 mins)
+* LinkedIn (15 mins)
+* GitHub (5 mins)
+* Twitter (5 mins)
+* Stack Overflow (5 mins)
+* Upcoming Tools: Resumes, Portfolios (3 mins)
+* Work Time (15 mins)
 
 ### Objectives
 
+* 
 
 ### Deliverable
-Should LinkedIn profile be linked into deliverables submissions? 
-
+You'll submit your LinkedIn, GitHub, Twitter, and Stack Overflow profiles through [Census](https://login.turing.io/). 
 
 ### Opening
-Students will work on their LinkedIn throughout the session...
 
-Start with examples of personal branding -- what does it mean to brand yourself?
+#### Hook: Storytelling Follow-Up
+Last week, we spent time talking about our stories in terms of our identities, values, and strengths. Today, we'll practice storytelling in other contexts to dive into our developer identity.
 
+**Pair & Share #1:** Find a partner for a 2-minute conversation. You'll describe yourself as a teammate -- who are you as a teammate?
 
+**Pair & Share #2:** Find a new partner for a 2-minute conversation. Now describe yourself in regards to your previous job and why you're transitioning careers -- who are you as a career changer?
 
+**Pair & Share #3:** Find a new partner for a 2-minute conversation. This time describe yourself as a developer -- who are you as a developer? What kind of developer do you see yourself as?
+
+**Whole Group Debrief:**
+
+* Which details stayed consistent across your different stories?
+* Which details were different?
+* What was relatively easy or difficult about this exercise?
+
+Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more. 
+
+Today, we'll look at a few tools you should use to define and build your personal brand. 
+
+### LinkedIn
+If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). 
 
 ### LinkedIn Learning Competencies
 - Specify personal brand
@@ -36,7 +53,7 @@ Start with examples of personal branding -- what does it mean to brand yourself?
 
 #### Show Effective Examples
 
-### Content Update
+#### Content Update
 
 - Edit your Headline to represent what you want to be known for rather than dependent on your most recent working title. Consider "Software Developer" "Web Developer" or you can combine your past experiences with new skills like "Software Developer \| Former Educator"
 - Identify your location with the zip code of the location of your number one location choice so that you show up in searches where you're looking for opportunities.
