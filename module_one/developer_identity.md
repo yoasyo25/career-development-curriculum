@@ -51,8 +51,6 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
 - Identify transferable and new technical skills
 - Tell your story effectively
 
-#### Show Effective Examples
-
 #### Content Update
 
 - Edit your Headline to represent what you want to be known for rather than dependent on your most recent working title. Consider "Software Developer" "Web Developer" or you can combine your past experiences with new skills like "Software Developer \| Former Educator"
@@ -88,27 +86,40 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
   <td><a href="https://www.linkedin.com/in/joanne-m-w-liu-09a98614?authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Joanne Liu</a></td>
   </tr>
    <td><a href="https://www.linkedin.com/in/laurenfazah/authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Lauren Fazah</a></td><td><a href="https://www.linkedin.com/in/erin-neill-williams-793696a8?authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Erin Williams</a></td>
-   <td><a href="https://www.linkedin.com/in/brennamartenson/authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Brenna Martenson</a></td>
+   <td><a href="https://www.linkedin.com/in/megstew/authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Meg Stewart</a></td>
     </tr>
+    <tr>
+   <td><a href="https://www.linkedin.com/in/alex-tideman-2a33821a/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Alex Tideman</a></td>
+  <td><a href="https://www.linkedin.com/in/ellen-mary-hickmann-102791118/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Ellen Mary Hickmann</a></td>
+  <td><a href="https://www.linkedin.com/in/brittanystoroz/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Brittany Storoz</a></td>
+  </tr>
+  <tr>
+   <td><a href="https://www.linkedin.com/in/breethomas/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Bree Thomas</a></td>
+  <td><a href="https://www.linkedin.com/in/robertjaeger0/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Robbie Jaeger</a></td>
+  <td><a href="https://www.linkedin.com/in/taylor-moore-0298a635/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Taylor Moore</a></td>
+  </tr>
 </table>
 
 - Engage with your connections by liking, commenting on, and/or sharing their updates.
 
-### Twitter Learning Competencies
+#### Examples of Effective LinkedIn Profiles
+
+
+### Twitter Overview
 - Display your brand visually and through written content
 - Engage in conversations that reinforce your personal brand
 
 ### Looking Good
 - Include a headshot of **_you_**
 - Include your personal website link, email, and mini, high-level bio introduction
-- Consider what your profile says about you to someon that has never met you
+- Consider what your profile says about you to someone that has never met you
 
 ### Converse
 - Search for topics interesting to you ("webdev", "edtech", "diversity in tech")
 - Consider how you would approach a conversation at a party. Listen, observe, then evaluate when is appropriate to interject with your opinion, perspective, knowledge.
 - Add to the conversation
 
-### GitHub Learning Competencies
+### GitHub Overview
 - Add a headshot photo rather than using the avatar - CTOs will think you're an amateur otherwise
 - Complete GitHub profile with:
 	- location
@@ -119,5 +130,4 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
 - Share your email address, personal website, location, headshot
 - Never block someone from connecting with you while you are job searching -- the more information the better
 
-
-### Extension -- how to apply these principles to personal websites and beyond?
+### What's Next -- how to apply these principles to personal websites and beyond?
