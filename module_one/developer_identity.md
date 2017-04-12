@@ -46,6 +46,34 @@ Today, we'll look at a few tools you should use to define and build your persona
 ### LinkedIn
 If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). 
 
+How to be passive on linkedin (1 session) followed up with Finding Opportunities (mod 3 session)
+
+Learning how to be passive - how do people find you? How do they know you exist? Has to do with how they tell their stories and keywords they're using; 
+
+When looking at LI profile:
+-headline should not be tied to your working title; it's what you want to be known for; what do you want your brand to be? What words do you want to be associated with? Use the things that you do to brand yourself
+	Example: Sonia, wants to be a speaker, title might be Software Developer, Speaker, Diversity Advocate
+	Put in what you want to be found by
+-Recruiters see: your picture, your title, your location, and the first few sentences of your summary (why it's so important)
+	Location: where do you want to go? That's what should be in the profile; Ex: San Francisco
+-Summary: Story that they're telling; who are you, why are you here, what's next -- these are prompts, like the Hook activity; first 100 words better be really solid
+	This story is one of the few places where they can introduce themselves as a whole person; should be short paragraphs, 2-3 sentences per paragraph; should be in first person; provide a call to action -- what do you want people to do when they see your profile? Do you want them to look at your code, website, email you? Put your email address right there in the summary; Once you get a job, you can take it out, but don't create any blockers
+-Experience: Description should not be bullet points; it doesn't read as well on LI and interferes with keyword searches; it's also built out to be more of a story form, complete sentences and paragraph; not long but value driven rather than task-driven; what was the value that you brought to this company? It doesn't matter as much the tasks, but it's about what employers want to see
+	It's better to not have things in a list-form; think about how you read across a computer screen; you want it to be easy to scan; recruiters only have so much time to look at the profiles, make it easy for them
+	-Linked to the name of the company; under experience, they should have Turing under experience but clearly state that they're students at Turing (don't want to mislead anyone -- could lead to being dismissed from an interview process); Edit Title to Software Developer Student or Back End Engineering Student/Front End Engineering Student at Turing; then discuss their experience while here -- what technologies/etc did they learn?
+	-Then also include it in education -- ties you into Turing alumni page which also allows future students to seek out jobs just like they are; it shows where all alumni work; this is why you should have this under education
+-Unique URL: Edit URL with name; just first and last name, no numbers -- don't want to create any age discrimation; if your name is taken, use middle name, etc. but should be consistent across all social platforms; also easy to put on business card, etc.
+
+Nice to haves:
+-Projects; any visuals are helpful; not necessary bc recruiters aren't going to see that on first look; will see it on second sweep
+-Skills: move these all the way to the bottom; if can reorder, skills should be on the bottom; they should have them in all technologies they use even if not endorsed, but they should be in the lower part
+-Don't spend a ton of time on extras
+-Merging -- only if someone has never really used social media; if they have more than 1, then use the merge
+-Make your LI in multiple languages -- for different communities; Talk to Amara about this
+	
+	
+	Note: show LI alumni group in Finding Opportunities
+
 ### LinkedIn Learning Competencies
 - Specify personal brand
 - Identify transferable and new technical skills
@@ -66,7 +94,7 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
   <th colspan="5">Connect With Turing Staff</th>
   </tr>
   <tr>
-  <td><a href="https://www.linkedin.com/in/allisonreu?authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Allison Reu Singer</a></td><td><a
+  <td><a href="https://www.linkedin.com/in/allisonreusinger/authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Allison Reu Singer</a></td><td><a
   <td><a href="https://www.linkedin.com/in/jcasimir?authType=NAME_SEARCH&authToken=iqEN&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A40587160%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970121949%2Ctas%3Ajeff%20ca">Jeff Casimir</a></td>
   <td><a href="https://www.linkedin.com/in/novohispano?authType=NAME_SEARCH&authToken=16ZS&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A20849959%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970228139%2Ctas%3AJorge">Jorge Tellez</a></td>
    </tr>
