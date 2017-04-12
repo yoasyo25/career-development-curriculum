@@ -98,6 +98,15 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
   <td><a href="https://www.linkedin.com/in/robertjaeger0/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Robbie Jaeger</a></td>
   <td><a href="https://www.linkedin.com/in/taylor-moore-0298a635/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Taylor Moore</a></td>
   </tr>
+  <tr>
+   <td><a href="https://www.linkedin.com/in/salespinosa/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Sal Espinosa</a></td>
+  <td><a href="https://www.linkedin.com/in/alischlereth/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Ali Schlereth</a></td>
+  <td><a href="https://www.linkedin.com/in/nathanielfosterofficial/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Nathaniel Foster</a></td>
+  </tr>
+  <tr>
+   <td><a href="https://www.linkedin.com/in/icorson3/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Ilana Corson</a></td>
+  <td><a href="https://www.linkedin.com/in/rachel-martinez-16693956/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Rachel Martinez</a></td>
+  </tr>
 </table>
 
 - Engage with your connections by liking, commenting on, and/or sharing their updates.
