@@ -88,6 +88,7 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
   <td><a href="https://www.linkedin.com/in/joanne-m-w-liu-09a98614?authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Joanne Liu</a></td>
   </tr>
    <td><a href="https://www.linkedin.com/in/laurenfazah/authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Lauren Fazah</a></td><td><a href="https://www.linkedin.com/in/erin-neill-williams-793696a8?authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Erin Williams</a></td>
+   <td><a href="https://www.linkedin.com/in/brennamartenson/authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Brenna Martenson</a></td>
     </tr>
 </table>
 
