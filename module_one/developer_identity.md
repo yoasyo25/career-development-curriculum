@@ -8,18 +8,19 @@
 Length: 60 minutes
 
 * Opening (12 mins)
-* LinkedIn (15 mins)
-* GitHub (5 mins)
-* Twitter (5 mins)
-* Stack Overflow (5 mins)
-* Upcoming Tools: Resumes, Portfolios (3 mins)
+* LinkedIn (20 mins)
+* GitHub (4 mins)
+* Twitter (4 mins)
+* Stack Overflow (3 mins)
+* Upcoming Tools: Resumes, Portfolios (2 mins)
 * Work Time (15 mins)
 
 ### Objectives
 
 * Specify your personal brand as a Software Developer
 * Tell your story effectively
-* 
+* Explore the different tools available to display your brand
+* Work on updating your LinkedIn profile
 
 ### Deliverable
 You'll submit your LinkedIn, GitHub, Twitter, and Stack Overflow profiles through [Census](https://login.turing.io/). 
@@ -187,3 +188,11 @@ Same rules:
 * Tell your story
 * Include links to your Twitter, GitHub, LinkedIn
 * Location
+
+### What's Coming Next
+In Module 3, we'll work on:
+
+* Resumes
+* Turing portfolio
+
+By that time in the program, you'll have more to add to your professional expertise, but the foundation that we set through LinkedIn and other branding tools will make creating these easier and more streamlined.
