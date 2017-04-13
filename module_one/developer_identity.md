@@ -179,3 +179,11 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 #### Complete Profile
 - Share your email address, personal website, location, headshot
 - Never block someone from connecting with you while you are job searching -- the more information the better
+
+### Stack Overflow
+Same rules:
+
+* Use the same photo
+* Tell your story
+* Include links to your Twitter, GitHub, LinkedIn
+* Location
