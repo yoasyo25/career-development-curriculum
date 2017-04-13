@@ -93,7 +93,7 @@ These descriptions should be:
 Under education, make sure to include Turing again as this ties you to the [Turing alumni page](https://www.linkedin.com/school/3805597/alumni), which allows our Turing network to grow so that future students can seek out where alumni work just like you are
 
 **Unique URL:**
-Edit your URL with your name. Use just your first and last name, no numbers -- you don't want to open yourself up to any age discrimation.
+Edit your URL with your name. Use just your first and last name, no numbers -- you don't want to open yourself up to any age discrimination.
 
 If your name is taken, use your middle name, etc. but it should be consistent across all social platforms. This is also easy to put on business cards.
 
