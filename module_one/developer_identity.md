@@ -1,7 +1,7 @@
 # Developer Identity
 ## Personal Branding in the Software Industry
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/1ngDlM_QhxziIB-NFfrH7zWF_N4aGsmEzR6GFGLlxhaU/edit?usp=sharing)
 
 ### Session Structure
 
@@ -17,6 +17,8 @@ Length: 60 minutes
 
 ### Objectives
 
+* Specify your personal brand as a Software Developer
+* Tell your story effectively
 * 
 
 ### Deliverable
@@ -27,7 +29,7 @@ You'll submit your LinkedIn, GitHub, Twitter, and Stack Overflow profiles throug
 #### Hook: Storytelling Follow-Up
 Last week, we spent time talking about our stories in terms of our identities, values, and strengths. Today, we'll practice storytelling in other contexts to dive into our developer identity.
 
-**Pair & Share #1:** Find a partner for a 2-minute conversation. You'll describe yourself as a teammate -- who are you as a teammate?
+**Pair & Share #1:** Find a partner for a 2-minute conversation. You'll describe yourself as a worker -- who are you as a worker?
 
 **Pair & Share #2:** Find a new partner for a 2-minute conversation. Now describe yourself in regards to your previous job and why you're transitioning careers -- who are you as a career changer?
 
@@ -44,51 +46,64 @@ Personal branding is all about telling a consistent story about yourself, buildi
 Today, we'll look at a few tools you should use to define and build your personal brand. 
 
 ### LinkedIn
-If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). 
+If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using.
 
-How to be passive on linkedin (1 session) followed up with Finding Opportunities (mod 3 session)
+#### Dissecting the Profile:
+**Headline:** 
 
-Learning how to be passive - how do people find you? How do they know you exist? Has to do with how they tell their stories and keywords they're using; 
+* This is what you want to be known for. What do you want your brand to be? What keywords do you want to be associated with? When recruiters do a search, what words do you want to lead to you? Use what you do to brand yourself
+	* ...which is not necessarily the same as your working title although it can be
+	* Consider "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
+	* You can combine your past experiences with new skills like "Software Developer \| Former Educator"
+	* Examples:
+		* [Meg Stewart](https://www.linkedin.com/in/megstew/)
+		* [Lia James](https://www.linkedin.com/in/liajames/)
 
-When looking at LI profile:
--headline should not be tied to your working title; it's what you want to be known for; what do you want your brand to be? What words do you want to be associated with? Use the things that you do to brand yourself
-	Example: Sonia, wants to be a speaker, title might be Software Developer, Speaker, Diversity Advocate
-	Put in what you want to be found by
--Recruiters see: your picture, your title, your location, and the first few sentences of your summary (why it's so important)
-	Location: where do you want to go? That's what should be in the profile; Ex: San Francisco
--Summary: Story that they're telling; who are you, why are you here, what's next -- these are prompts, like the Hook activity; first 100 words better be really solid
-	This story is one of the few places where they can introduce themselves as a whole person; should be short paragraphs, 2-3 sentences per paragraph; should be in first person; provide a call to action -- what do you want people to do when they see your profile? Do you want them to look at your code, website, email you? Put your email address right there in the summary; Once you get a job, you can take it out, but don't create any blockers
--Experience: Description should not be bullet points; it doesn't read as well on LI and interferes with keyword searches; it's also built out to be more of a story form, complete sentences and paragraph; not long but value driven rather than task-driven; what was the value that you brought to this company? It doesn't matter as much the tasks, but it's about what employers want to see
-	It's better to not have things in a list-form; think about how you read across a computer screen; you want it to be easy to scan; recruiters only have so much time to look at the profiles, make it easy for them
-	-Linked to the name of the company; under experience, they should have Turing under experience but clearly state that they're students at Turing (don't want to mislead anyone -- could lead to being dismissed from an interview process); Edit Title to Software Developer Student or Back End Engineering Student/Front End Engineering Student at Turing; then discuss their experience while here -- what technologies/etc did they learn?
-	-Then also include it in education -- ties you into Turing alumni page which also allows future students to seek out jobs just like they are; it shows where all alumni work; this is why you should have this under education
--Unique URL: Edit URL with name; just first and last name, no numbers -- don't want to create any age discrimation; if your name is taken, use middle name, etc. but should be consistent across all social platforms; also easy to put on business card, etc.
+**First Look:**
+When a recruiter or potential employer clicks on your profile, they see 4 initial things:
 
-Nice to haves:
--Projects; any visuals are helpful; not necessary bc recruiters aren't going to see that on first look; will see it on second sweep
--Skills: move these all the way to the bottom; if can reorder, skills should be on the bottom; they should have them in all technologies they use even if not endorsed, but they should be in the lower part
--Don't spend a ton of time on extras
--Merging -- only if someone has never really used social media; if they have more than 1, then use the merge
--Make your LI in multiple languages -- for different communities; Talk to Amara about this
+* **Your picture:** Headshot of just you and the same photo across your multiple profiles
+* **Your title:** See above
+* **Your location:** Where do you want to be? If you want to work in San Francisco, list San Francisco
+* **The first few sentences of your summary:** This is why it's so important. Make those first 100 words stand out. 
+
+**Summary:** 
+This is the story that you're telling: who you are (as a developer, worker, teammate, individual, etc.), how you got here (why software development, why now), what's next (what are your longterm career goals/ambitions). Your story is one of the few places in the profile where you can introduce yourself as a whole person. Your story should be told from a high level
+
+Tips for an effective summary:
+
+* Keep it to short paragraphs, 2-3 sentences per paragraph
+* Write it in first person
+* Provide a call to action -- what do you want people to do when they see your profile? Do you want them to look at your code, website, email you? 
+	* Put your email address right there in the summary. Once you get a job, you can take it out, but don't create any blockers right now
 	
-	
-	Note: show LI alumni group in Finding Opportunities
+**Work Experience:** 
+As you list your past experiences, your accompanying description should not be bullet points. Why? It doesn't read as well on LinkedIn and interferes with keyword searches. LinkedIn is also built out to be a *storytelling platform*, so use it that way. Write in complete sentences and paragraphs. Think about how you read across a computer screen. You want your profile to be easy to scan since recruiters only have so much time to look at them
 
-### LinkedIn Learning Competencies
-- Specify personal brand
-- Identify transferable and new technical skills
-- Tell your story effectively
+These descriptions should be:
 
-#### Content Update
+* Short
+* Value-driven rather than task-driven. What value did you bring to this company? Tasks don't matter as much to recruiters or employers looking at your profile
+* Linked to the name of the company. 
+	* You should list Turing under experience but clearly state that you're a student at Turing because you don't want to mislead anyone as this could lead to being dismissed from an interview process. Edit your title to "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
+	* Describe your experience while at Turing -- what technologies are you learning?
 
-- Edit your Headline to represent what you want to be known for rather than dependent on your most recent working title. Consider "Software Developer" "Web Developer" or you can combine your past experiences with new skills like "Software Developer \| Former Educator"
-- Identify your location with the zip code of the location of your number one location choice so that you show up in searches where you're looking for opportunities.
-- Edit your vanity URL using your first and last name. Don't use numbers in your vanity URL -- numbers can open you up to potential age discrimination.
-- Add your past experiences. Descriptions should demonstrate transferable skills. These descriptions should be in a paragraph, anecdotal form rather than bullet points.
-- Place the education section below experience. Include Turing School of Software & Design under Education to help other alums connect with you now and in the future.
-- Move skills section to the bottom of the profile. These will help recruiters find you in searches.
-- Add a summary that tells your story from a high level answering the following questions: Who are you (as a developer, teammate, individual, etc.), how'd you get here (why software development, why now, etc.), what's next? (what are your  long term ambitions/goals). Include your email in the summary so those who aren't able to directly connect can still contact you. Remember, to wrap up the summary with a call to action.
-- Add your connections to build a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
+**Education:**
+Under education, make sure to include Turing again as this ties you to the [Turing alumni page](https://www.linkedin.com/school/3805597/alumni), which allows our Turing network to grow so that future students can seek out where alumni work just like you are
+
+**Unique URL:**
+Edit your URL with your name. Use just your first and last name, no numbers -- you don't want to open yourself up to any age discrimation.
+
+If your name is taken, use your middle name, etc. but it should be consistent across all social platforms. This is also easy to put on business cards.
+
+**Nice to haves:** *Don't spend a ton of time on these extras, but consider how they may add to your profile.*
+
+* Projects: any visuals are helpful. Recruiters aren't going to see this on their first look. They will see it on their second sweep
+* Skills: list all the technologies you use even if you haven't been endorsed for them, but they should be in the lower part
+* You can make your LinkedIn in multiple languages to address and attract different communities. This is effective if you'd like to work abroad
+
+#### Add Connections
+Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
 <table>
   <tr>
   <th colspan="5">Connect With Turing Staff</th>
@@ -137,21 +152,19 @@ Nice to haves:
   </tr>
 </table>
 
-- Engage with your connections by liking, commenting on, and/or sharing their updates.
-
-#### Examples of Effective LinkedIn Profiles
-
+* Engage with your connections by liking, commenting on, and/or sharing their updates.
+* As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
 
 ### Twitter Overview
 - Display your brand visually and through written content
 - Engage in conversations that reinforce your personal brand
 
-### Looking Good
+#### Profile: Looking Good
 - Include a headshot of **_you_**
 - Include your personal website link, email, and mini, high-level bio introduction
 - Consider what your profile says about you to someone that has never met you
 
-### Converse
+#### Converse
 - Search for topics interesting to you ("webdev", "edtech", "diversity in tech")
 - Consider how you would approach a conversation at a party. Listen, observe, then evaluate when is appropriate to interject with your opinion, perspective, knowledge.
 - Add to the conversation
@@ -163,8 +176,6 @@ Nice to haves:
 	- link to personal site once you have one
 	- Twitter handle
 
-### Complete Profile
+#### Complete Profile
 - Share your email address, personal website, location, headshot
 - Never block someone from connecting with you while you are job searching -- the more information the better
-
-### What's Next -- how to apply these principles to personal websites and beyond?
