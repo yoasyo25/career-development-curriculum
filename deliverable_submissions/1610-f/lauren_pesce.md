@@ -8,3 +8,5 @@
 
 
 [cold outreach](https://gist.github.com/pescel/109e84f0464a3b06339a8474746874fd)
+
+[Turing Portfolio](https://www.turing.io/alumni/lauren-pesce)
