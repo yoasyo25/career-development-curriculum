@@ -3,6 +3,7 @@
 
 ## Module 4 Goals
 
+
 By the last day of week 6, I will have multiple job offers and be in the negotiating stage.
 
 ### Strategy To Achieve Goals:
