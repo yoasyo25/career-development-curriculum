@@ -1,5 +1,11 @@
 # Nick Erhardt
 
+## Mod 4 Deliverables:
+
+* Link to overview of Cold Outreach emails [part 2](https://gist.github.com/ski-climb/8a6d77e9e3f06dac00203568f306d6c3)
+* Link to completed Turing [portfolio](https://www.turing.io/alumni/nicholas-erhardt)
+* Summary of participation in practice [interview](https://gist.github.com/ski-climb/0fc6bee3fb1cb24242aa7998a4d153a6)
+
 ## Mod 3 Deliverables:
 
 * Link to completed [Flower Exercise](https://gist.github.com/ski-climb/889d51a73291a53355dfec8afdf022e5):
