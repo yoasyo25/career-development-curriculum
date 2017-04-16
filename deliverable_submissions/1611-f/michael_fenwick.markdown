@@ -2,6 +2,15 @@
 
 ## Mod 3 Deliverables:
 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
-* Link to Trello Board with companies that are being tracked
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+
+#### Turing Website
+
+* [Mike Fenwick's Turing Portfolio](https://www.turing.io/alumni/mike-fenwick)
+
+#### Trello Board
+
+* [Mike Fenwick's Trello Board](https://trello.com/b/BhtS9ubt/job-search)
+
+#### Mod4 Action Plan
+
+* [Mike Fenwick's Gist](https://gist.github.com/Mickyfen17/4ccc4881cd1e606aeb87ca21a40795ed)
