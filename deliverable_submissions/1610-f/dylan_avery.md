@@ -1,7 +1,8 @@
 # Dylan Avery
 
 ### Mod 4 Deliverables:
-https://gist.github.com/dylanavery720/d12a6c15bf6c136e0803a22d2c3169f2
+*[Cold Outreach Summary](https://gist.github.com/dylanavery720/d12a6c15bf6c136e0803a22d2c3169f2)
+*[Mock Interview Summary](https://gist.github.com/dylanavery720/c5a044862781a182b34af832a01ec455)
+*[Job Action Plan](https://gist.github.com/dylanavery720/b99e6e1f4533c435288f8787f152e182)
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md).
+
