@@ -1,16 +1,16 @@
-# Turing Professional Development Pre-Work
+# Turing Career Development Pre-Work
 ## Developing Mindsets to Succeed
 _Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
 
 When you're transitioning careers, often many other aspects of your approach to work and life undergo a transition as well. Turing aims to be a place where you can work through these transitions successfully. While enrolled at Turing and during your subsequent job search, you'll be provided with tools and strategies to develop the professional skills necessary to enter a new career as a software developer. 
 
-The pre-work for professional development is focused on introducing you to a set of mindsets that we at Turing believe will make you a successful programmer. These mindsets are:
+The pre-work for career development is focused on introducing you to a set of mindsets that we at Turing believe will make you a successful programmer. These mindsets are:
 
-* Agency - Defined as taking initiative and ownership over your learning and work
-* Empathy - Defined as understanding and sharing others' emotions in order to relate to them more
-* Engagement - Defined as active participation
-* Grit - Defined as a combination of perserverance and passion
-* Growth - Defined as a belief that your abilities can be developed through dedication and hard work. Resiliency is a key point for this mindset 
+* Agency: Taking initiative and ownership over your learning and work
+* Empathy: Understanding and sharing others' emotions in order to relate to them 
+* Engagement: Active participation in community
+* Grit: A combination of perseverance and passion
+* Growth: A belief that your abilities can be developed through dedication, hard work, and resiliency
 
 Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-work while the other four mindsets will be introduced to you here. Your objectives in this pre-work are to:
 

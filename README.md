@@ -1,55 +1,51 @@
 # Career Development Curriculum
 
-Scope & Sequence visuals here
+![Scope & Sequence](images/pd_new_scope.jpeg)
 
-## Placeholder:
-Sessions are listed in the order they will happen in the module
+Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
 
-Module One:
+Turing’s career development curriculum is created directly out of this mission with a focus on **unlocking students’ potential** in modules one and two through cultivating self-awareness and empathy. In modules three and four, curriculum focuses on providing strategies to empower students to **succeed in high-fulfillment technical careers** by creating connections within the technology industry, building competencies for industry leadership, and securing a fulfilling career -- and not just another job. 
 
-* StrengthsFinder Intro (March)
-* Gear Up 1: Growth Mindset (March)
-* Gear Up 2: Getting Better at Difficult Things (March)
-* Learning to Pair (March)
-* Optional: Stress Management spike (March)
-* Gear Up 3: Dealing with Difference: Introvert vs. Extrovert (March)
-* Feedback I (March)
-* Gear Up 4: Storytelling & Strengths (StrengthsFinder I) (March)
-* Optional: Stress Management spike (March)
-* Branding (March)
-* Gear Up 5: Code: Debugging the Gender Gap (March)
+The touchstones of this curriculum include these mindsets: 
 
-Module Two:
+* **Agency:** Taking initiative and ownership over your learning and work
+* **Empathy:** Understanding and sharing others' emotions in order to relate to them 
+* **Engagement:** Active participation in community
+* **Grit:** A combination of perseverance and passion
+* **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
 
-* BEE: Collaboration (March)
-* Cold Outreach I (March)
-* Gear Up 1: Empathy (cohort-specific) (March)
-* Feedback II (March)
-* Crucial Conversations/Microaggressions Follow-Up (pending) (March)
-* FEE: Project Management/Collaborating (March)
-* Gear Up 2: Parable of the Polygon/Automation (March)
-* Feedback III (March)
-* StrengthsFinder: Teamwork (March; full class session May)
-* Gear Up 3: Case Study (March)
+Through this development, upon graduation, students will be able to communicate who they are and what they know, collaborate with teams, adapt to changing situations, execute their ideas, and solve problems as junior software developers. 
 
-Module Three:
+In this repo, you'll find all of the curriculum for career development, including that for Gear Up sessions and information on how each session fits into the end goals for students. Click on the links below to see more information as well as links to sessions within each module folder:
 
-* Flower Exercise **(May)**
-* Gear Up 1: Citizenship (March)
-* Resume/Portfolio - incorporate StrengthsFinder here around professional storytelling/intro to ReadMes **(Focus on resume will start in May; SF will apply in June)**
-* Finding Opportunities (March)
-* Gear Up 2: Parable of the Polygon/Automation (March)
-* Interview Prep I (March)
-* Job Search Strategies I (March)
-* Gear Up 3: Case Study (March)
- 
-Module Four:
+* [Module One](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
+* [Module Two](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
+* [Module Three](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
+* [Module Four](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
 
-* Cold Outreach II (also focused on capitalizing on your network) **(Quick follow-up in March; full session in May)**
-* Gear Up 1: Case Study planning I (March)
-* Interview Prep II (practice) (March)
-* Gear Up 2: Case Study planning II (March)
-* Negotiations (March)
-* Job Search Strategies II/StrengthsFinder: Envisioning the future (working on revised version of the Plan) **(SF will apply in August)**
-* Gear Up 3: Case Study (March)
-* Optional workshops led by Meg, 2-3 per mod (March)
+### Deliverables
+Career development deliverables will be reviewed by either Allison, Meg, or both of us. Students should submit their delvierables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
+
+### Who Does What
+Your career development team consists of:
+
+**Allison Reu Singer, Community Affairs Manager, PD Curriculum Lead**
+
+Allison is the lead on all career development sessions outside of Gear Up. If you have any questions on sessions or on deliverables, reach out to her. She checks on and provides any necessary feedback on PD deliverables for Modules 1 and 2, including feedback submissions. She is also available for 1-on-1 professional coaching or support throughout your time at Turing but especially in Modules 1 and 2.
+
+**Meg Stewart, Employment Coordinator**
+
+Meg conducts 1-on-1 meetings with students in Modules 3, 4, and after graduation to provide support on the job search. She checks on and provides any necessary feedback on PD deliverables for Modules 3 and 4. 
+
+**Lia James, Partnerships Manager**
+
+Lia creates relationships with companies across the country to find out their hiring needs and recommends students who meet those needs. She works with Meg and Allison to learn more about specific strengths and interests of students to help make connections with companies that are a good fit.
+
+**Beth Sebian, Instructor, Gear Up M2-M4 Lead**
+
+Beth creates and helps facilitate Gear Up sessions for Modules 2-4. Any questions about that curriculum or the M2-M4 deliverables can go to her.
+
+**Ellen Mary Hickmann, Director of Professional Learning & Casey Cumbow, Instructor, Gear Up M1 Leads**
+
+Ellen Mary and Casey co-create curriculum and co-facilitate sessions for the Module 1 Gear Up sessions. Any questions about those sessions or their deliverables can go to them. 
+
