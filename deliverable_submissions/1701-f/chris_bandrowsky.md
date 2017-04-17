@@ -1,6 +1,8 @@
 # Chris Bandrowsky
 
 ## Mod 2 Deliverables:
+All deliverables are attached in their respective Gists. 
+
 * Cold Outreach: [Link](https://gist.github.com/cbandrow/189af34367661203bbb507e726dc742c#file-cold-outreach-md)
 
 * Agile Development and Management Strategies [Link](https://gist.github.com/cbandrow/3ca71db2abe40f28d78adc07a14d56d9#file-agile-development-and-management-md) 
