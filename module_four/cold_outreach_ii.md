@@ -8,6 +8,7 @@
 * Implement strategies to write effective emails 
 
 ### Deliverable
+[Cold outreach, round 2](https://gist.github.com/ski-climb/8a6d77e9e3f06dac00203568f306d6c3)
 
 Provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) by **Monday of Week 5**
 
@@ -150,7 +151,9 @@ Reminder of guidelines for feedback conversations. Be specific, actionable, and 
 
 * “I really like the way you circled back to the company mission!”
 * “Your subject line does a great job of capturing the reader's attention!”
-* “You did a great job of finding a personal connection through snowboarding!”
+* “The personal connection about snowboarding was really clear!”
+* "I wasn't quite sure what your connection was. Try out a few different phrases to get more specific."
+* "I didn't hear a call to action. Provide a date and time to meet to make it easy for someone to respond."
 
 “Good job buddy!” is *NOT* constructive feedback
 
