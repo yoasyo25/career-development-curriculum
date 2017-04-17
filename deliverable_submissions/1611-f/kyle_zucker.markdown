@@ -35,12 +35,12 @@
  #### Cold Outreach/Network:
  *Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
  
- Need to touch base with Shelia and see if there's any warm out-reach from her. 
+ Need to touch base with past work contacts and see if there's any potential warm out-reach. 
  
  #### Personal Branding *(A personal branding section is optional)*:
  *How might personal branding pieces help you towards your goal?*
  
-I'm not a fan of personal branding. 
+I'm not a fan of personal branding. I'd like to try writing medium articles. 
 
  ### Timeline:
  *What will you do when?*
