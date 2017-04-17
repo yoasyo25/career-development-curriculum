@@ -1,6 +1,8 @@
 # George Goering
 
 
-## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+## DTR:
+* [Link to DTR](https://gist.github.com/Ggoering/5eeb7f0f7ca60ddaf2dc696200e97965):
+
+## Strengths and Storytelling:  
+* [Link to Strengths and Storytelling Gist](https://gist.github.com/Ggoering/0d22d5bc64c3d065605c17d2c4c90240)
