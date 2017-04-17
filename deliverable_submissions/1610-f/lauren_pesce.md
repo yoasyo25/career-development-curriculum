@@ -11,4 +11,4 @@
 
 [Turing Portfolio](https://www.turing.io/alumni/lauren-pesce)
 
-[Interview] (https://gist.github.com/pescel/b69ae8e3a9cc5fcada202ca15ece9b83)
+[Interview](https://gist.github.com/pescel/b69ae8e3a9cc5fcada202ca15ece9b83)
