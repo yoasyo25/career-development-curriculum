@@ -1,7 +1,9 @@
 # Kenia Farias
 
-## Mod 3 Deliverables:
+#  Module 4 Deliverables
 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
-* Link to Trello Board with companies that are being tracked
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Link to Turing Portfolio](https://www.turing.io/alumni/kenia-farias)
+
+* [Link to Trello Board](https://trello.com/b/h8WYwvYe/kenia-farias-job-tracker)
+
+* [Link to gist for Mod 4 action plan](https://gist.github.com/kfarias/b1147a93a9fc296b42ebd92d7876cf87)
