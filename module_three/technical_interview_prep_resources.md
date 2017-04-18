@@ -17,6 +17,8 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 
 * [Ian Douglas](iandouglas.youcanbook.me)
 * Marina Corona
+* Emily Freeman
+* Mark Miranda
 
 ### Apps & Other Resources
 
