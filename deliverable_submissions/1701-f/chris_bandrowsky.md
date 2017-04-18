@@ -1,10 +1,12 @@
 # Chris Bandrowsky
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+All deliverables are attached in their respective Gists. 
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+* Cold Outreach: [Link](https://gist.github.com/cbandrow/189af34367661203bbb507e726dc742c#file-cold-outreach-md)
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Agile Development and Management Strategies [Link](https://gist.github.com/cbandrow/3ca71db2abe40f28d78adc07a14d56d9#file-agile-development-and-management-md) 
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+* Link to reflection on in-person feedback conversation using these [Link](https://gist.github.com/cbandrow/945c1a68e5f5450bffe1b71e11d5e054#file-feedback-ii-reflection-md)
+
+* Feedback III [Link](https://gist.github.com/cbandrow/e8eed3b9f6e389002ac8b86ad9610669#file-feedback-iii-reflection-md)
