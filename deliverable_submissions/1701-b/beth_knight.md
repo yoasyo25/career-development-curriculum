@@ -10,7 +10,7 @@
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
 
-# Feedback III Reflection
+## Feedback III Reflection
 
 * What are you doing well as a pair programmer and collaborator?
 
