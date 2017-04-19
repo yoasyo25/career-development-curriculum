@@ -1,28 +1,65 @@
-# Template: Module 4 Action Plan 
+# Courtney Meyerhofer: Module 4 Action Plan 
 *This is your deliverable from the [Job Search Strategies I session](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)*
 
 ## Module 4 Goals
-* Be hired at a company in Denver 
-* Be comfortable with JavaScript syntax, have explored Node & Express. 
+
+
+By the last day of week 6, I will have multiple job offers and be in the negotiating stage.
 
 ### Strategy To Achieve Goals:
-In this section, break down your longterm goal into smaller goals that you want to work on each week and/or day
-* Send outreach emails each day
-* Start to tap my mentors for companies that may be able to hook it up
-* Have at least one coffee date per week from now until graduation 
-* Stay organized with my calendar 
-* Make an excel Spreadsheet of companies I want to hit up and find contacts for each 
-* Pay attention in Module four! 
 
 #### Coding (both including your module 4 curriculum and anything outside of it):
-*I need to become profficient with JavaScript so I can get my hands dirty with Node*
+* continue network engineering exploration and finish out the packet analyzer
+* explore DevOps ideas with AWS and CI strategies
+* contribute to open-source with Python modules
 
 #### Opportunities Research:
-*I'll look for companies using BuiltInColordao, my mentors, and Turing staff (Meg) to find companies that hold my interest. My little excel spreadsheet will be invaluable for keeping me organized.* 
+* continue weekly sessions with both mentors
+* continue activity in Boulder Python and Denver.rb meetups
+* continue searching builtincolorado and other job websites
 
 #### Cold Outreach/Network:
-*I'll hit the alumni network hard. This is the most fruitful combination of prospective jobs and people who are already in my network. 
+* Joshua at LASP CU Boulder
+* mentors: Trey Tomlinson and Micah Adams
+* Begin informational interviews with Turing alum (list on my job hunt trello board)
+* Boulder Python, Denver.rb meetups
+* Turing alum
+* give a talk at Boulder Python beginner series
+
+### Timeline:
+(working backwards)
+
+In order to have multiple job offers week 6, I need to:
+
+* have completed 3 interviews by week 5
+* have completed 2 interviews by week 4
+* have completed 1 interview by week 3
+* have applied to 3 jobs by week 2
+* have had warm/cold outreach at 6 companies by week 1
+
+#### Module Tasks:
+* attend meetups
+* update my profiles (website, GitHub, resume, turing alums)
+* research companies
+
+#### Weekly Tasks:
+
+* meet with someone in person twice
+  * informational interview
+  * actual job interview
+  * attending a meetup/other networking event
+* get in contact with a new company
+* reassess my strategies and goals
+
+#### Daily Tasks:
+
+* update Trello board during job hunt work time (8:15 - 9:00 am)
+* send 1 cold/warm outreach email
 
 ## What I Will Work on with Meg
-*Navigating the job hunt as one of the youngest students at Turing.*
+
+* evaluating if a company is the right fit for what I'm looking for
+* evaluating my strategies
+* general networking advice
+* support navigating the interview process
 
