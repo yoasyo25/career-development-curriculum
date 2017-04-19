@@ -5,7 +5,7 @@
 [gist](https://gist.github.com/mziccardi/a20b81fe92f3cafb076d46e7774c0137)
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
 [profile](https://www.turing.io/alumni/michael-ziccardi)
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
+* Summary of participation in practice interview and/or actual interview using these [mzinterviewgist](https://gist.github.com/mziccardi/a609a186d972f9c812e5586ef7112547d)
 
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
 
