@@ -2,12 +2,12 @@
 
 ## Mod 4 Deliverables:
 * Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md): https://gist.github.com/jdconrad89/38d38a6544255f4cd1cee399e2a01f62
-* Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
+* Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume: https://www.turing.io/alumni/jason-conrad
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):https://gist.github.com/jdconrad89/8b5fe4c969ccf2f5dd0fd304479e9436
 
 
 OPTIONAL (You'll need to complete this plan to submit to Meg for post-grad job search support, but you do not need to submit it for your Mod 4 deliverables):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md).: (in progress will attach as soon as it is completed)
 
 ## Mod 3 Deliverables:
 
