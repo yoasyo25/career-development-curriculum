@@ -1,18 +1,7 @@
 # Daniel Ludwick
 
 ## Mod 2 Deliverables:
-# Mentor Outreach
-
-* Name of contact
-  * The mentor (or alum) I contacted was Mark Miranda.
-
-* Date of contact
-  * 03/30/2017
-
-* Outcome (i.e., did you get a response? If not, what is your follow-up plan? Did you meet? When? What was the result?)
-
-  *  I had reached out to several mentors. Mark was the first to respond with a viable schedule and capablity to be a mentor. We met for lunch, decided it was a good match, and have met up several times since then.
-
-* How do you feel like this relationship will benefit you in your longterm professional development? 
-
-  * The best benefit will be having someone outside of class/school that I can focus specific question and concerns with. This will help me keep my head above the water while I'm at school.
+ * [Mentor Outreach](https://gist.github.com/danielbucket/c555d58c729b4654a17f8a15f6178b21)
+ * [Reflection on agile practices/project management used in projects](https://gist.github.com/danielbucket/89ec45102494a06d4799a1c7f191bc0a)
+ * [Feedback Conversation](https://gist.github.com/danielbucket/f0244378b20349210c4956e928e6306e)
+ * [Feedback II](https://gist.github.com/danielbucket/628e8846cd80e7c502c35182a1b7e42b)
