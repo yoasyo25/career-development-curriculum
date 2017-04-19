@@ -1,13 +1,10 @@
 # Molly Brown
 
 ## Mod 4 Deliverables:
-* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-* Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
-
-OPTIONAL (You'll need to complete this plan to submit to Meg for post-grad job search support, but you do not need to submit it for your Mod 4 deliverables):
-
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
+* Link to [overview of 6 Cold Outreach emails](https://github.com/mollybrown/career-development-curriculum/blob/patch-2/module_four/cold_outreach_deliverable_guidelines.md)
+* Link to [completed Turing portfolio](https://www.turing.io/alumni/molly-rachel-brown)
+* Link to [Summary of participation in practice interview](https://gist.github.com/mollybrown/5633b7e7b5b251e1ff2e6c435a547e80)
+* Link to [completed action plan for the post-grad job search](https://gist.github.com/mollybrown/96de68c2628da1effe589c163d3161d2)
 
 ## Mod 3 Deliverables:
 
