@@ -16,27 +16,5 @@ https://gist.github.com/BethKnight1234/f39045d985d3105d464701df4a3afc12
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
 
-## Feedback III Reflection
-
-* What are you doing well as a pair programmer and collaborator?
-
-I listen to what my other team mates are saying, and if I'm confused I ask questions. 
-
-* How do you use your strengths as a team member?
-
-I'm upbeat and I encourage people to work on projects. I'm easy to talk to. 
-
-* How would you like to continue to develop your strengths?
-
-I can study and practice until I have confidence in my ability. I can speak up more when 
-
-* What would you like to improve on as a teammate? 
-
-My confidence in my skill. I want to be more assertive, even if it's areas I'm not 100% about. I need to trust that I have the ability to find the right answers.  
-
-* How would you like your teammates to see you?
-
-Confident. Helpful. Hardworking. I want to really contribute on any team I'm on, not drag them down.
-
-* Any other comments:
-
+https://gist.github.com/BethKnight1234/aa5e8d383ffef3b2d5df28633775548c
+https://docs.google.com/document/d/1re3q0VmTWYV48D5T47tfpc6r6LfGSWD_KORELYfnzA8/edit
