@@ -22,14 +22,20 @@ Mainly use agile to a point in that we incorporate our evaluator's opinions befo
 
 Date of feedback conversation:
 
+03/25/17
+
 How did you prepare for the conversation?
 
+--Really just going over the DTR and and recollecting how the pairing experience went. First thing I explained was telling my partner to be brutally honest with their feedback and how they wanted my feedback for them should be constructed.
 
 How did the conversation go for you? What was easy about the conversation? What was more difficult?
 
+-- Very well! Learned a lot of things that were in my blindspot that I can work on and also good practice on how to give constructive feedback.
+
 What principles of feedback did you use in the conversation?
 
-Any other comments:
+Empathy mainly.
+
 ----------------------------------
 What are you doing well as a pair programmer and collaborator?
 --Showing support and willingness to be tasked work that I see through.
