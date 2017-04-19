@@ -2,6 +2,6 @@
 
 ## Mod 3 Deliverables:
 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
-* Link to Trello Board with companies that are being tracked
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Turing Portfolio](https://www.turing.io/alumni/rebecca-holt)
+* [Trello Board](https://trello.com/b/Fya2fXFo/turing-prof-dev)
+* [Job Search Action Plan](https://gist.github.com/becs919/7df918296931a128d948b532d5ae5af1)
