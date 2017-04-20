@@ -8,6 +8,9 @@
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
 
+* Link to my summary on interviews
+  - https://gist.github.com/Robbie-Smith/be7c9b34364bef5fc0bb0f6404addba5
+  
 OPTIONAL (You'll need to complete this plan to submit to Meg for post-grad job search support, but you do not need to submit it for your Mod 4 deliverables):
 
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
