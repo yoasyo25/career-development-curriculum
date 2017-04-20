@@ -2,5 +2,5 @@
 
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Link to DTR Memo [Idea-box with Christie Lynam] : (https://github.com/christielynam/idea-box/blob/master/dtr.md)
+* Link to gist documenting your strengths & storytelling reflection [Strength & Storytelling Reflection] : (https://gist.github.com/noetic97/24361d30be03e910fea602156408746b)
