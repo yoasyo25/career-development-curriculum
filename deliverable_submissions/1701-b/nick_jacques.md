@@ -8,7 +8,7 @@
   * [link](https://gist.github.com/NicholasJacques/eb592b6230348a05997b53ec11d241af)
 
 * Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-  * I unfortunately missed this session due to illness.
+  * [link](https://gist.github.com/NicholasJacques/a560517c68dff4782ab3b213dc43be5e)
   
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
   * [link](https://gist.github.com/NicholasJacques/2ddf5bd0cbad1cbb9aae185fdbcf5d32)
