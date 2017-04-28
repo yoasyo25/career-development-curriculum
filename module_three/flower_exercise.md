@@ -1,7 +1,3 @@
-
-
-Make connections to the skills/knowledge/talents that contribute to strengths development (in strengthsfinder reflection session)
-
 # Flower Exercise
 ## Helping you Find the Best Fit
 
@@ -9,14 +5,17 @@ What is important to you? What goals do you have for yourself? What kind of serv
 
 Reference the [Flower Exercise slides](https://docs.google.com/presentation/d/1V97AE_y9BQLhcQ7sC03JbeI-p6OcL_dfqTFKxvXyNRY/edit?usp=sharing)
 
-##Learning Objectives:
-* Describe yourself in 6 different ways to potential interviewers
+## Learning Objectives:
+* Describe yourself in 7 different ways to potential interviewers
 * Describe in detail the kind of position you’re looking for
 
-##Deliverable:
-**[Complete the Flower Exercise 1-pager and upload it to your end of module portfolio]()**
+## Deliverable:
+**[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and include a link to either the uploaded PDF or a gist with bullet points for each of the 7 categories. 
 
-###You’re not a Role
+## The Why
+...Make connections to the skills/knowledge/talents that contribute to strengths development (in strengthsfinder reflection session)...
+
+### You’re not a Role
 When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
 
 Instead, try saying “I’m a person who…”
@@ -27,7 +26,7 @@ Instead, try saying “I’m a person who…”
 
 In this session, you’ll explore who you are from 7 different angles to discover what you want as you start looking for a job. **Because you are not just a software developer now, you are a person who has very specific skills, talents, experience, and goals that make you so much more than a software developer.**
 
-###The Seven Petals
+### The Seven Petals
 I am a person who…has 7 sides to me:
 
 1. Describe who you are in terms of what you know (favorite knowledges and/or fields of interest)
@@ -51,7 +50,7 @@ All 7 aspects are important for your job search; Why?
 * If a job only matches 1 or 2 “petals,” it will not be fulfilling to you because it will only allow you to express one or two sides of yourself
 * This picture is the most complete of you and defining these aspects will lead you to your dream job
 
-###Tools
+### Tools
 Complete [these worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) to fulfill the brainstorming stages of the Flower Exercise
 
 * Petal #1: Favorite Knowledges And/Or Fields of Interest
