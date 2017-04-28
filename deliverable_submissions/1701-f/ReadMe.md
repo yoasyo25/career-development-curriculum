@@ -1,4 +1,4 @@
-Students should update their individual file with links to specific deliverables before making a Pull Request.
+Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
 
 ## Mod 3 Deliverables:
 
