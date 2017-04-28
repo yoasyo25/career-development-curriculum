@@ -3,7 +3,7 @@
 
 What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 86% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
 
-Reference the [Flower Exercise slides](https://docs.google.com/presentation/d/1V97AE_y9BQLhcQ7sC03JbeI-p6OcL_dfqTFKxvXyNRY/edit?usp=sharing)
+Reference the [Flower Exercise slides](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
 
 ## Learning Objectives:
 * Describe yourself in 7 different ways to potential interviewers
