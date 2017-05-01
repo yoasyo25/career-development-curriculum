@@ -2,11 +2,18 @@
 
 
 ## Mod 2 Deliverables:
+#### Name of contact
+  Jonah Moses
 
-### Mentor outreach
-I haven't contacted anyone yet. Diving into that over break
+#### Date of contact
+  April 28th, 2017
 
+#### Outcome:
+  He responded almost immediately and is open to lending his time over the next mod. 
 
+#### How do you feel like this relationship will benefit you in your longterm professional development?
+  Jonah seems like a nice guy. He told me to hit him up with any questions, or problems we encounter down the road. At this point I can't speculate beyond saying it will be nice to have some insight on how what we're learning now translates in the real world.
+  
 ### Reflection on agile practices and project management
 
 Agile practices seem like they will be more helpful as our projects get larger in scope and teams become more compartmentalized and complicated. The projects this mod were all individual or with a single partner, making communication and development relatively simple. As it stands, our opportunity to use an agile approach has been rather limited. The merits of approaching a project with agile practices are obvious, however, and as we move forward I'm sure there will be more chances for implementation.
