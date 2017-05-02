@@ -1,4 +1,4 @@
-# Larisa Cressman (Anderson)
+# Larisa Anderson
 
 
 ## Mod 1 Deliverables:
