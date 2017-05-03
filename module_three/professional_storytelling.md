@@ -1,10 +1,6 @@
 # Professional Storytelling
 ### Presenting yourself and telling your story through resumes, cover letters, portfolios, and more 
 
-Updates: -review linkedin
--more on storytelling
-
-
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
 ### Session Structure
