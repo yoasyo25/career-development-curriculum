@@ -137,7 +137,7 @@ Does each project on your resume link to a GitHub repo? Does the ReadMe for each
 	* Title as "Experience" rather than "Employment"
 	* Format should start with title followed by company
 	* Use dates
-	* Use bullet points (3-5 per organization) & focus on the value that you brought to the organization rather than the individual tasks performed. Answer the questions: _What did you accomplish in this position?_ or _What are you most proud of?_ rather than, _What were your boring day-to-day duties?
+	* Use bullet points (3-5 per organization) & focus on the value that you brought to the organization rather than the individual tasks performed. Answer the questions: _What did you accomplish in this position?_ or _What are you most proud of?_ rather than, *What were your boring day-to-day duties?*
 	* Turing can fall under experience or education but having it fall under experience brings it closer to the top and ties in with your self identification as a software developer. *Titling this category as “experience” rather than work history/employment allows for it to include things aside from paid employment*
 
 * Education
