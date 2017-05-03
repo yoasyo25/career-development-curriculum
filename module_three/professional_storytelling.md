@@ -11,7 +11,7 @@ Length: 60 mins
 * Discuss storytelling: 20 mins
 * Resumes: 20 mins
 * Cover Letters & Portfolios: 10 mins
-* Closing: Wrap up storytelling; provide preview of Flower Exercise (all about transitioning successfully and adding to your story): 5 mins
+* Closing: Wrap up storytelling; provide preview of Flower Exercise
 
 ### Professional Development in Module Three
 This is the first of your PD sessions this module. Module Three is the module in which the personal development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by first identifying what it is that you want out of your new career, telling that story clearly, and reflecting on how your strengths apply to finding this new, fulfilling career path.
@@ -111,7 +111,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 
 #### Content Inclusion
 - Add a __Header:__ Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
-- Add an __About Me__ section with the 1 - 3 sentence intro created from your story
+- Add an __About Me__ section with a 1 - 3 sentence intro summarized from your story
 - Add a __Skills__ section: Highlight your dev/technical skills first. Include any transferable skills in this section as well.
 - Add a __Projects__ section. What are you proud of? Show it off!
 	* Be sure to include the following four elements for each project on your resume:
@@ -132,6 +132,9 @@ You can choose to set up a traditional resume use a template like this [traditio
 - Add an __Education__ section to the bottom of the resume. Remove GPAs and list in reverse chronological order, from the most recent to the least recent.
 
 As you update your resume, check on what updates you need to make to your LinkedIn -- update this profile as often as necessary to ensure it reflects exactly what you want it to portray.
+
+#### You Do
+Take 10 minutes to explore some different tools and get your resume draft started. 
 
 ### Cover Letters
 Cover letters are a perfect way to tell your story when you're applying for a job. 
@@ -173,8 +176,8 @@ Here are the must haves:
 
 Check out some examples of how others have created their [portfolios](https://www.turing.io/alumni).
 
-### Work Time
-Spend the next 15-20 minutes working on your portfolio. How do you want to portray yourself? How can you tell your professional story through your portfolio? 
-
 ### Closing
 Find another person in the room to introduce yourself in a few sentences using the new story you've been developing. The more you practice telling your story, the better you'll get. 
+
+#### Looking Ahead
+Your next PD session is on the [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md) from the book *What Color is Your Parachute?* This exercise is all about diving into different aspects of your character, goals, and values to more fully understand what you're looking for in this new career. 
