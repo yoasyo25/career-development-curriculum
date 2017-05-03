@@ -109,27 +109,40 @@ You can choose to set up a traditional resume use a template like this [traditio
 * [Kick Resume](https://www.kickresume.com/)
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
-#### Content Inclusion
-- Add a __Header:__ Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
-- Add an __About Me__ section with a 1 - 3 sentence intro summarized from your story
-- Add a __Skills__ section: Highlight your dev/technical skills first. Include any transferable skills in this section as well.
-- Add a __Projects__ section. What are you proud of? Show it off!
-	* Be sure to include the following four elements for each project on your resume:
-		*	__What does your application do?__ What problem does it solve for the end user? Who is it built for?
-		*	__In what period of time was it built?__ This helps set folks' expectations appropriately. A product built in two months should look a lot more polished than one built in two weeks.
-		*	__What was your role in the project?__ Front end? Testing? Team lead?
-		*	__Technologies used__ This might be the most brag-worthy part for you, but since this element is likely the longest of the four, leave it for the end. Go nuts - dive into what API's, frameworks and languages you incorporated.
+#### Content Inclusion - Follow this order
+* **Header:**
+	* Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
+	* Remove location
+	* Include title (Software Developer)
 
-	* Does each project on your resume link to a GitHub repo? Does the ReadMe for each project include screenshots of the application in action?
+* **Summary:** Summary should be 3-4 sentences about your journey into software developer. Tell the reader:
+	* Who you are: As a software developer? Team member? Career changer? Individual?
+	* How you got here: Why software development? Why Turing? Why now?
+	* What’s Next: What do you hope to accomplish? What are you looking to gain from this experience? Is there a particular industry/tech stack/project you would like to be working with?
 
-	* Think back to your countless experiences in the Apple App Store or Google Play Store. Would you even _consider_ trying out an application without screenshots to tell you what it looks like? Nope.
-- Add an __Experience__ section.
+* **Skills:** Continue to add to this area outlining your technical specialties (languages, frameworks, testing and tools). Ideally you want 12-20 items by the end of the program. 
+	* Highlight your dev/technical skills first. Include any transferable skills in this section as well.
 
-	*	Lead with your position title, then the company name
-	*	Use dates
-	*	Each bullet should be value-driven rather than task-oriented.
-	*	Answer the questions: _What did you accomplish in this position?_ or _What are you most proud of?_ rather than, _What were your boring day-to-day duties?_
-- Add an __Education__ section to the bottom of the resume. Remove GPAs and list in reverse chronological order, from the most recent to the least recent.
+* **Projects:** Follow skills with a project section that includes 2-3 of your favorite projects. What are you proud of? Show it off! Answer the following questions:
+	* What does your application do? What problem does it solve? 
+	* Who is it built for? What does it allow the user to do? 
+	* What is the high level overview of the project? 
+	* What technologies did you use? Dive into what API's, frameworks and languages you incorporated.
+	* In what period of time was it built? This helps set folks' expectations appropriately. A product built in two months should look a lot more polished than one built in two weeks.
+	* If you worked in a group, what was role in the project?
+
+Does each project on your resume link to a GitHub repo? Does the ReadMe for each project include screenshots of the application in action? Include clickable web addresses. 
+
+* **Experience:** Follow Projects with Experience
+	* Title as "Experience" rather than "Employment"
+	* Format should start with title followed by company
+	* Use dates
+	* Use bullet points (3-5 per organization) & focus on the value that you brought to the organization rather than the individual tasks performed. Answer the questions: _What did you accomplish in this position?_ or _What are you most proud of?_ rather than, _What were your boring day-to-day duties?
+	* Turing can fall under experience or education but having it fall under experience brings it closer to the top and ties in with your self identification as a software developer. *Titling this category as “experience” rather than work history/employment allows for it to include things aside from paid employment*
+
+* Education
+	* Remove dates. List in reverse chronological order, from the most recent to the least recent
+	* Remove GPAs
 
 As you update your resume, check on what updates you need to make to your LinkedIn -- update this profile as often as necessary to ensure it reflects exactly what you want it to portray.
 
