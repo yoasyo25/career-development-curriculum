@@ -35,7 +35,7 @@ Recap project management and agile practices:
 How do these practices relate to the success of a team?
 
 ## Leadership in Teams
-**Discuss Chapter 4 in small groups:**
+**Discuss Chapter 4: Ask Questions Instead of Giving Direct Orders in small groups:**
 
 * What was this chapter about?
 * Do you agree with this approach? Why/why not?
@@ -63,7 +63,7 @@ Back in your small groups, define the role of the project manager for your group
 How can the project manager help in this situation? What would you do if Teammate A was your project manager?
 
 ## How to handle Failure:
-**Discuss Chapter 5 in small groups:**
+**Discuss Chapter 5: Mitigate Fault in small groups:**
 
 * What was this chapter about?
 * What does it look like to actually learn from and move past mistakes?
