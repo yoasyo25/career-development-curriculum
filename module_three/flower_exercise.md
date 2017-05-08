@@ -1,22 +1,22 @@
 # Flower Exercise
 ## Taking Inventory of Who You Are to Help you Find the Best Fit
 
-What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 86% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
+What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 84% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
 
-Reference the [Flower Exercise slides](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
+[Slides for this session](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
 
 ## Learning Objectives:
-* Describe yourself in 7 different ways to potential interviewers
-* Describe in detail the kind of position you’re looking for
+* Describe yourself in 7 different ways to enhance your professional story
+* Describe in detail the kind of career you’re looking for
 
 ## Deliverable:
 **[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and include a link to either the uploaded PDF or a gist with bullet points for each of the 7 categories. 
 
 ## The Why
-...Make connections to the skills/knowledge/talents that contribute to strengths development (in strengthsfinder reflection session)...
+We do this exercise with students not only because it's effective (again, it has an 84% success rate and has been used with job-seekers for the past 4 decades) but because you are transitioning careers to find something that you love -- not just another job. Learning more deeply about yourself, your values, your strengths, and your priorities will make this a much more fulfilling job search and a much quicker job search. 
 
-### You’re not a Role
-When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
+### You’re Not a Role
+Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
 
 Instead, try saying “I’m a person who…”
 
@@ -24,7 +24,7 @@ Instead, try saying “I’m a person who…”
 * “I’m a person who...has experience in creating stories to attract customers.”
 * “I’m a person who...knows how to explain concepts to others in smaller pieces.”
 
-In this session, you’ll explore who you are from 7 different angles to discover what you want as you start looking for a job. **Because you are not just a software developer now, you are a person who has very specific skills, talents, experience, and goals that make you so much more than a software developer.**
+In this session, you’ll explore who you are from 7 different angles to discover what you want as you start looking for a job. **Because you are not just a software developer now, you are a person who has very specific skills, talents, experience, and goals that make you so much more than *just* a software developer.**
 
 ### The Seven Petals
 I am a person who…has 7 sides to me:
@@ -99,5 +99,7 @@ Start broadly and then make more specific
 	* Worksheet
 * Petal #7: Goal/Purpose/Mission in life
 	* What is important to you?
-* Put it all together:
-	* Use your notes to complete the flower worksheet (this is your deliverable)
+
+### Put it all together:
+
+* Use your notes to complete the flower worksheet (this is your deliverable)
