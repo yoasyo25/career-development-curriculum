@@ -11,7 +11,7 @@ Length: 60 minutes
 * Review: 
     Intent vs. Impact (10 mins)
     Blind Spots (5 mins)
-* Communicating Feedback in Conversation (8 mins)
+* Communicating Feedback in Conversation (5 mins)
 * Switchtracking (12 mins)
 * Active Listening Reading (3 mins)
 * Feedback Conversation Practice (15 mins)
