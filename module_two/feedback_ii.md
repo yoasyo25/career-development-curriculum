@@ -3,6 +3,11 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1iLKN-7mCeQCaYulVT_LOsC4ctKjVgG63fNBRijtf33E/edit?usp=sharing)
 
+### Session Structure
+
+* Opening
+* 
+
 ### Objectives
 * Understand how intent and impact affect dialogue
 * Discover how blind spots affect your abilities to give and receive feedback
@@ -19,8 +24,22 @@ Why is working on our skills for giving and receiving feedback so important? Why
 * Whole group discussion
 * Discuss objectives and deliverable
 
-### Intent vs. Impact
-Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. 
+Last module, we focused on giving written feedback. Today, we'll discuss techniques for providing feedback in a face-to-face conversation. 
+
+### Review: Intent vs. Impact
+Whole Group Review:
+
+* What do we mean by *intent* and *impact*?
+    The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. 
+
+Turn & Talk: 
+* How might intent and impact function differently in a verbal conversation vs. written feedback? 
+* What are some norms you might want to set when having an in-person feedback conversation in order to more fully align your intent with your impact?
+
+2-3 groups share out. 
+
+EXAMPLE??
+Every dialogue includes *intent* and *impact*. 
 
 | Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
@@ -36,6 +55,9 @@ What kind of feedback is the giver providing here? Reminder - the 3 types of fee
 * What other impacts might this feedback have?
 * How might you reframe the feedback thinking about the impact that it might have?
 
+
+
+### Review: Blind Spots....
 Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
 
 * Your facial expressions
@@ -59,6 +81,13 @@ For each piece of feedback, answer these questions:
 * How might you reframe this feedback considering the impact?
 * We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
 
+### Switchtracking
+
+
+
+#### Small Group Discussions
+
+
 ### Communicating Feedback 
 Ask for the type of feedback you want - and prime yourself for triggers that could arise in response to it. 
 
@@ -78,6 +107,12 @@ Review how to conduct a feedback conversation:
 What will make this conversation different with a project team vs. having this conversation with just one partner?
 
 An important skill from the body part is listening. What does it mean to actively listen? What can make it difficult to really listen to someone?
+
+
+
+How to Mitigate Switchtracking: Set Boundaries...
+
+
 
 #### Read, Pair, Share
 Read through these [5 steps for improving listening skills](https://www.fastcompany.com/3036026/5-ways-to-improve-your-listening-skills)
