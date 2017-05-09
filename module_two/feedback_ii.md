@@ -10,7 +10,8 @@
 
 ### Objectives
 * Understand how intent and impact affect dialogue
-* Discover how blind spots affect your abilities to give and receive feedback
+* Understand the different stages of a feedback conversations
+* Discover how to set boundaries and stay on track in these conversations
 * Practice active listening and reframing feedback
 * Deliver feedback in a constructive conversation
 
@@ -38,60 +39,27 @@ Turn & Talk:
 
 2-3 groups share out. 
 
-EXAMPLE??
-Every dialogue includes *intent* and *impact*. 
-
-| Feedback | Giver's Intent | Giver's Impact |
-| ------ | ---------------- | ---------------- |
-| Be more confident | When you don't know something, be confident enough to admit it. | You should give others the impression that you have all the answers |
-
-#### Whole Group Discussion
-What kind of feedback is the giver providing here? Reminder - the 3 types of feedback are:
-
-* Appreciation
-* Coaching
-* Evaluation
-
-* What other impacts might this feedback have?
-* How might you reframe the feedback thinking about the impact that it might have?
-
-
-
-### Review: Blind Spots....
+### Review: Blind Spots
 Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
 
 * Your facial expressions
 * Your tone of voice
 * Your behavior patterns
 
-How could blind spots potentially affect the intent of a feedback giver's words?
+#### Whole Group Discussion:
 
-#### Small Group Discussions 
-Create groups of 3-4 students to discuss the feedback and its intent and impact below.  
-
-| Feedback | Giver's Intent | Giver's Impact |
-| ------ | ---------------- | ---------------- |
-| Don't be so quick to make a decision without talking to others | Consider other people's points of view when making a decision | Don't think for yourself. Tone down your enthusiasm. Be bland and passive |
-| You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. No one is noticing my hard work. |
-
-**Discussion Questions:**
-For each piece of feedback, answer these questions:
-
-* What kind of feedback is this?
-* How might you reframe this feedback considering the impact?
-* We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
-
-### Switchtracking
-
-
-
-#### Small Group Discussions
-
+* What might blind spots look like in conversation? Looking for examples.
+* How does a certain blind spot affect the impact of the message?
+* How can you be more aware of your blind spots?
 
 ### Communicating Feedback 
-Ask for the type of feedback you want - and prime yourself for triggers that could arise in response to it. 
+Ask for the type of feedback you want - and prime yourself for triggers that could arise in response to it. Reminder - the 3 types of feedback are:
 
-Review how to conduct a feedback conversation:
+* Appreciation
+* Coaching
+* Evaluation
+
+How to conduct a feedback conversation:
 * **Open** the conversation by getting aligned
    * Define the purpose of the conversation
    * What kind of feedback are we discussing?
@@ -106,15 +74,47 @@ Review how to conduct a feedback conversation:
 
 What will make this conversation different with a project team vs. having this conversation with just one partner?
 
-An important skill from the body part is listening. What does it mean to actively listen? What can make it difficult to really listen to someone?
+### Switchtracking
+When you're receiving feedback in a conversation, it's easier to fall prey to our triggers because we're experiencing them right in the moment. We often experience relationship triggers during a feedback conversation because of the way the other person delivers the feedback. A common reaction to this trigger is Switchtracking. Switchtracking occurs when we stop listening to what the person is saying and instead focus on our issues with the person. Here's what it looks like:
+
+| Step 1 | You get feedback | 
+| Step 2 | You experience a relationship trigger and may question the person's skills/judgment, credibility, or intentions |
+| Step 3 | You change the topic to how you feel |
+| Step 4 | You talk past (or think past) the other person who continues to stay on the original topic. |
+
+Suddenly, neither of you are on the same page, and the feedback isn't getting heard. 
+
+#### Tips for Getting Back on Track
+* Spot the two topics, the original one and the relationship one. You must increase your awareness of what's happening. 
+* Separate the who from the what. Discuss each separately on its own track
+* Help the feedback giver be clear about their meaning
+* Explore the dynamic in the relationship and identify what each of you is doing that contributes to the problem
+* When you get coaching feedback, watch for possible relationship issues that might lurk below the surface
+
+Discuss example with whole group:
+
+| Feedback Giver | Feedback Receiver |
+| -------------- | ----------------- |
+| I'd like to see you ask for my input more. | You don't trust me to complete this on my own? |
+
+* What two topics are being discussed here?
+* How could you address both of these topics on their own tracks?
+* How could the feedback giver be more intentional with their feedback?
+
+Relationship system: is there time?..........
+
+### How to Mitigate Switchtracking: Set Boundaries for the Conversation
 
 
 
-How to Mitigate Switchtracking: Set Boundaries...
+#### Small Group Discussions
+In groups of 3-4, discuss how to address this switchtracking conversation. Start by ....
 
 
 
 #### Read, Pair, Share
+An important skill from the body stage is **listening.** What does it mean to actively listen? What can make it difficult to really listen to someone?
+
 Read through these [5 steps for improving listening skills](https://www.fastcompany.com/3036026/5-ways-to-improve-your-listening-skills)
 
 Then pair up with someone else to have a short conversation. Describe to your partner a recent concept that you've learned at Turing and what that experience was like for you. Your partner will practice active listening and repeat back what they've heard from you.
