@@ -17,3 +17,11 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 
 * [Ian Douglas](iandouglas.youcanbook.me)
 * Marina Corona
+* [Emily Freeman](https://emilyfreeman.youcanbook.me/)
+* [Mark Miranda](https://markmiranda.youcanbook.me/)
+
+### Apps & Other Resources
+
+* Graham Nessler (1608-FE) developed an app to prep for Front End interviews that you can find here:
+    * [Apple Store](https://itunes.apple.com/us/app/flashcardfe/id1225364104?ls=1&mt=8)
+    * [Google Play Store](https://play.google.com/store/apps/details?id=com.grahamnessler.bookmarker&hl=en)

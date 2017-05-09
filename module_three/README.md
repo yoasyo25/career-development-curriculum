@@ -17,12 +17,12 @@ Students will leave Module Three with a clear blueprint for their job search by 
 
 ### Sessions
 
-* What Color is Your Parachute: Flower Exercise
+* [Professional Storytelling: Resumes, Cover Letters, & Turing Portfolio](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling.md)
 * Gear Up 1: Citizenship
-* Professional Storytelling: Resumes, ReadMes, & Turing Portfolio; includes StrengthsFinder III
+* What Color is Your Parachute: Flower Exercise
 * Finding Opportunities
 * Gear Up 2: Parable of the Polygon/Automation
-* Interview Prep I
+* [Interview Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
 * [Job Search Strategies I](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)
 * Gear Up 3: Case Study
 

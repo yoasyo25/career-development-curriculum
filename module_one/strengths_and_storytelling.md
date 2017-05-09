@@ -48,7 +48,11 @@ What stories stick with you and why? Think of a story that you love; maybe it's 
 
 **Quick Debrief:**
 
-Sharing from 1-2 people -- what was compelling about your partner's story?
+Sharing from 1-2 people:
+
+* What key details do you remember from your partner's story?
+* How did your partner tell the story? 
+* What made the story interesting?
 
 ### Individual Reflection 
 Now it's time to think about your own story and about yourself as a compelling character. In your journals, reflect on the following questions:
