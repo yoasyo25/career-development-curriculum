@@ -88,12 +88,11 @@ Whole Group Debrief:
 ### Switchtracking
 When you're receiving feedback in a conversation, it's easier to fall prey to our triggers because we're experiencing them right in the moment. We often experience relationship triggers during a feedback conversation because of the way the other person delivers the feedback. A common reaction to this trigger is Switchtracking. Switchtracking occurs when we stop listening to what the person is saying and instead focus on our issues with the person. Here's what it looks like:
 
+| Steps | Result |
+| ------ | ---------------- |
 | Step 1 | You get feedback | 
-| ------ | ---------------- |
 | Step 2 | You experience a relationship trigger and may question the person's skills/judgment, credibility, or intentions |
-| ------ | ---------------- |
 | Step 3 | You change the topic to how you feel |
-| ------ | ---------------- |
 | Step 4 | You talk past (or think past) the other person who continues to stay on the original topic. |
 
 Suddenly, neither of you are on the same page, and the feedback isn't getting heard. 
