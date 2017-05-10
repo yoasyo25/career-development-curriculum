@@ -20,7 +20,7 @@ Length: 60 minutes
 ### Objectives
 * Understand how intent and impact affect dialogue
 * Understand the different stages of a feedback conversations
-* Discover how to set boundaries and stay on track in these conversations
+* Discover how to handle switchtracking in these conversations
 * Practice active listening and reframing feedback
 * Deliver feedback in a constructive conversation
 
