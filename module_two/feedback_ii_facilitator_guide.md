@@ -34,8 +34,7 @@ Length: 60 minutes
 
 | Timing        | Facilitator Talking Points        | Participant Actions  |
 | ------------- | ----------- | ------------------------|
-| 5 minutes | Introduce the session with the questions on the first slide: "Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?" to solicit answers from students on what they think about feedback; After 1-2 answers, you can move on to introducing the objectives and the deliverable
- | Students participate as called on|
+| 5 minutes | Introduce the session with the questions on the first slide: "Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?" to solicit answers from students on what they think about feedback; After 1-2 answers, you can move on to introducing the objectives and the deliverable | Students participate as called on|
 | 10 minutes | Review Intent vs. Impact: ask *What do we mean by *intent* and *impact*?* Then tell students to turn to a neighbor to discuss the two questions on the slide |  Whole Group Discussion, followed by Turn & Talk for 5 minutes, then 2-3 groups share out whole group |
 | 5 minutes | Review Blind Spots. Say: *Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include: your facial expressions, your tone of voice, and your behavior patterns.* Ask the whole group the questions on the slide | Whole Group Discussion|
 | 5 minutes | Introduce the parts of the Feedback Conversation. Start by reviewing the 3 types of feedback: Appreciation, Coaching, Evaluation; solicit student volunteers to explain each one. Then discuss the parts of the feedback conversation, which are Open, Body, and Close. Read the information off of the slide | Students provide answers when prompted |
@@ -44,6 +43,5 @@ Length: 60 minutes
 | 15 mins | Introduce conversation practice. Have the students first write in their journals what key points they need to discuss and how they will do that. Also, as posted on the slide, have them think about how to use their listening skills during the conversation. Then have students move into their project groups to have their feedback discussion. Reflections should be about 5 minutes and conversations should be about 10 minutes | Students write in their journals and then sit with project groups to deliver feedback to each other. |
 | 5 mins | Close with the last slide discussing next steps and have students reflect on this practice in their journals with the posted reflection questions | Students write in journals silently |
 
-#### Grouping and/or activities
   
-  * Students will self-select partners and groups
+ 
