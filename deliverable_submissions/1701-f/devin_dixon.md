@@ -1,7 +1,7 @@
 # Devin Dixon
 
 ## Mod 3 Deliverables:
-
+[Resume](https://docs.google.com/document/d/1HyaNj2BtQKinrzasjMVAL7RuoJyPjoj88nVxbRZN4iM/edit#heading=h.ymi089liagec)
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
