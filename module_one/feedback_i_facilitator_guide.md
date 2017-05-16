@@ -27,7 +27,7 @@ Length: 60 minutes
 * Writing (8 mins)
 
 
-| Timing        | Facilitator Talking Points        | Participant Actions  |
+| Timing        | Facilitator Talking Points       | Participant Actions  |
 | ------------- | ----------- | ------------------------|
 | 3 minutes | Introduce the session with the objectives on Slide 4. Then, on the next slide, discuss why we're talking about feedback. Read the reasons off of the the slide, but you can also solicit 1-2 additional reasons from students if they would like to contribute | Whole Group Discussion |
 | 6 minutes | Read the directions on Slide 7 about the Personal Reflection that students will write. As they start writing, circulate the room to ensure that everyone is on task |  Students should write in their notebooks if they have them; if not, they can create a gist |
