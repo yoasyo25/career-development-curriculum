@@ -1,5 +1,11 @@
 # Joel Lindow
 
+## Mod 1 Round 2 Deliverables:
+
+* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
+
+* Link to gist documenting further strengths and storytelling reflections following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_follow-up.md)
+
 ## Mod 1 Deliverables:
 *  Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
   * [DTR for Enigma with Ben Ross](https://gist.github.com/JoelLindow/4493eac4e98ac6d7b0811e15de180049)
