@@ -13,3 +13,4 @@
 
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
   * [Strengths and Storytelling Reflection](https://gist.github.com/JoelLindow/4f6f2626a0bfe2ca58296e40ccaffeff)
+  * [Strengths and Storytelling Reflection - REVISIT](https://gist.github.com/JoelLindow/e2df325d003e4787f49e2e2b6fd17905)
