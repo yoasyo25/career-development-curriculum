@@ -10,4 +10,4 @@ Build on your professional story by thinking about how you're progressing at Tur
 
 * Even though your Turing story isn't finished yet, what do you envision for your development in future mods? How will this story end?
 
-* Finally, write a draft of your story here. This is a short paragraph, 4-6 sentences, describing who you are, why you came to Turing, and where you see yourself going in the future:
+* Finally, write a draft of your story here. This is a short paragraph, 4-6 sentences, describing who you are, why you came to Turing, and what you hope to accomplish while you're here:
