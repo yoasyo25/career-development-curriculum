@@ -6,11 +6,13 @@
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
 
-## Mod 3 Deliverables:
+# Turing Portfolio 
 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
-* Link to Trello Board with companies that are being tracked
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://www.turing.io/alumni/kyle-zucker
+
+# Cold Outreach
+
+
 
 # Template: Module 4 Action Plan 
  *This is your deliverable from the [Job Search Strategies I session](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)*
