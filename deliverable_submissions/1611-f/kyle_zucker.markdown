@@ -12,6 +12,7 @@ https://www.turing.io/alumni/kyle-zucker
 
 # Cold Outreach
 
+https://gist.github.com/zkc/747ecbaeaeb94c0cca27882630a2af14
 
 
 # Template: Module 4 Action Plan 
