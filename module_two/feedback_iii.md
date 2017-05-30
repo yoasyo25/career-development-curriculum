@@ -122,9 +122,9 @@ Here are some examples of Appreciative Inquiry questions:
 ### You Do
 Find a partner for coaching practice. Coaching practice will follow this pattern:
 
-* Spend 1 minute deciding on 3-4 questions from the above list that you want your partner to ask you; you can also generate your own questions. 
-* Partner A asks questions of Partner B for 5 minutes. Partner A should ask any follow-up questions that can help clarify what Partner B is saying. Partner B should take notes on any takeaways.
-* Switch - Partner B asks questions of Partner A for 5 minutes. Partner B should ask any follow-up questions that can help clarify what Partner A is saying. Partner A should take notes on any takeaways.
+* Spend 1 minute deciding on 2-3 things you'd like to share based on your reflections and on the questions above. These can be things that feel aligned or surprising about the data you've looked at in your Right-Wrong spotting and Johari Window reflections.
+* Partner A shares these 2-3 reflections, and Partner picks 2-3 questions from the above list (or any that they generate) to ask Partner A in order to provide some clarity. Partner B will then repeat back a synthesis of what they heard Partner A say while Partner A takes any notes they need.
+* Switch - Partner B decides on 2-3 things to share, and after hearing, Partner A decides on 2-3 questions to ask. Partner B shares answers, Partner A repeats a synthesis back, and Partner B takes any relevant notes.
 
 ### Goal-Setting
 Take what you learned from your Appreciative Inquiry conversations to create some goals for yourself. Consider:
