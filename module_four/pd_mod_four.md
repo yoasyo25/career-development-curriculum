@@ -64,3 +64,10 @@ apply to company
 -> use coffee date to get advice (ask questions about org, ask about tech in general, ask about any steps I can take to compete within the organization better amongst other applicants)
 -> follow up based on context of conversation 
 
+
+---
+
+## Portfolio Page 
+
+[portfolio](https://www.turing.io/alumni/eric-wahlgren-sauro)
+
