@@ -2,7 +2,7 @@
 
 Session Time: 90 minutes
 
-[Slides for this lesson](https://github.com/turingschool/career-development-curriculum/blob/master/files/job_search_strategies_i.pdf)
+[Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
 ## Objectives
 * Identify your top priorities in your job search during Module 4
