@@ -142,6 +142,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
   <tr>
   <td><a href="https://www.linkedin.com/in/robertjaeger0/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Robbie Jaeger</a></td>
   <td><a href="https://www.linkedin.com/in/taylor-moore-0298a635/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Taylor Moore</a></td>
+  <td><a href="https://www.linkedin.com/in/tmikeschu/">Mike Schutte</a></td>
   </tr>
   <tr>
    <td><a href="https://www.linkedin.com/in/salespinosa/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Sal Espinosa</a></td>
