@@ -24,6 +24,14 @@ Job searching brings up a lot of questions:
 
 Trying to answer all of these questions can feel overwhelming, but in this session, we'll discuss strategies for distilling your thoughts into a plan for approaching and completing your job search successfully.  
 
+# Four Step Process
+We'll break this down into a 4-step process:
+
+* Define Who You Are & Where You Want to Go
+* Decide on Priorities
+* Create a Plan
+* Goal Setting
+
 ## Step One: Define Who You Are & Where You Want to Go
 The Flower Exercise forced you to take a deeper dive into what skills, knowledge, and values have informed your professional journey thus far, and we'll build on those reflections to analyze how our career could provide us with the opportunities we seek. 
 
