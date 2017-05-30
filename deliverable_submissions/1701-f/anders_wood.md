@@ -9,6 +9,7 @@ https://resume.creddle.io/resume/d1j7eoj09ho
 * Link to Trello Board with companies that are being tracked: 
 https://trello.com/b/Scawv7IL/job-search
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://gist.github.com/anderswood/6407cf4cbdbebcfbbeb434f8d4fc043e
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
