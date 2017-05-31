@@ -1,7 +1,7 @@
 # Teamwork & Strengths
 ## Using your Strengths as a Team Member
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/17z3gF1N81z_7GGGK-KioRYLrIdilS7mDRRQvgw-R3Rg/edit?usp=sharing)
 
 ### Session Structure
 
