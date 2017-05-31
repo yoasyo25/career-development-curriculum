@@ -15,28 +15,28 @@ Length: 60 minutes
 * Whole Group Debrief (5 mins)
 * Final Reflection (7 mins)
 
+### Objectives:
+
+* Describe how you use your strengths in teams
+* Describe how you might adapt your strengths according to team dynamics
+* Discuss how to leverage each others' strengths to work even more effectively in your project
+
 ### Opening
 
-Building off of Johari Windows by understanding our strengths as team members a little better
-
-First, reflect on your StrengthsFinder strengths again; individual reflection; but also fun icebreaker could be to find people who have the same strengths? (I don't know those though since I didn't ask for submissions...)
-Then pair up with former teammate -- describe strengths and ask for where they've seen it
-Agile Manifesto -- finish out the mod strong going back to the 
-
+Module Two has been focused on honing your teamwork skills in different ways with an emphasis on communication and feedback. In Feedback III, you reflected on how others see you. Today, you'll build off those reflections to discuss your strengths as team members.
 
 ### Individual Reflections
-Reflect on your StrenghthsFinder results. How have you changed since you started at Turing?....How have your strengths helped you??
-
-interacting with partners and teams. 
+Reflect on how your StrengthsFinder strengths have helped you worked with pairs and teams. 
 
 **Write:** 
 
-* How do I feel like I have used my strengths when I've paired with others?
-* How could I utilize these strengths more?
-* What gets in my way or keeps me from fully using my strengths?
+* How have you changed since you started at Turing? How have your strengths helped you in that progress?
+* How do you feel like you have used your strengths when you've paired with others?
+* How could you utilize these strengths more?
+* What gets in your way or keeps your from fully using your strengths?
 
 ### Pair & Share: Inquiry 
-Pair up with a former team member. Describe a few of your strengths to each other
+Pair up with a former team member. Describe a few of your strengths to each other.
 
 * Have you seen me express these strengths? If so, how?
 * What advice do you have on how I could express this strength more?
@@ -60,7 +60,7 @@ Using the [12 principles of Agile](http://agilemanifesto.org/principles.html) as
 Groups share out takeaways on their manifestos.
 
 ### Goal-Setting
-Now create some goals for yourself. Write in your journals answers to the following questions:
+Now create some goals for yourself. In your journals, write your answers to the following questions:
 
 * As you finish up Module Two, what do you want to keep doing and what changes would you like to make?
 * As you look ahead to Module Three, what do you want to accomplish? How will you do that?
