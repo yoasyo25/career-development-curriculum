@@ -1,6 +1,30 @@
 # Valerie Trudell
 
-## Mod 3 Deliverables:
+# Mod 4 Deliverables: 
+========================== 
+
+    Final approval of portfolio and resume
+    Documentation of six cold outreach emails completed following these guidelines 
+      Name 	                              Email 	                          Response
+      Kris Merrit                       	kris@vector8.io	                Responded, did a job shadow, not hiring right now 
+                                                                          but offered to be
+  
+      Shawn	                              shawn@saltlending.com	          No reply 
+      Chris Rothe	                        chris@redcanary.com	            Pending 
+      Trent Hein 	                        trent@appliedtrust.com	        Pending 
+      Chris	                              chris@digitalglobe.com	        Meet at job fair; message again in July
+      Chistopher Huxley 	                chis.huxley@trendly.com	        Pending 
+      
+    Documentation of practice interview participation
+    Completed action plan for the job search
+    Gear Up-related reflections
+
+You'll submit all deliverables except for Gear Up reflections here. Gear Up reflections should be included in your module portfolio.
+
+
+
+# Mod 3 Deliverables:
+==========================
 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
 
