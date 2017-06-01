@@ -1,7 +1,7 @@
 # Valerie Trudell
 
+
 # Mod 4 Deliverables: 
-========================== 
 
     Final approval of portfolio and resume
     Documentation of six cold outreach emails completed following these guidelines 
@@ -24,7 +24,7 @@ You'll submit all deliverables except for Gear Up reflections here. Gear Up refl
 
 
 # Mod 3 Deliverables:
-==========================
+
 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
 
