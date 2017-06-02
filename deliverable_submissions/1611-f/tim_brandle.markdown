@@ -3,8 +3,8 @@
 ## Mod 4 Deliverables:
 * Link to overview of 6 Cold Outreach emails following these [Cold Outreach](https://gist.github.com/tbrandle/7c15275618938e5e838bf1da4074aa6f):
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://gist.github.com/tbrandle/68599a2147d64adead483f857967a7f9):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+* Summary of participation in practice interview and/or actual interview using these [Interview](https://gist.github.com/tbrandle/68599a2147d64adead483f857967a7f9):
+* Link to completed action plan for the post-grad job search using this [Action Plan](https://gist.github.com/tbrandle/2fa01ef40f077f1e05ecb5e9a545d0be):
 
 ## Mod 3 Deliverables:
 
