@@ -12,6 +12,7 @@
   * Kevin, Lead Web Developer (3)
   * Josh Scott, CEO of Craftsy (4) 
   * Frank, Director of Engineering (5)
+  * Rob, Chief of Product (6)
 
 * Date of contact
   * 05-17-17 (1)
@@ -19,6 +20,7 @@
   * 05-17-17 (3)
   * 05-30-17 (4)
   * 05-30-17 (5)
+  * 06-1-17  (6)
 
 * Outcome (ie did you get a response? If so, what happened?)
 
@@ -31,6 +33,8 @@
   * Reached out via LinkedIn messenger. Haven't heard back yet (4) 
   
   * Reached out via LinkedIn messenger. Haven't heard back yet (5)
+  
+  * We are getting together to talk about the company and what they currently need (6)
   
 ---
 
