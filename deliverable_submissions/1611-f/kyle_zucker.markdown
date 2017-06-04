@@ -1,163 +1,79 @@
-# Post-Grad Job Search Action Plan  
+Kyle Zucker
 
-Some things to consider:
+Mod 4 Deliverables:
 
-* What do you envision for your career?
-* What do you want your 2nd and 3rd jobs to look like?
-* How do you want to be involved with the Turing community? The greater developer community?
-* Where do your passions lie?
+Link to overview of 6 Cold Outreach emails following these guidelines:
+Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
+Summary of participation in practice interview and/or actual interview using these guidelines:
+Link to completed action plan for the post-grad job search using this template:
+Turing Portfolio
 
-### How to complete this plan:
+https://www.turing.io/alumni/kyle-zucker
 
-Create a gist from this template and fill out the first two parts of this plan:
+Cold Outreach
 
-1. Job Search Plan
-2. Longterm Career Plan
+https://gist.github.com/zkc/747ecbaeaeb94c0cca27882630a2af14
 
-The third part is optional although highly encouraged. 
+Template: Module 4 Action Plan
 
-**Note:** If you have already secured a job prior to graduation, skip the first part of this plan and please fill out the second part of this plan. 
+https://gist.github.com/zkc/c0c506f12760b7d62ecbbe194c9009f9
 
-## Note to Self
+Module 4 Goals
 
-I recently read a blog post from which I picked up the idea of differenciating between things that are Important and things that are Urgent. Important things are essential to life. Eating, Health, Socializnig, etc are all Important, but I've found can be mistakenly pushed aside for things that are currently Urgent. My takeaway, we want to do things that are important, but stress can pressure us to only focus on the urgent. I've found it helpful to separate/label the tasks I put on myself with important or/and urgent and want to balance my plan with these labels playing a key role. 
+List your longterm goal(s) of what you want to accomplish by the end of module 4
 
-## #1: Job Search Plan: Create a schedule & goals
-1. Design a 40-hour "work week" that provides time for: 
-	* Code (ideally, 2-4 hours a day will be dedicated to coding)
-	* Outreach
-	* Research 
-	* Network   
-	* Any other areas where you'd like to grow
-How much time will you spend on each? When will you do each thing?
-***
+Job Offer
 
-#### Daily Schedule ~16hrs 
-###### (32 standard POMs not counting breaks) 
-###### Aim for 16 POMs (8 POM morning, 8 POM afternoon) 
+Strategy To Achieve Goals:
 
-Overall goal is to try to touch everything important once per day while also allowing time for things that are urgent.
+In this section, break down your longterm goal into smaller goals that you want to work on each week and/or day
 
-* Morning routine ~1.5hr 
-	* Out of bed: 8am	 
-	* Food
-	* Physical activity
-		* Yoga/strech
-		* Gym + ~1hr
-* Code 3hr min 6 POMs
-	* Project Mangement ~1/2 POM
-	* Code on top priority project ~ 5 POM
-	* Code on fun project ~ 1 POM
-* Job 2hr min 4 POMs
-  * Outreach 
-      * Job shadowing
-      * Coffee meetups (how do you properly ask for coffee meetups if you don't drink coffee...) 
-      * Email, fresh and responce 
-   * Applications (Busy work)
-   * Reasearch (currently tends to happen sporatically thruout day/evening.)
+Personal site completed by Mod 3 end date
+Begin cold outreach by end of Mod 3, need to target a couple compainies first
+Meetup at least once every 2 weeks
+Professional 1 on 1 meetups on a consistent basis
+Coding (both including your module 4 curriculum and anything outside of it):
 
+How will you focus your learning to accomplish your longterm goal?
 
-2. Backwards planning: What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
+Polish personal site and showcase projects.
 
-It is unwise for me to think this way. For me, I'm more sucessful when I focus on mantaining the process rather than focusing on the end goal. My best goal is to keep up a good routine. 
+Opportunities Research:
 
-3. Based on what you outlined above, create monthly, weekly, and daily goals in order to reach your big goal.
+How will you continue researching companies and contacts? How will you utilize your Trello Board?
 
+I'm very open to companies/industries, so oddly enough it makes it more difficult to pin-point companies.
 
-Weekday Daily schedule: 
-- 2-4 hrs of coding
-- 2-4 hrs applications 
-- 2 hrs outreach
+Cold Outreach/Network:
 
-Do every weekday. 
+*Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
 
-Weekend schedule: 
-- ~2hrs. coding 
-- ~2hrs. application spam
+Need to touch base with past work contacts and see if there's any potential warm out-reach.
 
-Goals: 
-- Job shadowing 
+Personal Branding (A personal branding section is optional):
 
+How might personal branding pieces help you towards your goal?
 
+I'm not a fan of personal branding. I'd like to try writing medium articles.
 
-4. Block out time on your calendar *now* to adhere to these goals. At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. 
+Timeline:
 
+What will you do when?
 
+See goal strategy.
 
+Module Tasks:
 
+What will you do throughout the module?
 
-5. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
+Weekly Tasks:
 
+What will you do throughout each week?
 
+Weekly job hunt time. This Weekly task includes scheduling more job hunt time for the upcoming week.
 
+What I Will Work on with Meg
 
+What advice do you need? What would be helpful to talk through? Let Meg know here!
 
-
-**[Example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7)** of clearly outlined goals and schedule to complete them. 
-
-
-## #2: Longterm Career Plan: What are your career goals?
-Where do you want to go in your career? 
-
-Reflect on this [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
-
-	Come up with your ending before you figure out your middle. Seriously. 
-	Endings are hard, get yours working up front.
-	
-1. Imagine that it's 5 years from now - what have you accomplished during that time? How is your life different? What steps did you take to achieve your goals?
-I'm not dead. The last 5 years have been a whirlwind, being able to have a consistent lifestyle for more consetive years would be a dream. I can't look ahead. Because that's still a dream.
-
-2. Create a vision statement for these longterm goals.
-
-Don't kill myself.
-
-	Guidelines for writing your vision statement:
-  
-
-	* Make your statements stretching, challenging, and interrupting of the status quo.
-	* Write in the future tense (I will...)
-	* Is the statement grounded -- have you been able to demonstrate something similar in the past?
-
-
-3. Reference what you outlined in your Flower Exercise -- what preferred level of responsibility do you want to move to? Do you want to start your own company? What kind of work do you see yourself doing longterm? In your first year on the job, what skills do you want to develop to work towards your longterm goals?
-
-My longterm capitalists goals are to get out of debt. My real longterm goal is to at the very least, pretend that I helped the people around me.
-
-## Optional: Furthering your Skills and Contributing to the Developer Community
-You're encouraged to pick one of the below options to work on in addition to the previous two. However, these are both completely optional.
-
-### Option #1: Side Hustle Plan
-What side project(s) do you want to work on? How could you decide on a side project?
-
-Possibilities: 
-Speaking - I like to do it, seems like a good way to individualize yourself
-Projects: 
-  - Lunch-r beef up
-  - Mom's antique site
-  - Personal site
-Writing - new thing for me that I've been enjoying. 
-  - Audio-Code comparision/life story
-  - Subitize design
-  
-I'll definitely be working on a code project, I pick the antique site first. Writting could be a good yin to the code yang
-If I can find speaking oppurtunities I'd enjoy it. Could do tech focused (CSS GRID!) or Subitize
-
-
-
-
-
-### Option #2: Open Source Project
-How do you want to contribute to the developer community? 
-
-* Find an Open Source project couple projects you’d be interested in, why you’re interested, how you would like to contribute
-
-
-
-### Option #3: Community Involvement
-How do you want to be involved in the developer community?
-
-How you could approach this option:
-
-* Research at least 3 conferences you'd be interested in attending -- what would you get out of them? Do you want to speak at a conference at some point?
-* Find 3 new meetups to join -- how could you contribute to those meetups?
-* Write 3 new blog posts -- how can you share information with others?
+I've never met Meg! I'd like to talk about how much "fakeness" I have to be in order to "impress" hiring folks. I'm also in a wierd place where my past failures in job hunting haunt my confidence moving forward. I feel I have to keep un-invested in any oppurtunity as I feel any oppurtunity is destined for failure. Oddly enough, I blame over-confidence for past failures. So overall my self-feedback now restricts any enthusiasm for job searching, while in the past I felt much more confident in my ability to land a gig. Now that same confidence feels wrong and makes my efforts seem to be in vain.
