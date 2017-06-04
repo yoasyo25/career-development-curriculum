@@ -4,7 +4,11 @@
 
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
 
+https://gist.github.com/rburnette3/841fba9a7d5e9bf0915c14ae4add0239
+
 * Link to gist documenting further strengths and storytelling reflections following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_follow-up.md)
+
+https://gist.github.com/rburnette3/039c06208f8a956ae561076517f5a83d
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
