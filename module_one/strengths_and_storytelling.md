@@ -25,7 +25,7 @@ Length: 90 mins
 * Understand the value of storytelling in both professional and personal relationship-building contexts
 * Reflect on and share what brought you to Turing and how you uniquely add to the software industry
 * Use your StrengthsFinder themes to help you describe your Turing story
-* Practice active listening in interviewing and sharing situations to better understand each other
+* Practice networking and sharing stories to better understand each other
 
 #### Deliverables
 * Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) for your M1 PD deliverables that you'll submit [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
@@ -48,7 +48,11 @@ What stories stick with you and why? Think of a story that you love; maybe it's 
 
 **Quick Debrief:**
 
-Sharing from 1-2 people -- what was compelling about your partner's story?
+Sharing from 1-2 people:
+
+* What key details do you remember from your partner's story?
+* How did your partner tell the story? 
+* What made the story interesting?
 
 ### Individual Reflection 
 Now it's time to think about your own story and about yourself as a compelling character. In your journals, reflect on the following questions:
@@ -63,7 +67,7 @@ Now it's time to think about your own story and about yourself as a compelling c
 
 Students will get into groups of 4 to discuss key takeaways from their individual reflection. Each group member should get 3 minutes to talk (uninterrupted about the first two reflection questions). Assign someone to keep time. You will have additional time in your group after everyone shares. With that additional time, discuss your ideas for this final question:
 
-* How can we operate as a cohort to build on our similarities and learn from our differences?
+* How can we operate as a community to build on our similarities and learn from our differences?
 
 ### Whole Group Share 
 
@@ -78,16 +82,24 @@ Now we'll frame our stories around how we're developing at Turing.
 
 Create a gist for [your reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) to expand on your story in terms of how you're progressing and where you see yourself going. Focus on these questions:
 
-* Look at your initial StrengthsFinder reflection that you completed in week 1 -- how have your perceptions of the top 5 themes changed?
-* How are you different today than when you first started at Turing? Where are you stronger now than on day 1?
+* Look at your initial StrengthsFinder reflection that you completed in week 1 -- how have your perceptions of the top 5 themes stayed the same? How have they changed?
+* How are you different today than when you first started at Turing? How are you stronger now than on day 1? How have you struggled? 
 * Considering how you describe these themes, how do you want others to see you as you continue to progress through Turing?
-* How might these themes play a role in describing your Turing story?
 * Even though your Turing story isn't finished yet, what do you envision for your development in future mods? How will this story end?
+* Finally, write a draft of your story here. This is a short paragraph, 4-6 sentences, describing who you are, why you came to Turing, and what you hope to accomplish while you're here.
 
 It's important to remember that this story is a draft. You're continuing to grow and learn, and thus your story will change. But this is about starting with our first draft and getting better at refining it as we go through the program. 
 
-### Pair Up: Interviewing
-Find a partner to interview. The objective here is to work on telling your story by building in specifics of how you're developing your strengths at Turing. You'll have 4 minutes to tell your story, and then your partner will give you 1 minute of feedback on what they heard and ask clarifying questions. Then you'll switch. We'll do 2 rounds of interviews to practice our storytelling skills. 
+### Pair Up: Networking
+Find a partner to network with. The objective here is to work on telling your story by building in specifics of how you're developing your strengths at Turing. Make sure to include:
+
+* Who you are -- however you'd like to describe yourself, your strengths, your values, etc.
+* Why you're at Turing; what brought you here?
+* What's next? Where do you see yourself going as you keep progressing through Turing?
+
+You'll have 4 minutes to tell your story, and then your partner will give you 1 minute of feedback on what they heard and ask clarifying questions. Do they have a clear understanding of your story based on how you told it?
+
+Then you'll switch. We'll do 2 rounds of interviews to practice our storytelling skills. 
 
 ### Whole Group Share Out
 Share takeaways from your interviewing experience:

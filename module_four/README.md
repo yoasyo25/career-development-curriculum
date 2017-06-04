@@ -22,7 +22,7 @@ By achieving the objectives listed above, students will be prepared for a succes
 * Gear Up 1: Case Study planning I
 * Interview Prep II (practice sessions) 
 * Gear Up 2: Case Study planning II
-* Negotiations
+* [Negotiations](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/negotiations.md)
 * Job Search Strategies II/StrengthsFinder IV: Envisioning the future 
 * Gear Up 3: Case Study
 * 1-on-1 meetings with Meg
