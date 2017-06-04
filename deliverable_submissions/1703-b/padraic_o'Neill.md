@@ -3,7 +3,7 @@
 Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+* Link to gist documenting mentor outreach: https://gist.github.com/podoglyph/e06f400904afc42e037ef5747e5e1588
 
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
 
