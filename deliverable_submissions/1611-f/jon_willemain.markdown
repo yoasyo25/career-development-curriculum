@@ -9,6 +9,7 @@ https://www.turing.io/alumni/jon-willemain
 https://gist.github.com/ActionJonny/21ca3144406e94112d64fa3902a85fb8
 
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+https://gist.github.com/ActionJonny/bde52fde808cd3d647d47921da4cd2d7
 
 ## Mod 3 Deliverables:
 
