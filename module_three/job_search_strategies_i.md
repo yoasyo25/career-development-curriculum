@@ -2,7 +2,7 @@
 
 Session Time: 90 minutes
 
-[Slides for this lesson](https://github.com/turingschool/career-development-curriculum/blob/master/files/job_search_strategies_i.pdf)
+[Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
 ## Objectives
 * Identify your top priorities in your job search during Module 4
@@ -23,6 +23,14 @@ Job searching brings up a lot of questions:
 * Are you open to traveling for consulting or do you prefer to stay put in a single location?
 
 Trying to answer all of these questions can feel overwhelming, but in this session, we'll discuss strategies for distilling your thoughts into a plan for approaching and completing your job search successfully.  
+
+# Four Step Process
+We'll break this down into a 4-step process:
+
+* Define Who You Are & Where You Want to Go
+* Decide on Priorities
+* Create a Plan
+* Goal Setting
 
 ## Step One: Define Who You Are & Where You Want to Go
 The Flower Exercise forced you to take a deeper dive into what skills, knowledge, and values have informed your professional journey thus far, and we'll build on those reflections to analyze how our career could provide us with the opportunities we seek. 
@@ -86,7 +94,7 @@ Setting goals will help guide your final set of scheduling and priorities. Set y
 Identify your longterm goal first -- what do you want to have accomplished by the last day of Module 4? Then break it down into smaller goals of what you can accomplish.
 
 **Keep in mind:** 
-Your Mod 4 deliverables include 6 cold outreach emails, participating in an actual or practice interview, and completing what is known as [The Plan](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/index.md). Since you will need to complete those deliverables, include them in your Module 4 plan!
+Your Mod 4 deliverables include 6 cold outreach emails, participating in an actual or practice interview, and completing a [post-grad plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). Since you will need to complete those deliverables, include them in your Module 4 plan!
 
 ## Closing
 * Be flexible, kind to yourself, and realistic with your time. 
