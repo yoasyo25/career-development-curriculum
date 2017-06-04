@@ -6,9 +6,10 @@
 [miller.kelly.resume.pdf](https://github.com/turingschool/career-development-curriculum/files/984145/miller.kelly.resume.pdf)
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+[flower exercise](https://gist.github.com/kellymiller6/c73d57bb641f308a4c4d0e49e182b8a6)
 * Link to Trello Board with companies that are being tracked: 
 [trello job board](https://trello.com/b/T3ZMhSNz/job-tracker)
-* Job search action plan for M4, [action plan](https://gist.github.com/kellymiller6/9a6fc69af770d734445954ccc1409fe6):
+* Job search action plan for M4: [action plan](https://gist.github.com/kellymiller6/9a6fc69af770d734445954ccc1409fe6)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [mentor gist](https://gist.github.com/kellymiller6/d6469958ed5c51504d10fd8fecf031f0)
