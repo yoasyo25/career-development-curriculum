@@ -32,7 +32,10 @@ I recently read a blog post from which I picked up the idea of differenciating b
 How much time will you spend on each? When will you do each thing?
 ***
 
-#### Daily Schedule ~16hrs (32 standard POMs not counting breaks)
+#### Daily Schedule ~16hrs 
+###### (32 standard POMs not counting breaks) 
+###### Aim for 16 POMs (8 POM morning, 8 POM afternoon) 
+
 Overall goal is to try to touch everything important once per day while also allowing time for things that are urgent.
 
 * Morning routine ~1.5hr 
@@ -41,15 +44,25 @@ Overall goal is to try to touch everything important once per day while also all
 	* Physical activity
 		* Yoga/strech
 		* Gym + ~1hr
-* Code 
-
+* Code 3hr min 6 POMs
+	* Project Mangement ~1/2 POM
+	* Code on top priority project ~ 5 POM
+	* Code on fun project ~ 1 POM
+* Job 2hr min 4 POMs
+  * Outreach 
+      * Job shadowing
+      * Coffee meetups (how do you properly ask for coffee meetups if you don't drink coffee...) 
+      * Email, fresh and responce 
+   * Applications (Busy work)
+   * Reasearch (currently tends to happen sporatically thruout day/evening.)
 
 
 2. Backwards planning: What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
-It is unwise for me to think this way. 
 
+It is unwise for me to think this way. For me, I'm more sucessful when I focus on mantaining the process rather than focusing on the end goal. My best goal is to keep up a good routine. 
 
 3. Based on what you outlined above, create monthly, weekly, and daily goals in order to reach your big goal.
+
 
 Weekday Daily schedule: 
 - 2-4 hrs of coding
