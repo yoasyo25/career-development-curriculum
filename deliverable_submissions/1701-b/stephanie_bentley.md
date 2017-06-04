@@ -7,7 +7,9 @@
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 * Link to Trello Board with companies that are being tracked: 
+https://trello.com/b/9zqxMJ8O/stephanie-job-tracker
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://gist.github.com/slague/b1a6c8d1b2a0cfed592b2d3256ca6be8
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach:
