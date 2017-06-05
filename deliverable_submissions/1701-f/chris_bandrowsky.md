@@ -6,7 +6,7 @@
 * Turing Portfolio [My Turing Portfolio](https://www.turing.io/alumni/christopher-bandrowsky)
 * Flower Exercise [Flower Link](https://gist.github.com/cbandrow/379f635b3bc648506348bb5b128b0f84)
 * Trello: [Trello Link](https://trello.com/b/tLAUP2JR/chrisbandrowsky-jobtracker)
-* Job search action plan for M4, using this [Action Plan](https://gist.github.com/cbandrow/bb8f2a9ea3061d4aff986141c5ec7591):
+* Job search Action Plan [Action Plan](https://gist.github.com/cbandrow/bb8f2a9ea3061d4aff986141c5ec7591):
 
 ## Mod 2 Deliverables:
 All deliverables are attached in their respective Gists. 
