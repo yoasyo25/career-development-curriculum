@@ -2,6 +2,8 @@
 
 ## Mod 4 Deliverables:
 * Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+https://gist.github.com/ActionJonny/0b5c574085a6952177e4af0c0118247b
+
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume: 
 https://www.turing.io/alumni/jon-willemain
 
