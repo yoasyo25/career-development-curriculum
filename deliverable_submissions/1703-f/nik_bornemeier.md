@@ -1,15 +1,13 @@
 # Nik Bornemeier
 
-Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
-
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+[mentor outreach gist](https://gist.github.com/NikBorn/43b28c58960b58a55c4412b80dbda221)
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+[agile practice/project management](https://gist.github.com/NikBorn/d11fc2b2d9aa747602f215ecca7029aa)
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+[in-person feedback](https://gist.github.com/NikBorn/850be8036649ddf3b008e0a46d99ed4c)
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+[strengths in group work]( https://gist.github.com/NikBorn/ea3c001625d8da7bf497faf43ac6408c)
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): [gist](https://gist.github.com/NikBorn/5cc563645d0eb0fd494b4168e309ae21)
