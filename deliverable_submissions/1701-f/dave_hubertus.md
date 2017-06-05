@@ -1,5 +1,23 @@
 # Dave Hubertus
 
+## Mod 3 Deliverables:
+
+* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+[Dave Hubertus - Draft Resume.pdf](https://github.com/turingschool/career-development-curriculum/files/982193/Dave.Hubertus.-.Draft.Resume.pdf)
+
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+https://gist.github.com/dhubertus/007712be391f50cb606e093d70f1e541
+
+* Link to Trello Board with companies that are being tracked: 
+https://trello.com/b/osuQlzHY/job-tracker
+
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://gist.github.com/dhubertus/2a203158b991250e94c25d1ef27954a2
+
+###https://gist.github.com/dhubertus/508acda1f81cc8895f207370515951e4
+
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
