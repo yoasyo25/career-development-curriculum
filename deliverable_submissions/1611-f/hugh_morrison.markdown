@@ -4,7 +4,7 @@
 * [Cold Outreach](https://gist.github.com/hmorri32/993c129a9f048ecf3a924afa107e3143)
 * [Turing portfolio](https://www.turing.io/alumni/hugh-morrison)
 * [practice interview deliverables](https://gist.github.com/hmorri32/dffb93cd94b6b409fe08d3536076e151)
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+* [Post-grad action plan](https://gist.github.com/hmorri32/adae91977618ec2f4d8c29422da61db6):
 
 ## Mod 3 Deliverables:
 
