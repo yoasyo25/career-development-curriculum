@@ -1,6 +1,12 @@
 # Jack Bevis
 
-#
+## Mod 3 Deliverables:
+[Jack Bevis Resume](https://docs.google.com/document/d/1ZINf42VV3KjVoJUJ6LbClDHrhVUeqb-GYuS4dn6CaT4/edit?usp=sharing)
+[Flower Diagram](https://gist.github.com/jbevis/1be0612adff6abc0c47dd8af7f02e7a2)
+[Job Tracker Trello Board](https://trello.com/b/qWv31njH/jack-bevis-job-tracker)
+[Jack Bevis Turing Profile](https://www.turing.io/alumni/jack-bevis)
+[Jack Bevis Mod4 Action Plan](https://gist.github.com/jbevis/890e0acc36cfd641cdb93a4d2ca2a810)
+
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
