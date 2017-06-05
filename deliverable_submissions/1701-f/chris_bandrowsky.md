@@ -1,12 +1,12 @@
 # Chris Bandrowsky
 
 ## Mod 3 Deliverables:
-
 * Resume: [Google Drive Resume Link](https://drive.google.com/open?id=0B0vr7MmemvPRalQ4M1ctWDBmcGs) 
 * Turing Portfolio [My Turing Portfolio](https://www.turing.io/alumni/christopher-bandrowsky)
 * Flower Exercise [Flower Link](https://gist.github.com/cbandrow/379f635b3bc648506348bb5b128b0f84)
 * Trello: [Trello Link](https://trello.com/b/tLAUP2JR/chrisbandrowsky-jobtracker)
 * Mod4 Job Search [Action Plan](https://gist.github.com/cbandrow/bb8f2a9ea3061d4aff986141c5ec7591)
+
 
 ## Mod 2 Deliverables:
 All deliverables are attached in their respective Gists. 
