@@ -16,7 +16,6 @@ https://trello.com/b/osuQlzHY/job-tracker
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 https://gist.github.com/dhubertus/2a203158b991250e94c25d1ef27954a2
 
-###https://gist.github.com/dhubertus/508acda1f81cc8895f207370515951e4
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
