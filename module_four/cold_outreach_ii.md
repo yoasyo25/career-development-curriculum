@@ -8,7 +8,6 @@
 * Implement strategies to write effective emails 
 
 ### Deliverable
-[Cold outreach, round 2](https://gist.github.com/ski-climb/8a6d77e9e3f06dac00203568f306d6c3)
 
 Provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) by **Monday of Week 5**
 
@@ -32,11 +31,11 @@ When it comes to your job search, meeting people to have discussions about compa
 
 Suggested purposes:
 
-* Informational Interview 
+* Research conversations 
 * Tour office
 * Hiring junior developers
 
-Most common purpose: Informational Interviews -- what is the purpose of an informational interview? How can you approach this? 
+Most common purpose: Research Conversations -- what is the purpose of these conversations? How can you approach this? 
 
 ### How to Leverage Your Network
 How can you leverage the network you already have? 
