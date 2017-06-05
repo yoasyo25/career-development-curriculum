@@ -2,7 +2,7 @@
 
 ## Mod 3 Deliverables:
 
-* [Link to resume](https://drive.google.com/file/d/0B2E9blc9hhllSmQ0aXhZNnRlcHc/view?usp=sharing)*: 
+* [Link to resume](https://drive.google.com/file/d/0B2E9blc9hhllSmQ0aXhZNnRlcHc/view?usp=sharing)
 * [Link to Turing portfolio](https://www.turing.io/alumni/john-binning)
 * [Link to Flower Exercise](http://i.imgur.com/KJXvEdx.png) 
 * [Link to Trello Board](https://trello.com/b/6xOynxkn/john-job-tracker)
