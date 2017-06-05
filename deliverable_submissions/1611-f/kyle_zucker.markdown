@@ -2,10 +2,6 @@ Kyle Zucker
 
 Mod 4 Deliverables:
 
-Link to overview of 6 Cold Outreach emails following these guidelines:
-Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume:
-Summary of participation in practice interview and/or actual interview using these guidelines:
-Link to completed action plan for the post-grad job search using this template:
 Turing Portfolio
 
 https://www.turing.io/alumni/kyle-zucker
@@ -17,6 +13,11 @@ https://gist.github.com/zkc/747ecbaeaeb94c0cca27882630a2af14
 Template: Module 4 Action Plan
 
 https://gist.github.com/zkc/c0c506f12760b7d62ecbbe194c9009f9
+
+Interview Prep Reflection
+
+https://gist.github.com/zkc/840e6d4e87e29a9b538e0bd9ddff119e
+
 
 Module 4 Goals
 
