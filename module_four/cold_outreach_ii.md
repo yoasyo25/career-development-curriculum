@@ -31,11 +31,11 @@ When it comes to your job search, meeting people to have discussions about compa
 
 Suggested purposes:
 
-* Informational Interview 
+* Research conversations 
 * Tour office
 * Hiring junior developers
 
-Most common purpose: Informational Interviews -- what is the purpose of an informational interview? How can you approach this? 
+Most common purpose: Research Conversations -- what is the purpose of these conversations? How can you approach this? 
 
 ### How to Leverage Your Network
 How can you leverage the network you already have? 
