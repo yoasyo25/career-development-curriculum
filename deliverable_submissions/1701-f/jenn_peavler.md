@@ -6,7 +6,8 @@
 [Jenn Peavler's Resume](https://drive.google.com/file/d/0B3ItQVupdvvgN3ZWLTF6amNBeU0/view)
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
+* Link to Trello Board with companies that are being tracked:
+[Jenn Peavler's Trello Board](https://trello.com/b/iKs0XkdX/job-tracker)
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
 
