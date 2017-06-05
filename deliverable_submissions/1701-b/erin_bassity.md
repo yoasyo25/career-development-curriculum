@@ -3,10 +3,10 @@
 ## Mod 3 Deliverables:
 
 * Link to resume *:[link]https://docs.google.com/document/d/1GxgW-xZrq4VPKl5C3AUSajH0jlxUPr2drDeF7qiD8YE/edit?usp=sharing 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume *:[link]https://www.turing.io/alumni/erin-bassity
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission) *:[link]https://docs.google.com/document/d/1QOMrz_VRM-dZUUiTJ9cm30J0c5vZcGxP0wMjQ_FNphY/edit
+* Link to Trello Board with companies that are being tracked *:[link]https://trello.com/b/e77QtQpA/erin%27s-search-board
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md) *:[link]https://gist.github.com/somedayrainbows/183f1b40bd4cd47ab5f610092aa2476d
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [link](https://gist.github.com/somedayrainbows/3b09fb42fe58780923ad99b98abcfd4f)
