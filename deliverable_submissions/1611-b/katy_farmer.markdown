@@ -5,7 +5,8 @@
 https://docs.google.com/document/d/1rfZ6lvsZQu9BCpjGutzrkPcWxh7sXnz3HRG_NsS_SMk/edit?usp=sharing
 
 * Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+https://www.turing.io/alumni/katy-farmer
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): https://gist.github.com/TheKaterTot/cdfdf6bc7eb745114f8c981fb761d307
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
 
 https://gist.github.com/TheKaterTot/5862d723316b885d23464ea932716e82
