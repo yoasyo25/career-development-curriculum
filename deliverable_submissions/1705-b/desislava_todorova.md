@@ -7,3 +7,5 @@ Students should clone their individual file and update them with gist links for 
 
 * Link to gist documenting your strengths & storytelling reflection:
 https://gist.github.com/DesTodo/4d9c4c0f54e554d4c20767fbd46af9f8
+
+
