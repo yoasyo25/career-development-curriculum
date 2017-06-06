@@ -2,11 +2,16 @@
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*:
+[Resume](https://resume.creddle.io/resume/bq9hc7cmlx8)
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+[Portfolio](https://www.turing.io/alumni/mark-stover)
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+[Flower Exercise](https://gist.github.com/stovermc/24af4ec29d0e816f50a167b6f5ab7e49)
 * Link to Trello Board with companies that are being tracked: 
+[Trello Board](https://trello.com/b/fQkJpaFD/mark-stover-job-search)
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+[Action Plan](https://gist.github.com/stovermc/1bee7643172f2f57a78afeae44dc5446)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted:
