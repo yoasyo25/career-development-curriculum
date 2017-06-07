@@ -1,9 +1,9 @@
 # Dan Olson
 
 ## Mod 4 Deliverables:
-* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-* Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* https://gist.github.com/blackknight75/f7646ae26be45928c4fc74a33314a11c
+* https://www.turing.io/alumni/daniel-olson 
+* https://gist.github.com/blackknight75/a83f460da6a8c401ea0b027602e02e68
 * https://gist.github.com/blackknight75/04811a507f4166ca9e952c060784f300
 
 ## Mod 3 Deliverables:
