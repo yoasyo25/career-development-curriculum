@@ -5,127 +5,93 @@
 
 ### Session Structure
 
-Length: 90 minutes
+Length: 60 minutes
 
-Feedback tests our growth mindsets (10 mins)
-  Start with quick self-reflection -- how much does this sound like me? 
-  Maybe a Turn/Talk reflection?
-
-Right & Wrong Spotting (20 mins)
-  How this relates to triggers
-  Examples with internal voices
-    Talk through examples with a partner & then share
-  Work time: Spend time reflecting on feedback that you've gotten; create a right and wrong spotting column and writing out any questions that you need to ask
-
-Johari Windows/Personal Reflections (20 mins sorting through JW, 10 mins on personal reflection -- knowing they will be coached)
-
-Appreciative Inquiry (30 mins)
-  Discuss 5D approach to appreciative inquiry -- using this to unearth ways you can apply the feedback you've been given
-  Coach each other based on what you've discovered during your reflections
- 
+* Opening (3 mins)
+* Feedback Review (12 mins)
+* Right & Wrong Spotting (20 mins)
+* Johari Windows & Personal Reflections (30 mins; 20 mins. on Johari Windows, 10 mins. on personal reflection)
+* Closing (3 mins.)
 
 ### Why
-In your third and final feedback session, we'll dive into 
+In your third and final feedback session, we'll spend time reflecting on how we can find meaning in the feedback we receive and make concrete action plans for how to improve our practices and behaviors. 
 
-Why do we focus on ...
+What value is there in using feedback for personal growth? Why is this something we're talking about at Turing?
+
+* Whole Group Discussion
 
 ### Objectives
 
-* 
+* Analyze our reactions and feelings about feedback
+* Discuss and apply the Right & Wrong Spotting Technique to feedback reflections
+* Use the Johari Window technique to recognize your own blind spots
 * Apply Appreciative Inquiry coaching techniques to group coaching
+* Create goals for how to improve your collaboration practices
 
 ### Deliverable
+Use your Johari Windows and coaching practice today to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) in a gist to submit via the [PD deliverables submission repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
 
+### Feedback Tests Our Growth Mindsets
+Review: what is a growth mindset? How do you think feedback might affect a growth mindset?
 
+Pulse Check: How much does this sound like you? Reflect in your journals on these statements:
 
-### Opening
-Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?
+| To What Degree is this Me? | Never, Occasionally, Sometimes, Often, Always |
+| ------ | ---------------- | 
+| I love feedback. | 1 - 2 - 3 - 4 - 5 | 
+| I recognize when I have feedback triggers. | 1 - 2 - 3 - 4 - 5 |
+| I separate how I'm feeling from the feedback. | 1 - 2 - 3 - 4 - 5 |
+| I view tough situations as learning opportunities. | 1 - 2 - 3 - 4 - 5 |
+| I reward myself when I get something helpful from feedback because of the way I handled it.  | 1 - 2 - 3 - 4 - 5 |
 
-* Whole group discussion
-* Discuss objectives and deliverable
+**Turn & Talk:** 
+Turn to the person next to you to discuss your reflections on the above statements. How do you and your partner feel similarly or differently about these statements?
 
-### Intent vs. Impact
-Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. 
+**Whole Group Debrief:**
 
-| Feedback | Giver's Intent | Giver's Impact |
-| ------ | ---------------- | ---------------- |
-| Be more confident | When you don't know something, be confident enough to admit it. | You should give others the impression that you have all the answers |
+* What did you and your partner have in common about these statements?
+* How did you differ?
+* Based on this discussion, where would you like to see a change in your attitude towards feedback?
 
-#### Whole Group Discussion
-What kind of feedback is the giver providing here? Reminder - the 3 types of feedback are:
+### Right & Wrong Spotting
+When we receive feedback, often our first reaction is that it's wrong or unhelpful. That's a valid feeling resulting from a trigger and the impact that the feedback has on you -- go with it. Pay attention to why you're having this impact. 
 
-* Appreciation
-* Coaching
-* Evaluation
+**In the moment:**
+Hone in on your internal voice to pay attention to what could be triggering you:
 
-* What other impacts might this feedback have?
-* How might you reframe the feedback thinking about the impact that it might have?
+| Internal Voice | Listen For: | Ask: |
+| ----------- | ------------ | ------------ |
+| **TRUTH**<br>That’s wrong.<br>That’s not helpful.<br>That’s not me | **Data** they have that I don’t and interpretations they have that are different from mine<br>**Impacts** I’m hearing that I may not be aware of because of my blind spots | Can you give me an example?<br>What did that mean to you?<br>What are your concerns?<br>What do you see me doing that’s getting in my own way?<br>How did that affect you? |
+| **RELATIONSHIP**<br>After all I’ve done for you?<br>Who are you to say?<br>You’re the problem, not me. | **Changing the topic** to the relationship<br>**Systems** between us; what each of us is contributing to the relationship tensions | Help me understand your feedback then I want to talk about some of my relationship concerns.<br>What do you see me contributing to the problem between us?<br>What is most upsetting to you and why? |
+| **IDENTITY**<br>I screw up everything.<br>I’m doomed.<br>I’m not a bad person, am I? | **My wiring:** how sensitive I am to feedback and how quickly I recover<br>**Opportunities** for me to sort through for coaching; what I can use for growth and learning | Help me put your feedback in perspective with how you view me overall.<br>What could I do that would help me improve?<br>What could I change that would matter most to you? |
 
-Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
+**Upon further reflection:**
+Use the Right & Wrong Spotting Technique to turn the feedback into something useful. Start by listing everything that seems wrong about the feedback. And then go back through the feedback and pull out what might be *right* about it -- what truth is there in this feedback? What is something that you can easily implement?
 
-* Your facial expressions
-* Your tone of voice
-* Your behavior patterns
+| Wrong | Right |
+| ------ | ---------------- | 
+| What do I not agree with about this feedback? | What is something right that I can use from this feedback? |
 
-How could blind spots potentially affect the intent of a feedback giver's words?
+#### I Do
+Allison will model how she would use the Right & Wrong Spotting technique to parse through feedback.
 
-#### Small Group Discussions 
-Create groups of 3-4 students to discuss the feedback and its intent and impact below.  
+#### You Do
+Spend 10 minutes reflecting on feedback that you've received recently. Create a right and wrong spotting table and write out any questions that you have still to clarify that feedback further. You'll need to make sure to ask these questions from your previous partners later!
 
-| Feedback | Giver's Intent | Giver's Impact |
-| ------ | ---------------- | ---------------- |
-| Don't be so quick to make a decision without talking to others | Consider other people's points of view when making a decision | Don't think for yourself. Tone down your enthusiasm. Be bland and passive |
-| You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. No one is noticing my hard work. |
+### Johari Windows
+Created by psychologists Joseph Luft and Harrington Ingham in 1955 (and named for them, combining the names Joe and Harry), the Johari Window is a technique used to help people better understand their relationship with themselves and others.
 
-**Discussion Questions:**
-For each piece of feedback, answer these questions:
+Complete the [Johari Window activity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. Create your own copy of the [Johari Window](https://docs.google.com/document/d/1IFaKPTEA3V96i8cboxqeAfgKEyEbigwIxQ5KQ-lp440/edit?usp=sharing).
 
-* What kind of feedback is this?
-* How might you reframe this feedback considering the impact?
-* We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
+Analyze:
 
-### Communicating Feedback 
-Ask for the type of feedback you want - and prime yourself for triggers that could arise in response to it. 
+* What do you notice about each quadrant? 
+* For the Blind Spot quadrant, is there anything you'd like to build more awareness around? How will you do that? 
 
-Review how to conduct a feedback conversation:
-* **Open** the conversation by getting aligned
-   * Define the purpose of the conversation
-   * What kind of feedback are we discussing?
-   * What does the giver want to give me?
-   * Is the feedback negotiable or final? A suggestion or a command?
-* **Body:** Two-way exchange of information
-   * Listening
-   * Asserting
-   * Managing conversation process
-   * Problem-solving
-* **Close** by committing to action
+#### You Do
+Spend 15 minutes creating your Johari Windows and then the last 10 minutes of this practice time on [your reflection](https://github.com/turingschool/career-development-curriculum/edit/master/module_two/feedback_implementation_strengths_reflection.md). Keep in mind that you'll be coaching each other in the next part of the lesson. 
 
-What will make this conversation different with a project team vs. having this conversation with just one partner?
+### Closing
+Questions & Takeaways
 
-An important skill from the body part is listening. What does it mean to actively listen? What can make it difficult to really listen to someone?
-
-#### Read, Pair, Share
-Read through these [5 steps for improving listening skills](https://www.fastcompany.com/3036026/5-ways-to-improve-your-listening-skills)
-
-Then pair up with someone else to have a short conversation. Describe to your partner a recent concept that you've learned at Turing and what that experience was like for you. Your partner will practice active listening and repeat back what they've heard from you.
-
-**Takeaways:** 
-* What went well for you in this practice?
-* What will you need to be aware of as you continue working on your listening skills?
-
-### Putting it into Practice: Having the Conversations
-Now is the time to prepare for giving feedback to your project partners in conversations:
-
-* BE: Bike Share (multiple partners)
-* FE: Game Time (1 partner)
-* Write down any key points, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
-* This is one conversation on how the project is going so far and how you want to finish it, but consider any feedback that will need to be discussed after the project is over
-
-### Next steps
-* As your project wraps, make sure to have any continued or follow-up conversations with your project partners, including a full retro. 
-
-* Reflect in your deliverable using the [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md) on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*
-
-* Complete a personal reflection:
-    * What is your biggest challenge when giving feedback to someone else? What will you need to be aware of to overcome that challenge? 
-    * In a year from now, if you’re practicing these conversations regularly, how will your communication skills have changed? 
+How will you use this experience to continue your growth at Turing and beyond?

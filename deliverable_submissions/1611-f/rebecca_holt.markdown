@@ -1,8 +1,13 @@
 # Rebecca Holt
 
+## Mod 4 Deliverables:
+* [Cold Outreach](https://gist.github.com/becs919/b306db2b859efd6af6350f3e8675f7fd)
+* [Turing Portfolio](https://www.turing.io/alumni/rebecca-holt)
+* [Interview Practice](https://gist.github.com/becs919/a940a10fa6208f175cc7eadf69be3dcf)
+* [Job Action Plan/Long-Term Plan](https://gist.github.com/becs919/94e1200f32b29e710db8e267ddd535d0)
+
 ## Mod 3 Deliverables:
 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
-* Link to Trello Board with companies that are being tracked
-* Reflection on how to prepare for technical and/or behavioral interviews: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Turing Portfolio](https://www.turing.io/alumni/rebecca-holt)
+* [Trello Board](https://trello.com/b/Fya2fXFo/turing-prof-dev)
+* [Job Search Action Plan](https://gist.github.com/becs919/7df918296931a128d948b532d5ae5af1)
