@@ -6,9 +6,20 @@
   *  [Resume Link](https://www.canva.com/design/DACUfSYYYlE/mN0Axi6ZB56zao8k3UGiIQ/view?utm_content=DACUfSYYYlE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
+
+  *  [Turing Portfolio](https://www.turing.io/alumni/craig-ness)
+
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)
+
+  *  [Flower Exercise](https://gist.github.com/NessEFC/ea5db721c414d294fab878282cf17ba5)
+
+* Link to Trello Board with companies that are being tracked:
+
+  *  [Trello Board](https://trello.com/b/MogTbo4E/job-tracker)
+
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+
+  *  [Job Search Action Plan](https://gist.github.com/NessEFC/44dae9b3f4137cbd0d903f53fc568e0b)
 
 
 ## Mod 2 Deliverables:
