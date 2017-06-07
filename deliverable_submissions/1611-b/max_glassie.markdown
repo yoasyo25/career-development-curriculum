@@ -1,10 +1,10 @@
 # Max Glassie
 
 ## Mod 4 Deliverables:
-* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md): (https://gist.github.com/maxglassie/a77eed748e01b9f2900494d490afa126)
-* Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md): [Cold Outreach Overview](https://gist.github.com/maxglassie/a77eed748e01b9f2900494d490afa126)
+* Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume: [Max Glassie Turing Alumni Profile](https://www.turing.io/alumni/max-glassie)
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): [Practice Interview Summary](https://gist.github.com/maxglassie/e0b9068ae1c752631dcd6dfb9c3ce2af)
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [Module 5 Action Plan](https://gist.github.com/maxglassie/4feb1246ccf666d4b4d6ed291b097b7f)
 
 ## Mod 3 Deliverables:
 * My [Turing Alumni Profile](https://www.turing.io/alumni/max-glassie)
