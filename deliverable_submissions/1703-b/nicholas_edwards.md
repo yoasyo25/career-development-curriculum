@@ -3,13 +3,13 @@
 Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+* [Link to Reflection](https://gist.github.com/nickedwards109/632c4b09c4d55a797b422f8da49a4751) documenting mentor outreach
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+* [Link to Reflection](https://gist.github.com/nickedwards109/c714aaf4a077ade225e00f3ed17a221e) on agile practices/project management used in projects
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* [Link to Reflection](https://gist.github.com/nickedwards109/d8000e5214910c3c6bb363293aaf0f01) on in-person feedback conversation
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+* [Link to Reflection](https://gist.github.com/nickedwards109/df58eb44cb0c14689571982c1cde1d5e) on application of strengths to teams
 
 
 ## Mod 1 Deliverables:
