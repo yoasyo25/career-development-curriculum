@@ -1,10 +1,10 @@
 # Staci McWilliams
 
 ## Mod 4 Deliverables:
-* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-* Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+* [Link to overview of 6 Cold Outreach emails](https://gist.github.com/stacimcwilliams/431f21c7bd99b8208d66956fe907bc26)
+* [Link to your completed Turing portfolio, complete with your name, photo, description, 3 projects, and resume](https://www.turing.io/alumni/staci-mcwilliams)
+* [Summary of participation in practice interview and/or actual interview](https://gist.github.com/stacimcwilliams/6448c81ee7270952b2e89e403e8f7362)
+* [Link to completed action plan for the post-grad job search](https://gist.github.com/stacimcwilliams/a9552270c38ba10afa766ea5c7267506)
 
 ## Mod 3 Deliverables:
 
