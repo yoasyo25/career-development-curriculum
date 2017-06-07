@@ -6,12 +6,16 @@
 
 https://www.canva.com/design/DACQ6eum6DY/IEMaLJd-dNJNGt3XP_whTA/view?utm_content=DACQ6eum6DY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+
+https://www.turing.io/alumni/sam-landfried
+
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)
 
-https://github.com/samlandfried/career-development-curriculum/blob/master/deliverable_submissions/1701-b/Career%20Unit%20-%20The%20Flower%20Diagram.pdf
+https://gist.github.com/samlandfried/4d9a9402591d293a1ad1e5d1985e9a01
 * Link to Trello Board with companies that are being tracked: 
 
 https://trello.com/b/6oRl8Sj7/job-hunt
+
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
 https://github.com/samlandfried/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md
