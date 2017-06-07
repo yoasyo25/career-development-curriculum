@@ -5,11 +5,22 @@ Students should clone their individual file and update them with links to specif
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
+https://gist.github.com/alex-w-k/3ec358c0f13d5a85847086896f706131
+
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+
+https://gist.github.com/alex-w-k/4aa9c628bcb97198ff4176a2ecac9946
 
 * Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+https://gist.github.com/alex-w-k/5565a8a71c1b0c81f92a896b372587e1
+
+* Link to feedback implementation reflection & application of strengths to teams using these 
+https://gist.github.com/alex-w-k/82fd237bfd758455114c4fea2ec7caf0
+
+
+
+
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): 
