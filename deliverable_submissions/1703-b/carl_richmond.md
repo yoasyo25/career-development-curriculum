@@ -11,7 +11,17 @@
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
   
-  ## Mod 1 Deliverables:
+  ## Mod 2 Deliverables:
 
-DTR memo: https://gist.github.com/ACC25/272fdb9b630938fd885ed55bcd6b28fe
-Strengths & storytelling reflection: https://gist.github.com/ACC25/477cea7d90802101f10d4f30ade05037
+* Cold Outreach: https://gist.github.com/ACC25/17e164165ddd99b4c3db2b7ddcc73fa6
+* Reflection on Project Management:
+
+I found that this session to be a good refresher on what the basic principles of Agile Development are and how they can be applied at Turing. Looking back, my first group in Bike Share did not plan or use task managers, like Waffle, and I think we were less productive as a result. The group dynamic was to split up and work independently, but we didn't plan enough for a system like that to work. We should have planned out each iteration in depth, so we always had a reference point for what work needed to be done. We didn't use any timegates or project management principles from my perspective. 
+
+My most recent group project, Little Shop, has been the polar opposite of Bike Share. We have used Waffle exclusively for task assignment, but we have not worked independently at any point in the project. We have tackled problems as a full group the entire time. Our planning decreased the time it took to assign tasks, but our group dynamic--always working together--increased the time it took to accomplish those tasks. I will say though, working on everything together has been good for learning and understanding all the code in the project. I think we could have done better in doing 2 person paired programming vs 4 person, which would have put us in a really good place from an effeciency point of view.
+
+Feedback: https://gist.github.com/ACC25/51e466725fd74f8d2a94fea65fdb74a4
+Feedback Implementation: https://gist.github.com/ACC25/646f0b9312a503ddcdb9e207d14d59f8
+
+
+
