@@ -1,12 +1,12 @@
 # Chris Bandrowsky
 
 ## Mod 3 Deliverables:
+* Resume: [Google Drive Resume Link](https://drive.google.com/open?id=0B0vr7MmemvPRalQ4M1ctWDBmcGs) 
+* Turing Portfolio [My Turing Portfolio](https://www.turing.io/alumni/christopher-bandrowsky)
+* Flower Exercise [Flower Link](https://gist.github.com/cbandrow/379f635b3bc648506348bb5b128b0f84)
+* Trello: [Trello Link](https://trello.com/b/tLAUP2JR/chrisbandrowsky-jobtracker)
+* Mod4 Job Search [Action Plan](https://gist.github.com/cbandrow/bb8f2a9ea3061d4aff986141c5ec7591)
 
-* Link to resume [Google Drive Resume Link](https://drive.google.com/open?id=0B0vr7MmemvPRalQ4M1ctWDBmcGs) 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:[Link Coming Soon]
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: [Link Coming Soon]
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
 ## Mod 2 Deliverables:
 All deliverables are attached in their respective Gists. 
