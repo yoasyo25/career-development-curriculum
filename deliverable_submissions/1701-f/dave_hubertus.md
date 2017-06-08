@@ -6,6 +6,7 @@
 [Dave Hubertus - Draft Resume.pdf](https://github.com/turingschool/career-development-curriculum/files/982193/Dave.Hubertus.-.Draft.Resume.pdf)
 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+https://www.turing.io/alumni/dave-hubertus
 
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 https://gist.github.com/dhubertus/007712be391f50cb606e093d70f1e541
