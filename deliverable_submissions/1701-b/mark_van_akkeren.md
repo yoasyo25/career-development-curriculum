@@ -4,9 +4,10 @@
 
 * Link to resume: https://github.com/markyv18/resume/blob/master/Mark%20Van%20Akkeren%202017%20Resume.pdf  *
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:https://www.turing.io/alumni/mark-alan-van-akkeren *
-* Flower Exercise:  *
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Flower Exercise:  (will upload pic of flower after getting worksheet (it's at school) - i like working with tangibles)*
+https://docs.google.com/document/d/1ZD-hyYqHoOfdebJXehJiIDoWjDMTG4Qq8JAB_TnhQ3A/edit
+* Link to Trello Board with companies that are being tracked: https://trello.com/b/4VMpx0Ke/job-hunt
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md): https://gist.github.com/markyv18/88c6f32791db14142c5304f891957582
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
