@@ -12,8 +12,17 @@ https://drive.google.com/drive/u/0/folders/0B7e3RLf4zYYVWmRaNGpKZlEzNWM
 https://www.turing.io/users/bethknight1234
 
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+
+https://docs.google.com/document/d/1u6HD02rOhUMy77fAQwOdJHgUKwwfHXg69Pz-dA8t95Y/edit?usp=sharing
+
 * Link to Trello Board with companies that are being tracked: 
+
+https://trello.com/b/Lmzn055e/beth-knight-job-search
+
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+
+https://gist.github.com/BethKnight1234/032959e8b7364488de5b5e3b6bf1fae2
+
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
