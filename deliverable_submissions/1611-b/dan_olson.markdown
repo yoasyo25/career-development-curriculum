@@ -1,7 +1,13 @@
 # Dan Olson
 
+## Mod 4 Deliverables:
+* https://gist.github.com/blackknight75/f7646ae26be45928c4fc74a33314a11c
+* https://www.turing.io/alumni/daniel-olson 
+* https://gist.github.com/blackknight75/a83f460da6a8c401ea0b027602e02e68
+* https://gist.github.com/blackknight75/04811a507f4166ca9e952c060784f300
+
 ## Mod 3 Deliverables:
 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume
-* Link to Trello Board with companies that are being tracked
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* https://www.turing.io/alumni/daniel-olson
+* https://trello.com/b/urRAhgrd/daniel-olson-1611-job-search
+* https://gist.github.com/blackknight75/04811a507f4166ca9e952c060784f300
