@@ -3,7 +3,7 @@
 ## Mod 3 Deliverables:
 
 * [Resume 6-4-2017](https://drive.google.com/file/d/0B0ka6yTErbseWklwS2JhSGlkb1U/view?usp=sharing)
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+* [Turing grad portfolio](https://www.turing.io/alumni/zane-russell)
 * [Flower Exercise](https://docs.google.com/document/d/1lZ1UfH__F4Mrx3KrqSJyoRMu_r-nrU8lc_2gB7unPEk/edit?usp=sharing)
 * [Trello Board](https://trello.com/b/1wQ3ayqw/job-tracking)
 * [Job action plan](https://gist.github.com/zanedr/8db4540109b85e8bce34dee81c03d1a5):
