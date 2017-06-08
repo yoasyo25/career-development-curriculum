@@ -2,11 +2,11 @@
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(https://docs.google.com/document/d/1gprcP213Q0LN9KlxM9yUF4PRH5JyUdlhKQUsq7ql6mk/edit?usp=sharing)*: 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to resume *(https://docs.google.com/document/d/1gprcP213Q0LN9KlxM9yUF4PRH5JyUdlhKQUsq7ql6mk/edit?usp=sharing)*:
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [portfolio](https://www.turing.io/alumni/keji-amos)
+* Link to Flower Exercise using this [FLOWER](https://gist.github.com/kamos1/008c3be52129e5db4b012f41ae7b40d6) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+* Link to Trello Board with companies that are being tracked: [Trello Board](https://trello.com/b/NrwlMAtd/keji-amos-job-tacker)
+* Job search action plan for M4, using this [Action Plane](https://gist.github.com/kamos1/b504a769bf1a196a26e93fba6bea85ea):
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
