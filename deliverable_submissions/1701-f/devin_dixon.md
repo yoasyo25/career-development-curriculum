@@ -5,7 +5,7 @@
   * [Resume](https://resume.creddle.io/resume/89qe2f0331o)
   
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-  * Totally forgot the username to login, sorry!
+  * [Turing Profile](https://www.turing.io/alumni/devin-dixon)
   
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
   * [Flower Exercise](https://gist.github.com/devthehuman/bbb6dfb56bea53a949217c784ac6c26c)
