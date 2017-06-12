@@ -1,4 +1,6 @@
-# Documentation should include the following for all 6 emails:
+# Cold Outreach Documentation
+
+## Documentation should include the following for all 6 emails:
 
 * Company of Contact
   * "Allstate"
