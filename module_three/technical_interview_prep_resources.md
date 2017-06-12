@@ -18,6 +18,7 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 * [Ian Douglas](iandouglas.youcanbook.me)
 * Marina Corona
 * [Mark Miranda](https://markmiranda.youcanbook.me/)
+* [Rich Shea](https://richcshea.youcanbook.me/)
 
 ### Apps & Other Resources
 
