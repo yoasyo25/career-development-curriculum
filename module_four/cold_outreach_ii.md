@@ -1,4 +1,4 @@
-## Cold Outreach II
+## Cold Outreach II & Networking
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
@@ -8,8 +8,10 @@
 * Implement strategies to write effective emails 
 
 ### Deliverable
+For this deliverable, you have options to choose from. To fulfill the deliverable requirement, you only need to submit documentation of 1 option although you're absolutely encouraged to do more than one. Whichever option you choose, you'll need to submit your deliverable via via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). All three of these options are meant to push you out of your comfort zone when it comes to the job search -- blindly submitting resumes is not the way to go in the tech industry. These options are meant to help you start forming meaningful connections to lead to increased exposure in the industry and more job leads. Check each option for specific due dates:
 
-Provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) by **Monday of Week 5**
+#### Option 1: Cold Outreach
+Provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) by **Monday of Week 5**
 
 A suggested way to break down completing this deliverable:
 
@@ -19,8 +21,31 @@ A suggested way to break down completing this deliverable:
 * Week 4: Complete 2 emails
 * Week 5: Submit your summary of interactions using the guidelines above to the submissions folder
 
+#### Option 2: Speak at a Meetup
+Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. To complete this deliverable, submit:
+
+* Which Meetup you spoke at/will be speaking at and why you chose that Meetup
+* Your talk outline (1-2 paragraphs)
+* 
+ 
+ The big secret of meetup groups is that most of them are 1-3 months out from having no one booked. Hit up the organizers, propose a talk idea, and get on their list. If you do it enough, they’ll hit you up when they need someone to fill in. Great opportunity to meet people and help out local meetups.
+ 
+It's okay if the Meetup hasn't happened by the deliverable deadline, but we'd like to see documentation that you've prepared to give this talk. 
+
+#### Option 3: Write a Technical Blog Post and Promote it Through Your Network
+If writing is more your style, write a blog post about something you've learned during your time at Turing. In the blog post, we'll be looking to see:
+* How you communicate technical details
+* How you break down complicated processes into simple steps
+* A desire to give back to the tech community
+* A passion for learning and exploring new things
+(Potential employers will be looking for those things as well)
+
+One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include a link to your blog post. 
+
 ### Opening
 In the last cold outreach session in Module Two, our focus was mostly on "warm outreach" as you used the mentorship network at Turing to start building relationships. But now we'll take the same principles from that session and apply them to creating relationships with people outside of the Turing community. 
+
+*Send to Casey when updated*
 
 **Whole Group Discussion:** What are the best practices? 
 
