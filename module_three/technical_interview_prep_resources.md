@@ -16,7 +16,7 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 ### Schedule a Mock Interview
 
 * [Ian Douglas](iandouglas.youcanbook.me)
-* Marina Corona
+* Marina Corona - reach out to her on Slack
 * [Mark Miranda](https://markmiranda.youcanbook.me/)
 * [Rich Shea](https://richcshea.youcanbook.me/)
 
