@@ -2,16 +2,24 @@
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
+### Session Structure:
+* Opening: objectives, deliverables, recap on cold outreach/networking and the why (8 mins)
+* Cold Outreach Overview (20 mins)
+* Meetup Speaker Overview (10 mins)
+* Technical Blog Post Overview (10 mins)
+* Work time (10 mins)
+* Closing (2 mins)
+
 ### Objectives
-* Understand the purpose of cold outreach in regards to your job search
+* Understand the purpose of cold outreach and networking in regards to your job search
 * Discuss how to leverage the network you have to find new relationships
-* Implement strategies to write effective emails 
+* Implement strategies to write effective outreach emails OR research Meetups to speak at OR brainstorm ideas for a technical blog post
 
 ### Deliverable
-For this deliverable, you have options to choose from. To fulfill the deliverable requirement, you only need to submit documentation of 1 option although you're absolutely encouraged to do more than one. Whichever option you choose, you'll need to submit your deliverable via via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). All three of these options are meant to push you out of your comfort zone when it comes to the job search -- blindly submitting resumes is not the way to go in the tech industry. These options are meant to help you start forming meaningful connections to lead to increased exposure in the industry and more job leads. Check each option for specific due dates:
+For this deliverable, you have 3 options to choose from. To fulfill the deliverable requirement, you only need to submit documentation of 1 option although you're absolutely encouraged to do more than one. Whichever option you choose, you'll need to submit your deliverable via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). All three of these options are meant to push you out of your comfort zone when it comes to the role of networking in your job search -- *blindly submitting resumes is not the way to go in the tech industry.* These options are meant to help you start forming meaningful connections that will lead to increased exposure in the industry and more job leads. Check each option for specific due dates:
 
 #### Option 1: Cold Outreach
-Provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) by **Monday of Week 5**
+Start to meet others in the industry through informal research conversations. How do you meet them? Send them a cold outreach email and then set up a coffee meeting. To fulfill this deliverable, provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) by **Monday of Week 5**
 
 A suggested way to break down completing this deliverable:
 
@@ -22,37 +30,37 @@ A suggested way to break down completing this deliverable:
 * Week 5: Submit your summary of interactions using the guidelines above to the submissions folder
 
 #### Option 2: Speak at a Meetup
-Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. To complete this deliverable, submit:
+Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. Contact the Meetup organizers, propose a talk idea (this can be about anything!), and get on their list. If you start to make this habit, organizers will begin to contact *you* when they need someone to fill in. This is a great opportunity to meet people and help out local meetups. To complete this deliverable, submit a gist listing:  DEADLINE HERE
 
 * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
 * Your talk outline (1-2 paragraphs)
-* 
- 
- The big secret of meetup groups is that most of them are 1-3 months out from having no one booked. Hit up the organizers, propose a talk idea, and get on their list. If you do it enough, they’ll hit you up when they need someone to fill in. Great opportunity to meet people and help out local meetups.
+* 3-4 sentences on how you hope to utilize this talk to help you in your job search
  
 It's okay if the Meetup hasn't happened by the deliverable deadline, but we'd like to see documentation that you've prepared to give this talk. 
 
 #### Option 3: Write a Technical Blog Post and Promote it Through Your Network
-If writing is more your style, write a blog post about something you've learned during your time at Turing. In the blog post, we'll be looking to see:
+If writing is more your style, you can choose to write a blog post about something you've learned during your time at Turing. In the blog post, we'll be looking to see:
+
 * How you communicate technical details
 * How you break down complicated processes into simple steps
 * A desire to give back to the tech community
 * A passion for learning and exploring new things
+
 (Potential employers will be looking for those things as well)
 
-One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include a link to your blog post. 
+One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include a link to your blog post and 3-4 sentences on how you're using this blog post to connect with other people in your network (example: posting the blog post on Twitter and engaging in follow-up conversations there) in your PD submissions. DEADLINE HERE
 
 ### Opening
 In the last cold outreach session in Module Two, our focus was mostly on "warm outreach" as you used the mentorship network at Turing to start building relationships. But now we'll take the same principles from that session and apply them to creating relationships with people outside of the Turing community. 
 
-*Send to Casey when updated*
-
 **Whole Group Discussion:** What are the best practices? 
 
-### Why Cold Outreach
-When it comes to your job search, meeting people to have discussions about companies and experiences is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach comes in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
+### Why Cold Outreach & Networking
+When it comes to your job search, meeting people to have discussions about companies and experiences is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach and networking come in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
 
-**Whole Group Discussion:** When you're reaching out to people, what is your purpose? 
+
+### Cold Outreach
+**Whole Group Discussion:** When you're reaching out to people, what is your purpose? Hint: it's not to ask for a job. 
 
 Suggested purposes:
 
@@ -202,7 +210,37 @@ Don't:
 * Ask for a job
 * Talk about yourself too much
 
+### Speaking at a Meetup
+
+Go to Meetup.com ...
+
+#### How to Approach This
+1. Pick a Meetup that you like
+
+OR 
+
+1. Pick a Meetup that sounds interesting
+
+
+OR 
+
+What kinds of topics have been covered at this Meetup recently?
+
+#### Utilize Your Network
+* Denver.rb beginner's track is run by former Turing instructor, Andrew Carmer (@carmer.andrew on Slack)
+
+#### Prepare Your Talk
+* Join #speakercorps on Slack to ask questions and get feedback from current students, alumni, and mentors on your talk
+
+### Writing a Technical Blog Post and Showing it Off
+
+####
+
+#### Utilize
+
+
+
 ### Closing & Next Steps
-Remember to document your cold outreach in your Trello board -- this will also make it easier to fill out the deliverable guidelines when you've kept a record of what has happened. 
+Remember to document your cold outreach and networking opportunities in your Trello board -- this will also make it easier to fill out the deliverable guidelines when you've kept a record of what has happened. 
 
 For more on the effectiveness of outreach and follow up, check out 1606-BE alum Jesse Spevack's [blog post on his job search experience](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer)
