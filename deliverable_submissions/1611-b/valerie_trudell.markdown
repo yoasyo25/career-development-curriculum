@@ -3,8 +3,9 @@
 
 # Mod 4 Deliverables: 
 
-    Final approval of portfolio and resume
-    Documentation of six cold outreach emails completed following these guidelines 
+    ## Final approval of portfolio and resume
+        turing.io/valerietrudell
+    ## Documentation of six cold outreach emails completed following these guidelines 
       Name 	                              Email 	                          Response
       Kris Merrit                       	kris@vector8.io	                Responded, did a job shadow, not hiring right now 
                                                                           but offered to be
@@ -15,11 +16,39 @@
       Chris	                              chris@digitalglobe.com	        Meet at job fair; message again in July
       Chistopher Huxley 	                chis.huxley@trendly.com	        Pending 
       
-    Documentation of practice interview participation
-    Completed action plan for the job search
-    Gear Up-related reflections
+    
+    ##Documentation of practice interview participation
+        Interiewer: Troy Dekinger 
+        Date: 4-26-17 
+        Questions:
+            1. What are some security tools you are familiar with? 
+            2. What are some things to do to secure your application? 
+            3. What is wireshark used for?
+            4. How do you get wireshark to show only HTTP traffic
+            5. What is TCP vs UDP
+            5. What are the different layers in OSI Model
+            6. What are your career goals 
+            7. Tell me about a project at Turing you are proud of 
+ 
+    ##Completed action plan for the job search 
 
-You'll submit all deliverables except for Gear Up reflections here. Gear Up reflections should be included in your module portfolio.
+        Code (ideally, 2-4 hours a day will be dedicated to coding) 
+            Spend 1 hour a day to do an exercise in ruby
+            Spend 2 hours a day toward get CEH. 
+        Outreach
+            Send 4 cold outreach emails per day 
+        Research 
+            Find 4 new company a day
+        Network
+            Go to weekly meetups
+            Meet somebody for coffee 4 times in one week
+        
+
+    ##Gear Up-related reflections
+            Our gist: https://gist.github.com/valerietrudell/ea7fd3638aabda1e45c5f834903870e6 
+            I thought our gear went very well. People were interested and ingauged, and genuinely wanted to talk about he 
+            subject. I thought the gear ups were a sucess and I think it shoudld be a continued thing in the future.
+
 
 
 
