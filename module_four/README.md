@@ -23,11 +23,9 @@ By achieving the objectives listed above, students will be prepared for a succes
 * Interview Prep II (practice sessions) 
 * Gear Up 2: Case Study planning II
 * [Negotiations](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/negotiations.md)
-* Job Search Strategies II/StrengthsFinder IV: Envisioning the future 
+* [Job Search Strategies II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/job_search_strategies_ii.md)
 * Gear Up 3: Case Study
 * 1-on-1 meetings with Meg
-
-* Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
 
 ### Deliverables
 In order to fulfill the requirements of Module Four, students will submit these deliverables:
