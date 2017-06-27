@@ -30,7 +30,7 @@ A suggested way to break down completing this deliverable:
 * Week 5: Submit your summary of interactions using the guidelines above to the submissions folder
 
 #### Option 2: Speak at a Meetup
-Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. Contact the Meetup organizers, propose a talk idea (this can be about anything!), and get on their list. If you start to make this habit, organizers will begin to contact *you* when they need someone to fill in. This is a great opportunity to meet people and help out local meetups. To complete this deliverable, submit a gist listing:  DEADLINE HERE
+Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. Contact the Meetup organizers, propose a talk idea (this can be about anything!), and get on their list. If you start to make this habit, organizers will begin to contact *you* when they need someone to fill in. This is a great opportunity to meet people and help out local meetups. To complete this deliverable, submit a gist by **Monday of Week 5** listing:  
 
 * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
 * Your talk outline (1-2 paragraphs)
@@ -48,7 +48,7 @@ If writing is more your style, you can choose to write a blog post about somethi
 
 (Potential employers will be looking for those things as well)
 
-One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include a link to your blog post and 3-4 sentences on how you're using this blog post to connect with other people in your network (example: posting the blog post on Twitter and engaging in follow-up conversations there) in your PD submissions. DEADLINE HERE
+One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include a link to your blog post and 3-4 sentences on how you're using this blog post to connect with other people in your network (example: posting the blog post on Twitter and engaging in follow-up conversations there) in your PD submissions. Please submit a link to your blog post by **Monday of Week 5**
 
 ### Opening
 In the last cold outreach session in Module Two, our focus was mostly on "warm outreach" as you used the mentorship network at Turing to start building relationships. But now we'll take the same principles from that session and apply them to creating relationships with people outside of the Turing community. 
@@ -57,7 +57,6 @@ In the last cold outreach session in Module Two, our focus was mostly on "warm o
 
 ### Why Cold Outreach & Networking
 When it comes to your job search, meeting people to have discussions about companies and experiences is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach and networking come in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
-
 
 ### Cold Outreach
 **Whole Group Discussion:** When you're reaching out to people, what is your purpose? Hint: it's not to ask for a job. 
@@ -70,11 +69,13 @@ Suggested purposes:
 
 Most common purpose: Research Conversations -- what is the purpose of these conversations? How can you approach this? 
 
+Here are some [possible questions to ask](https://docs.google.com/document/d/11pkBWm3ZlN7disCY9T0Rg61ElwBzXgUf3VPuTRT05Zg/edit?usp=sharing)
+
 ### How to Leverage Your Network
 How can you leverage the network you already have? 
 
 * Mentors: who does your mentor know who would be helpful to you? 
-* Use your Trello Board
+* Use your Trello Board: what companies are you researching? Who can you contact from those companies?
 * LinkedIn: who works at companies that you're interested in?
 
 ### Put the COLD in Cold Outreach
@@ -111,9 +112,7 @@ Tools:
 * [Email Hunter](https://emailhunter.co/)
 * [Find That Lead](https://findthatlead.com/)
 * GitHub
-* Personal website
-
-**Your Turn:** Spend 10 minutes researching someone from your Trello Board to write an email to today.  
+* Personal website  
 
 ### Crafting your Email
 Develop a template to use. This will help you stay on script and get to the point.
@@ -160,34 +159,13 @@ Because you've researched your contact, you'll know if there are certain things 
 * Consider timing based on your research -- have they recently launched a new product? You could tie your message to events or activities that are top of mind to the recipient
 * Connections -- even if you don’t know someone in common you may have some other connection, like a school or other organization
 
+For more on the effectiveness of outreach and follow up, check out 1606-BE alum Jesse Spevack's [blog post on his job search experience](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer)
+
 ### What NOT to do
 * Use an overly formal tone
 * Write a lengthy email (less is more, longer emails won't be read)
 * Spell their name or company name wrong
 * Writing a generic email (make sure to tailor it accordingly)
-
-### Practice & Group Feedback
-Spend ten minutes drafting an email to the person you've been researching. Be sure to include:
-
-* Subject line
-* Connection
-* Call to action with a specific date and time
-
-**Pair & Share:**
-Form groups of 3-4 (4 max) and spend 15 minutes giving and receiving positive feedback and suggestions for improvement. Person A will read email and person B & C will both give:
-
-* 1 specific piece of appreciative feedback
-* 1 constructive recommendation for improvement
-
-Reminder of guidelines for feedback conversations. Be specific, actionable, and kind! Here are examples:
-
-* “I really like the way you circled back to the company mission!”
-* “Your subject line does a great job of capturing the reader's attention!”
-* “The personal connection about snowboarding was really clear!”
-* "I wasn't quite sure what your connection was. Try out a few different phrases to get more specific."
-* "I didn't hear a call to action. Provide a date and time to meet to make it easy for someone to respond."
-
-“Good job buddy!” is *NOT* constructive feedback
 
 ### Follow Up
 **What if they don't respond?**
@@ -212,35 +190,68 @@ Don't:
 
 ### Speaking at a Meetup
 
-Go to Meetup.com ...
+**Whole Group:** How have you learned from other developers thus far in your tech career?
+
+Chances are, you've learned from other developers' talks and own discoveries in their learning. With this option, you can join the community through giving back. Speaking at a meetup is a very effective way to impart knowledge, gain experience speaking, and provide your career with some exposure. 
 
 #### How to Approach This
-1. Pick a Meetup that you like
+Pick a Meetup that you like
 
 OR 
 
-1. Pick a Meetup that sounds interesting
+Pick a Meetup that sounds interesting
 
 
 OR 
 
-What kinds of topics have been covered at this Meetup recently?
+Look for kinds of topics have been covered at this Meetup recently -- how could you contribute?
 
 #### Utilize Your Network
-* Denver.rb beginner's track is run by former Turing instructor, Andrew Carmer (@carmer.andrew on Slack)
+* Denver.rb beginner's track is run by former Turing instructor, Andrew Carmer 
+* Mentor Ian Douglas frequently includes Turing students and alumni as speakers at the Boulder Python meetup
+* See what other meetups that Turing community members are involved in
 
 #### Prepare Your Talk
+A great way to approach your talk is to utilize the format of “here’s what I learned when I tried to _______." This is how you've learned from other developers and how they will learn from you. 
+
 * Join #speakercorps on Slack to ask questions and get feedback from current students, alumni, and mentors on your talk
+
+#### Contact the Organizers
+Reach out to the organizers to find out their upcoming schedule and pitch your talk. Utilize the same cold outreach principles discussed above. 
 
 ### Writing a Technical Blog Post and Showing it Off
 
 ####
 
-#### Utilize
+#### Utilize Personal Branding Tools
+Medium is a very effective 
 
 
 
 ### Closing & Next Steps
 Remember to document your cold outreach and networking opportunities in your Trello board -- this will also make it easier to fill out the deliverable guidelines when you've kept a record of what has happened. 
 
-For more on the effectiveness of outreach and follow up, check out 1606-BE alum Jesse Spevack's [blog post on his job search experience](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer)
+
+
+### Practice & Group Feedback
+Spend ten minutes drafting an email to the person you've been researching. Be sure to include:
+
+* Subject line
+* Connection
+* Call to action with a specific date and time
+
+**Pair & Share:**
+Form groups of 3-4 (4 max) and spend 15 minutes giving and receiving positive feedback and suggestions for improvement. Person A will read email and person B & C will both give:
+
+* 1 specific piece of appreciative feedback
+* 1 constructive recommendation for improvement
+
+Reminder of guidelines for feedback conversations. Be specific, actionable, and kind! Here are examples:
+
+* “I really like the way you circled back to the company mission!”
+* “Your subject line does a great job of capturing the reader's attention!”
+* “The personal connection about snowboarding was really clear!”
+* "I wasn't quite sure what your connection was. Try out a few different phrases to get more specific."
+* "I didn't hear a call to action. Provide a date and time to meet to make it easy for someone to respond."
+
+“Good job buddy!” is *NOT* constructive feedback
