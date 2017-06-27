@@ -88,9 +88,9 @@ Example #1 (warm outreach):
 
     Hi Jose,
 
-    I'm in Mod 2 in the Back End program at Turing. I'm originally from Chicago and would love 
-    to move back there after I graduate. I'd really like to discuss the tech scene 
-    in Chicago and any advice you have for how I can prepare for my job search there. 
+    I'm in Mod 2 in the Back End program at Turing. I'm originally from Chicago and hope
+    to move back there after I graduate. I'd love to discuss the tech scene there and any 
+    advice you have for my job search. 
     I saw on the mentor schedule that you are available Wednesdays at 5pm -- are you free next 
     Wednesday the 28th? If that date/time doesn't work for you, please let me know a time that's better 
     for you. 
@@ -119,7 +119,7 @@ Example #3 (cold outreach):
     Hi Mark,
     
     My name is Katrina, and I'm a back end student at Turing. I recently talked with Shauna Williams about
-    Tech Choice, and she recommendeded that I reach out to ask you about your work there. I'm very interested 
+    Tech Choice, and she recommended that I reach out to ask you about your work there. I'm very interested 
     in pursuing work at a start-up like that and would really appreciate any advice you have for me as I begin 
     my career as a junior dev. I saw that you've posted in the Turing job hunt channel about senior positions 
     opening up at Tech Choice. Any chance you'll be hiring junior devs soon? I'd love to talk with you about 
