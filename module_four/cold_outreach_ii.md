@@ -265,7 +265,7 @@ Structure:
 
 Focus on not only having an opinion but also crafting a compelling argument to support it.
 
-Tip: Think about how your experience with this project has shaped your opinion about how software is developed. 
+Tip: Think about how your experience at Turing has shaped your opinion about how software is developed. 
 
 ##### **How-To:**
 
