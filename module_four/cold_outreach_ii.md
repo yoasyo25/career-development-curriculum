@@ -48,7 +48,12 @@ If writing is more your style, you can choose to write a blog post about somethi
 
 (Potential employers will be looking for those things as well)
 
-One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include a link to your blog post and 3-4 sentences on how you're using this blog post to connect with other people in your network (example: posting the blog post on Twitter and engaging in follow-up conversations there) in your PD submissions. Please submit a link to your blog post by **Monday of Week 5**
+One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include:
+
+* Link to your blog post 
+* 3-4 sentences on how you're using this blog post to connect with other people in your network (example: posting the blog post on Twitter and engaging in follow-up conversations there) in your PD submissions
+
+Please submit a link to your blog post by **Monday of Week 5**
 
 ### Opening
 In the last cold outreach session in Module Two, our focus was mostly on "warm outreach" as you used the mentorship network at Turing to start building relationships. But now we'll take the same principles from that session and apply them to creating relationships with people outside of the Turing community. 
