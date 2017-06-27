@@ -238,6 +238,7 @@ More helpful prompts (from this [article](http://www.noelrappin.com/railsrx/2014
 * What was something you did for the last time in your last project (or something you stopped doing for your last project) How did that work out?
 * What is a tool or process you would like to learn more about?
 
+##### More Help on Preparing Your Talk:
 * Join #speakercorps on Slack to ask questions and get feedback from current students, alumni, and mentors on your talk
 * Want to get inspired? Check out [1508 alum Emily Freeman's talks](http://emilyfreeman.io/) or [1606-FE alum Madison Kerdnt's EmberConf talk](http://confreaks.tv/videos/emberconf2017-mastering-ember-from-the-perspective-of-a-n00b)
 * Other helpful resources:
