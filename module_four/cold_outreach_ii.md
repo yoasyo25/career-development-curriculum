@@ -58,7 +58,7 @@ In the last cold outreach session in Module Two, our focus was mostly on "warm o
 ### Why Cold Outreach & Networking
 When it comes to your job search, meeting people to have discussions about companies and experiences is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach and networking come in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
 
-### Cold Outreach
+### Option 1: Cold Outreach
 **Whole Group Discussion:** When you're reaching out to people, what is your purpose? Hint: it's not to ask for a job. 
 
 Suggested purposes:
@@ -71,14 +71,14 @@ Most common purpose: Research Conversations -- what is the purpose of these conv
 
 Here are some [possible questions to ask](https://docs.google.com/document/d/11pkBWm3ZlN7disCY9T0Rg61ElwBzXgUf3VPuTRT05Zg/edit?usp=sharing)
 
-### How to Leverage Your Network
+#### How to Leverage Your Network
 How can you leverage the network you already have? 
 
 * Mentors: who does your mentor know who would be helpful to you? 
 * Use your Trello Board: what companies are you researching? Who can you contact from those companies?
 * LinkedIn: who works at companies that you're interested in?
 
-### Put the COLD in Cold Outreach
+#### Put the COLD in Cold Outreach
 When creating a completely new relationship, here are some tips:
 
 * No Turing/gSchool/HA alumni
@@ -90,7 +90,7 @@ When creating a completely new relationship, here are some tips:
 
 If you'd like to check any other company, feel free to DM Meg.
 
-### Do Some Research
+#### Do Some Research
 What do you know about the person you're contacting? 
 
 Find out where their interests lie. Read their Medium blog posts, sign up for their newsletters, and check out their websites. Some other resources:
@@ -106,7 +106,7 @@ Find out where their interests lie. Read their Medium blog posts, sign up for th
 
 You need to understand your contact's goals as much as you want them to know yours.
 
-### Finding Contact Info
+#### Finding Contact Info
 Tools:
 
 * [Email Hunter](https://emailhunter.co/)
@@ -114,7 +114,7 @@ Tools:
 * GitHub
 * Personal website  
 
-### Crafting your Email
+#### Crafting your Email
 Develop a template to use. This will help you stay on script and get to the point.
 
 1. Use the subject line: 
@@ -161,11 +161,14 @@ Because you've researched your contact, you'll know if there are certain things 
 
 For more on the effectiveness of outreach and follow up, check out 1606-BE alum Jesse Spevack's [blog post on his job search experience](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer)
 
-### What NOT to do
+#### What NOT to do
 * Use an overly formal tone
 * Write a lengthy email (less is more, longer emails won't be read)
 * Spell their name or company name wrong
 * Writing a generic email (make sure to tailor it accordingly)
+
+#### Get Feedback
+Before you send out your email, if you're not sure about the tone or the wording, send it to Allison, Meg, or a peer for review. 
 
 ### Follow Up
 **What if they don't respond?**
@@ -188,9 +191,11 @@ Don't:
 * Ask for a job
 * Talk about yourself too much
 
-### Speaking at a Meetup
+### Option 2: Speaking at a Meetup
 
-**Whole Group:** How have you learned from other developers thus far in your tech career?
+**Turn & Talk:** What Meetups have you gone to? How have they impacted your learning? How have you learned from other developers thus far in your tech career? 
+
+Whole Group share-out
 
 Chances are, you've learned from other developers' talks and own discoveries in their learning. With this option, you can join the community through giving back. Speaking at a meetup is a very effective way to impart knowledge, gain experience speaking, and provide your career with some exposure. 
 
@@ -215,46 +220,97 @@ Look for kinds of topics have been covered at this Meetup recently -- how could 
 A great way to approach your talk is to utilize the format of “here’s what I learned when I tried to _______." This is how you've learned from other developers and how they will learn from you. 
 
 * Join #speakercorps on Slack to ask questions and get feedback from current students, alumni, and mentors on your talk
+* Want to get inspired? Check out [1508 alum Emily Freeman's talks](http://emilyfreeman.io/) or 
 
 #### Contact the Organizers
 Reach out to the organizers to find out their upcoming schedule and pitch your talk. Utilize the same cold outreach principles discussed above. 
 
-#### Your Turn
+### Option 3: Writing a Technical Blog Post and Showing it Off
+Why do developers write blogs? The biggest reason is to **build relationships.** Just as with open source projects, blog posts are another way to share knowledge and invite collaboration from others.
 
+Writing a blog post about your experiences is a valuable way to share your knowledge and build your network. 
 
-### Writing a Technical Blog Post and Showing it Off
+Here's how you can do it.
 
-####
+#### Template It Out: Decide What Your Post Is
+Start with a template to help define your intent in writing *(adapted from emptysqua.re/blog post “Resources for Writing About Programming” by A. Jesse Jiryu Davis)*
 
-#### Utilize Personal Branding Tools
-Medium is a very effective 
+**Disclaimer:** Your blog post does not have to fit into any of these templates. These are just suggestions. 
 
+All of these have a clear opening, body, and closing. No matter how you choose to write your post, you should aim to structure your blog post in a similar fashion -- your reader needs structure to follow your thoughts. 
 
+##### **Story:** 
+
+"I'm going to tell you a story about [blank], how it taught me [blank], and led to [blank]. First this happened, then that happened. And that's the story of [blank]."
+
+Examples:
+
+* I did this project and learned this thing. I found out this thing about myself.
+* I used this technology, and here’s what happened.
+* I utilized agile practices in this way, and here's what happened. I learned this lesson. 
+
+##### **Opinion:** 
+
+Structure:
+
+1. Thesis 
+2. Evidence to support Thesis 
+3. Response to likely objections
+4. Restate Thesis
+
+Focus on not only having an opinion but also crafting a compelling argument to support it.
+
+Tip: Think about how your experience with this project has shaped your opinion about how software is developed. 
+
+##### **How-To:**
+
+How-Tos must be motivated by something. Begin by telling your reader when and why this how-to is important to know.
+
+“Doing [blank] is important under the given conditions: [blank]. I’m going to show you how to [blank]. Do this, then do that. There, now I’ve shown you how to [blank]. You should go out and do [blank].”
+
+Hint: Any time you solve a problem, write about how you did it!
+
+##### **How Something Works:**
+There doesn’t need to be a clear motivation here other than what are you interested in learning?
+
+When you’re trying to figure out how something works for a project or to describe a project management strategy that you are using in your project, writing an explanation of how it works is a good excuse to dive in and find out more.
+
+“Do you wonder how [blank] works? I’m going to show you how [blank] is implemented. It does this and that. Now I’ve shown you how it works.”
+
+##### **Review:**
+
+Use reviews to describe and analyze instead of evaluating. It’s tempting to evaluate projects or processes on a good-bad axis, but this isn’t very useful. What is this thing *good for?*
+
+“I used or implemented [blank]. This is what it is. This is what my experience was like. [Blank] has these strengths and weaknesses. In conclusion, it’s best when using these certain criteria to evaluate it.”
+
+Now that you have a template, let's talk about the writing process.
+
+### Writing Resources
+Writing is like coding -- you have to practice at it. And just like with coding, you should utilize your resources to help you through the writing process:
+
+* [Power Thesaurus](https://www.powerthesaurus.org/): Stuck on a word? Power Thesaurus is a crowdsourced tool that provides users with a ton of alternative word choices from a community of writers.
+* [ZenPen](http://www.zenpen.io/): If you're having trouble staying focused, check out this distraction-free writing tool. ZenPen creates a minimalist "writing zone" that's designed to help you get words down without having to fuss with formatting right away.
+* [Cliché Finder](http://cliche.theinfo.org/): Feeling like your writing might be coming off a little cheesy? Identify instances where you can be more specific using this handy cliché tool. 
+* [Hemingway App](http://www.hemingwayapp.com/) -- Analyzes your sentence structures for readability and improvements.
+* [Wordcounter.net](https://wordcounter.net/) -- In addition to counting your words, it also calculates reading time.
+* [Here are more tools to help you with your writing](https://blog.hubspot.com/marketing/improving-writing-skills-tools#sm.000013b0c8ho5tdcez8pnsa14dbbn)
+
+#### Utilize Peer Review 
+The peer review process is similar to soliciting feedback on a project. As you draft your post, here are some tools to help you stay on top of revisions:
+
+* [Start your draft on Medium](https://help.medium.com/hc/en-us/articles/214874698-Drafts)
+* [Share with peers for review](https://help.medium.com/hc/en-us/articles/215564177-Share-a-draft)
+* [Peers can leave feedback through Notes](https://help.medium.com/hc/en-us/articles/214035868)
+
+#### Use Your Network
+Now that you have a blog post, you need people to read it! As mentioned above, Medium is an excellent platform to write your blog post on as it's easy to post to other forms of social media or back to your own personal site. 
+
+### Your Turn
+Time to decide on a deliverable that you want to pursue and begin your research! We'll take 10 minutes to work on these here in class, but you'll be expected to turn in one of these options on Monday of Week 5. 
+
+* Option 1: Find someone you want to contact and draft your email
+* Option 2: Research meetups you'd like to speak at and consider what you want to say
+* Option 3: Choose a format to write from and begin a draft of your blog post
 
 ### Closing & Next Steps
 Remember to document your cold outreach and networking opportunities in your Trello board -- this will also make it easier to fill out the deliverable guidelines when you've kept a record of what has happened. 
-
-
-
-### Practice & Group Feedback
-Spend ten minutes drafting an email to the person you've been researching. Be sure to include:
-
-* Subject line
-* Connection
-* Call to action with a specific date and time
-
-**Pair & Share:**
-Form groups of 3-4 (4 max) and spend 15 minutes giving and receiving positive feedback and suggestions for improvement. Person A will read email and person B & C will both give:
-
-* 1 specific piece of appreciative feedback
-* 1 constructive recommendation for improvement
-
-Reminder of guidelines for feedback conversations. Be specific, actionable, and kind! Here are examples:
-
-* “I really like the way you circled back to the company mission!”
-* “Your subject line does a great job of capturing the reader's attention!”
-* “The personal connection about snowboarding was really clear!”
-* "I wasn't quite sure what your connection was. Try out a few different phrases to get more specific."
-* "I didn't hear a call to action. Provide a date and time to meet to make it easy for someone to respond."
-
-“Good job buddy!” is *NOT* constructive feedback
