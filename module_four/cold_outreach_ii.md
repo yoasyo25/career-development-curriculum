@@ -220,7 +220,7 @@ Look for kinds of topics have been covered at this Meetup recently -- how could 
 A great way to approach your talk is to utilize the format of “here’s what I learned when I tried to _______." This is how you've learned from other developers and how they will learn from you. 
 
 * Join #speakercorps on Slack to ask questions and get feedback from current students, alumni, and mentors on your talk
-* Want to get inspired? Check out [1508 alum Emily Freeman's talks](http://emilyfreeman.io/) or 
+* Want to get inspired? Check out [1508 alum Emily Freeman's talks](http://emilyfreeman.io/) or [1606-FE alum Madison Kerdnt's EmberConf talk](http://confreaks.tv/videos/emberconf2017-mastering-ember-from-the-perspective-of-a-n00b)
 
 #### Contact the Organizers
 Reach out to the organizers to find out their upcoming schedule and pitch your talk. Utilize the same cold outreach principles discussed above. 
