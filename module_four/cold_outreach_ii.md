@@ -219,6 +219,9 @@ A great way to approach your talk is to utilize the format of “here’s what I
 #### Contact the Organizers
 Reach out to the organizers to find out their upcoming schedule and pitch your talk. Utilize the same cold outreach principles discussed above. 
 
+#### Your Turn
+
+
 ### Writing a Technical Blog Post and Showing it Off
 
 ####
