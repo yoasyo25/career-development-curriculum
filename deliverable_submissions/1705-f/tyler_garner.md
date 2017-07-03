@@ -1,6 +1,7 @@
 # Tyler Garner
 
-
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+
+ [DTR Memo](https://gist.github.com/lcaroselli/1ec3fe45a49a97a94b4db37bd42a9547):
+
+[Mod1 Reflection](https://gist.github.com/wheresmytyphone/64f53ba3ce405ee50ff3a2190431585d)
