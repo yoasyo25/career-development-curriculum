@@ -12,9 +12,9 @@ Length: 60 minutes
      Intent vs. Impact (10 mins)
      Blind Spots (5 mins)
 * Communicating Feedback in Conversation (5 mins)
+* Nonviolent Communication Framework (10 mins)
 * Switchtracking (12 mins)
-* Active Listening Reading (3 mins)
-* Feedback Conversation Prep (15 mins)
+* Feedback Conversation Prep (8 mins)
 * Final Reflection (5 mins)
 
 ### Objectives
@@ -85,6 +85,37 @@ Whole Group Debrief:
 
 * What will make this conversation different with a project team vs. having this conversation with just one partner?
 
+### Nonviolent Communication Framework
+In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
+
+Similar to the Facts-Feelings-Ask model of having crucial conversations that we discussed in [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) in Module One, the Nonviolent Communication Framework asks you to consider how to be more *mindful* in your communication with others.
+
+* **Whole Group:** What does it mean to be mindful in communication? What would that look like?
+
+Who is good at mindful communication? No one -- yet. We often spend our time communicating:
+
+ * Blame (i.e. "this is your fault")
+ * Insults ( i.e. "you're a jerk")
+ * Labels (i.e. "you're not a big picture person")
+ * Criticism (i.e. "you're bad at JavaScript")
+ * Comparisons (i.e. "no one else in the cohort has this problem")
+ * Diagnoses (i.e. you have a hard time thinking problems all the way through") -- Note: this is a big one!
+
+Nonviolent Communication instead integrates:
+* Consciousness: empathy and awareness
+* Language: to either create connection or distance
+* Communication: knowing to how to ask and how to listen
+* Means of Influence: shoaring "power" rather than using "power"
+
+NVC Framework follows these steps:
+
+* Observations: Facts without judgments
+* Feelings: Harder than it sounds; if you find yourself using "that," "like," or pronouns after the word *feel*, you are not actually saying a feeling
+* Needs: You can't figure out what you need until you reflect on your feelings; use positive language and make needs clear
+* Requests: Express clearly and ask for a reflection
+
+All of these steps of reflection should take place *before* you had the feedback conversation to clarify 
+
 ### Switchtracking
 When you're receiving feedback in a conversation, it's easier to fall prey to our triggers because we're experiencing them right in the moment. We often experience relationship triggers during a feedback conversation because of the way the other person delivers the feedback. A common reaction to this trigger is Switchtracking. Switchtracking occurs when we stop listening to what the person is saying and instead focus on our issues with the person. Here's what it looks like:
 
@@ -120,11 +151,6 @@ In groups of 3-4, discuss how to address this switchtracking conversation. Start
 | Feedback Giver | Feedback Receiver |
 | -------------- | ----------------- |
 | Please make sure to follow the system we set up with Waffle cards. There were a few times where you started working on a Waffle card but not indicating that you were working on it by moving it to the "In Progress" column, and work got duplicated. | I told you what I was doing when we were sitting next to each other. You don't seem to be listening to me. |
-
-#### Active Listening: Reading
-An important skill from the body stage of the feedback conversation is **listening.** What does it mean to actively listen? What can make it difficult to really listen to someone?
-
-Read through these [5 steps for improving listening skills](https://www.fastcompany.com/3036026/5-ways-to-improve-your-listening-skills)
 
 ### Putting it into Practice: Having the Conversations
 Now is the time to prepare for giving feedback to your project partners in conversations:
