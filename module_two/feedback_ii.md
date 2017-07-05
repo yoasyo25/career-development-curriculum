@@ -14,7 +14,7 @@ Length: 60 minutes
 * Communicating Feedback in Conversation (5 mins)
 * Switchtracking (12 mins)
 * Active Listening Reading (3 mins)
-* Feedback Conversation Practice (15 mins)
+* Feedback Conversation Prep (15 mins)
 * Final Reflection (5 mins)
 
 ### Objectives
@@ -134,8 +134,9 @@ Now is the time to prepare for giving feedback to your project partners in conve
 
 * 1. **Reflect:** Write down any key points, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
     Also, consider how you will incorporate active listening into this conversation -- what do you need to do to ensure that you're able to practice those 5 steps from the article? 
-* 2. **Have the conversation:** Follow the Open-Body-Close format for this conversation. Ask clarifying questions. 
-* 3. **Plan for follow-up:** This is one conversation on how the project is going so far and how you want to finish it, but consider any feedback that will need to be discussed after the project is over
+* 2. **Schedule the conversation:** 
+      When you have the conversation, make sure to follow the Open-Body-Close format for this conversation, and ask clarifying questions. 
+* 3. **Plan for follow-up:** This is one conversation on how the project went, but consider any conversations you may want to have after taking time to absorb the feedback
 
 ### Final Reflection & Next Steps
 * Complete a personal reflection:
