@@ -9,10 +9,6 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 
 * Check out one of Ian's [Google Hangout sessions](https://www.youtube.com/watch?v=aXohtMcPT6I)
 
-### Mock Interview Examples
-
-*
-
 ### Schedule a Mock Interview
 
 * Marina Corona - reach out to her on Slack
