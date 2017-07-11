@@ -14,6 +14,7 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 * Marina Corona - reach out to her on Slack
 * [Mark Miranda](https://markmiranda.youcanbook.me/)
 * [Rich Shea](https://richcshea.youcanbook.me/) - if you do not see a time that works for you, feel free to reach out to Rich on Slack (@richshea)
+* [Adrienne Domingus](https://calendly.com/adriennedomingus/) - if you do not see a time that works for you, feel free to reach out to Adrienne on Slack (@adrienne)
 
 ### Apps & Other Resources
 
