@@ -6,8 +6,8 @@ Students should clone their individual file and update them with links to specif
 
 * [Link to resume](https://resume.creddle.io/resume/ap27jzm1wid): 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:[Benjamin Jacobs' Portfolio](https://www.turing.io/alumni/ben-jacobs)
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
+* Link to Flower Exercise using this [Link to Flower Exercise]https://gist.github.com/Benjaminpjacobs/97d864f29f018e573250063a1d8aba50) 
+* Link to Trello Board with companies that are being tracked: [Link to Trello](https://trello.com/b/BBaPWNvR/turing-job-search)
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
 ## Mod 2 Deliverables:
