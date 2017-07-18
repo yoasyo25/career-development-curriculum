@@ -4,7 +4,7 @@ Build on your professional story by thinking about how you're progressing at Tur
 
 * Look at your initial StrengthsFinder reflection that you completed in week 1 -- how have your perceptions of the top 5 themes stayed the same? How have they changed?
 
-* How are you different today than when you first started at Turing? How are you stronger now than on day 1? How have you struggled? 
+* How are you different today than when you first started at Turing? How are you stronger now than on day 1? How have you struggled? How have your strengths played a role in both of these stories?
 
 * Considering how you describe these themes, how do you want others to see you as you continue to progress through Turing?
 
