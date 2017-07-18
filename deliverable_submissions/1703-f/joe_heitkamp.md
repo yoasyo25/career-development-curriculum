@@ -4,7 +4,7 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(https://www.dropbox.com/s/3itln8d33jw0yo3/m3-resume-draft-JoeHeitkamp.pdf?dl=0)*: 
+* Link to resume *(https://docs.google.com/document/d/1sEZs4zyhqn2B8SBk0_soA_jz0XcYo3VHb20E-b2fdow/edit?usp=sharing)*: 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 * Link to Trello Board with companies that are being tracked: 
