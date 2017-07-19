@@ -9,13 +9,14 @@ Length: 90 mins
 
 * Opening (3 mins)
 * Turn & Talk (5 mins)
-* Individual Reflection (10 mins)
-* Small Group Sharing (20 mins)
-* Whole Group Sharing (5 mins)
-* Build off lenses to think about how strengthsfinder plays a part.... (2 mins)
-* Individual Reflection (10 mins)
-* Pair & Share: Storytelling (20 mins)
-* Whole Group Share Out (5 mins)
+* Discussion of our lenses
+    * Individual Reflection (10 mins)
+    * Small Group Sharing (20 mins)
+    * Whole Group Sharing (5 mins)
+* Storytelling using Strengths:
+    * Individual Reflection (10 mins)
+    * Pair & Share: Storytelling (20 mins)
+    * Whole Group Share Out (5 mins)
 * Lightning Talk Prep (10 mins)
 * Closing (1 min)
 
