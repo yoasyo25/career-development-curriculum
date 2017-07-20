@@ -10,7 +10,7 @@ Length: 60 minutes
 * Opening (3 mins)
 * Feedback Review (12 mins)
 * Right & Wrong Spotting (20 mins)
-* Johari Windows & Personal Reflections (30 mins; 20 mins. on Johari Windows, 10 mins. on personal reflection)
+* Johari Windows & Personal Reflections (20 mins. on Johari Windows, 10 mins. on personal reflection)
 * Closing (3 mins.)
 
 ### Why
