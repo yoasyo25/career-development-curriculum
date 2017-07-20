@@ -25,7 +25,6 @@ What value is there in using feedback for personal growth? Why is this something
 * Analyze our reactions and feelings about feedback
 * Discuss and apply the Right & Wrong Spotting Technique to feedback reflections
 * Use the Johari Window technique to recognize your own blind spots
-* Apply Appreciative Inquiry coaching techniques to group coaching
 * Create goals for how to improve your collaboration practices
 
 ### Deliverable
