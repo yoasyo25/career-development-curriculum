@@ -5,7 +5,7 @@
 
 
 # Cold Outreach/Networking Deliverable (pick one of these three):
-    - Website where it's hosted:
+    - Website where it's hosted: https://vatrudell.github.io/valerie.github.io/
     
     - Gist of the blog post:  https://gist.github.com/vatrudell/d810966142f7e7f15be83767880f2ca8
 # Link to your completed Turing portfolio with 2 additional projects:
