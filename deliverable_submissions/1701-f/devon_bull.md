@@ -7,8 +7,9 @@
       * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
       * Your talk outline (1-2 paragraphs)
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
+    * Blog Post: Link to gist listing: [Medium Post](https://medium.com/@DBULL7/open-source-atom-failures-and-the-wild-wild-west-eb05c828a0f7) 
+       I'm putting the article on LinkedIn, I haven't posted there in a long time and I bet many people in my network would be surprised I'm a developer now. I don't feel like this is suitable for my Facebook or Twitter since I tried to keep it professional. 
+       * Link to blog post on something you've learned 
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
