@@ -2,14 +2,11 @@
 
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
-    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-    * Meetup: Link to gist listing: 
-      * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
-      * Your talk outline (1-2 paragraphs)
-      * 3-4 sentences on how you hope to utilize this talk to help you in your job search
     * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
+       [Jenn Peavler's Blog Post](https://medium.com/@jpeavler/learning-to-contribute-my-first-dive-into-open-source-led-me-to-learn-a-little-ruby-b21a7b0359b6)
+       
+       This blog will be a great talking point with contacts and potential employers.  It demonstrates how I jumped into an unfamiliar codebase in an unfamiliar languange and quickly adapted in order to contribute to the project.  Not only that, but it gave me some experience with Ruby which is a very strong selling point to a lot of companies.
+       
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
