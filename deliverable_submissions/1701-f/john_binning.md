@@ -9,6 +9,7 @@
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
     * Blog Post: Link to gist listing:
        * Link to blog post on something you've learned
+       [link to gist](https://gist.github.com/JohnBinning/0319cd3ef320da667cf6c4f3e5da55ed)
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
