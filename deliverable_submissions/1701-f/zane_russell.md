@@ -2,14 +2,8 @@
 
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
-    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-    * Meetup: Link to gist listing: 
-      * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
-      * Your talk outline (1-2 paragraphs)
-      * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
+    * Blog Post: [The making of Etude](https://medium.com/@zanedanielrussell/the-making-of-etude-1f42e3f1c9f3)
+       This first post may skirt the line a touch since it doesn't directly talk about something we've learned, but this is the introduction of Etude, our final project.  This blog will be continually updated and document our process for design, production, and any issues we run into on the way. Technical posts will follow shortly, with another one either later today or tomorrow. I plan to promote this to potential employers to display my knowledge of design, TDD, and team collaboration.  It will be featured on my LinkdIn, personal site, and show regular updates on Twitter.
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
