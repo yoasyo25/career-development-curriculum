@@ -1,15 +1,10 @@
 # Sam Landfried
 
 ## Mod 4 Deliverables:
-* Cold Outreach/Networking Deliverable (pick one of these three):
-    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-    * Meetup: Link to gist listing: 
-      * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
-      * Your talk outline (1-2 paragraphs)
-      * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
+* Cold Outreach/Networking Deliverable:
+    * Blog Post: 
+       * [Getting ID Provider Access Tokens with Auth0](https://gist.github.com/samlandfried/10e63ea1633df6501c0eb7684554ca06)
+       * This blog post explains how to use a confusing component of Auth0, a powerful developer's service. In addition to helping people who might encounter difficulties with this technology, I hope that my network will recognize my ability to navigate complex systems. I'm sharing it with my network through my personal site, LinkedIn and Twitter. 
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
