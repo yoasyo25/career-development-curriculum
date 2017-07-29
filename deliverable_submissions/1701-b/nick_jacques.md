@@ -6,7 +6,8 @@
     I wrote a guide to authentication users with JWT in rails. I plan to tweet it out and possibly post it on LinkedIn.
 
 * Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Summary of participation in practice interview and/or actual interview:
+[Link](https://gist.github.com/NicholasJacques/1e88ff72b36f2fc2e851374e184067e9)
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
 ## Mod 3 Deliverables:
