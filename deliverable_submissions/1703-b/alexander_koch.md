@@ -5,11 +5,8 @@ Students should clone their individual file and update them with links to specif
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-https://drive.google.com/file/d/0ByM1dLnnjSdIaDNGSE40WGZrQzA/view?usp=sharing
+https://drive.google.com/open?id=0ByM1dLnnjSdIOGtoYWdJNlhaNGs
 
-or
-
-https://drive.google.com/file/d/0ByM1dLnnjSdIejlwMVdmUUVRdzA/view?usp=sharing
 The website didn't allow for adding projects to it, so that's definitely something to add but I was too far in when I noticed that.
 
 
