@@ -1,7 +1,7 @@
 # Lola Brenner
 
-* [Link to DTR gist:](https://gist.github.com/lolakoala/5456962d1fb916a652e5aaab67fd5e96) 
-* [Link to Storytelling gist:](https://gist.github.com/lolakoala/a0e20b6ba1d8aaf6a576208bbda67d19)
+* [Link to DTR gist](https://gist.github.com/lolakoala/5456962d1fb916a652e5aaab67fd5e96) 
+* [Link to Storytelling gist](https://gist.github.com/lolakoala/a0e20b6ba1d8aaf6a576208bbda67d19)
 
 * [LinkedIn](www.linkedin.com/in/lola-brenner)
 * [Github](https://github.com/lolakoala)
