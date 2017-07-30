@@ -1,7 +1,7 @@
 ## Mod 2 Deliverables:
 * [Mentor outreach conducted](https://gist.github.com/jimszalew/4ba3ceb99a41b805a9e1d49b8a700f77)
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+* [Agile Practices and Project Management](https://gist.github.com/jimszalew/5a1b351608e0fa7578bb03187b4b29d7)
 
 * [Reflection on in-person feedback conversation](https://gist.github.com/jimszalew/18e216f33cf4653cfdf22af5101002f2)
 
