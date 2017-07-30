@@ -1,5 +1,14 @@
 # Jack Pincus
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+
+    * Blog Post: [Link](https://gist.github.com/jwpincus/ce60f242a32ace9e681f6c6bcb81217d) to gist listing:
+       
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
 * [Link](https://docs.google.com/document/d/1R3Hj8bTyaBUJNnQ3bgtVC48RkwsZez35JRA4XaFBTTU/edit) to resume  

@@ -32,10 +32,9 @@ Students will leave Module Three with a clear blueprint for their job search by 
 In order to fulfill the requirements of module three, students will submit these deliverables:
 
 * Flower Exercise
-* [Resume draft](https://resume.creddle.io/resume/bq9hc7cmlx8)
+* Resume draft
 * Turing portfolio
 * Trello Board with companies that are being tracked
-* Reflection on how to prepare for technical and/or behavioral interviews
 * Job search action plan for Module 4 using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md)
 * Gear Up-related reflections
 
