@@ -6,5 +6,5 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * M1 Sam Nayrouz
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): [link](https://gist.github.com/snayrouz/548a116d628af689175bd4395b955d97)
+* Link to DTR Memo [link](https://gist.github.com/snayrouz/548a116d628af689175bd4395b955d97)
 * Link to gist documenting your strengths & storytelling [reflection](https://gist.github.com/snayrouz/45d2a82b3c46f8f4f8072e096dd6f42e)
