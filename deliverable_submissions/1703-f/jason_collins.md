@@ -3,10 +3,10 @@
 ## Mod 3 Deliverables:
 
 * Link to resume: [JC Resume](https://the-oem.github.io/assets/JGC-resume-2017.pdf)
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked:
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [Turing Portfolio](https://www.turing.io/alumni/jason-collins)
+* Link to [Flower Exercise](https://gist.github.com/the-oem/4cb7cb7758f7b7464864ab5018839cee), using this  [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)
+* Link to Trello Board with companies that are being tracked: [Trello Board](https://trello.com/b/3EqdAmi0/job-tracker)
+* Link to [Job search action plan for M4](https://gist.github.com/the-oem/b4a987eb8b609886f888b9d97ae80404), using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
 ## Mod 2 Deliverables:
  * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
