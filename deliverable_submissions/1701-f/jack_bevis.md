@@ -1,5 +1,16 @@
 # Jack Bevis
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three)
+    * Blog Post: Link to gist listing:
+       * Link to blog post on something you've learned
+       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
+       
+    * [Gist outlining blog post](https://gist.github.com/jbevis/e8ced83bbb23e523135eeb4531aaaead)
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 [Jack Bevis Resume](https://docs.google.com/document/d/1ZINf42VV3KjVoJUJ6LbClDHrhVUeqb-GYuS4dn6CaT4/edit?usp=sharing)
 [Flower Diagram](https://gist.github.com/jbevis/1be0612adff6abc0c47dd8af7f02e7a2)

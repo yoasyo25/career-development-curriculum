@@ -1,5 +1,14 @@
 # Keji Amos
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):    
+    * Blog Post:
+       * [Blog](https://medium.com/@keji.amos/im-a-front-end-engineering-student-at-turing-school-and-we-were-given-the-task-of-contributing-to-4612f0a7327c)
+       * It's a good starting point for conversations and it can be a way to get into some talks at a meetup.
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(https://docs.google.com/document/d/1gprcP213Q0LN9KlxM9yUF4PRH5JyUdlhKQUsq7ql6mk/edit?usp=sharing)*:

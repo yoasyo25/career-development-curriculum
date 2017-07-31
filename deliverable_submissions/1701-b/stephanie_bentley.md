@@ -1,5 +1,17 @@
 # Stephanie Bentley
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these          https://gist.github.com/slague/d68f46589fe8e915ec39a5f90963ffb2
+    
+    
+   
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
+
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: https://docs.google.com/document/d/1uKadi46XEn4G9M5a4f_tb4nRKVw_0ImWq9dF5FoE5po/edit?usp=sharing

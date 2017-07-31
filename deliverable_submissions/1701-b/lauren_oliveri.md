@@ -1,5 +1,11 @@
 # Lauren Oliveri
 
+## Mod 4 Deliverables:
+* [Cold Outreach/Networking Deliverable](https://gist.github.com/lao9/541d741fe869395d888cf48d696157a5)
+* [Completed Turing portfolio with 2 additional projects](https://www.turing.io/alumni/lauren-oliveri)
+* [Summary of participation in practice interview and/or actual interview](https://gist.github.com/lao9/d3f4a327d7defa1772245b125cd637e7)
+* [Completed action plan for the post-grad job search](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
 * [Resume](https://www.canva.com/design/DACUfYbNAPU/TsYu-GOh2nUP_kRg2IbCQA/view?utm_content=DACUfYbNAPU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)

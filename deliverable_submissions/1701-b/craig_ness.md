@@ -1,5 +1,15 @@
 # Craig Ness
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable:
+    * Blog Post:
+       * [Feature Testing with Capybara and Devise: An Open Source Adventure](https://gist.github.com/NessEFC/c2dc6a349bf8419e0dc7c8f9c856ef4c)
+       * In this blog post, I document my journey into Open Source Software contributions by describing a problem I encountered while trying to test with RSpec, Capybara, and Devise in an OSS project, and the solution I came up with to solve it. Upon reading it, I hope it will give others clear directions on what to do if they come across this problem themselves. I also hope that potential employers will read it and see that my process for problem solving includes resourcefulness and a willingness to dive into documentation, which is crucial for software developers on the job. I plan on spreading this throughout my network via my personal site, LinkedIn, and possibly via a Medium blog post.
+
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
 

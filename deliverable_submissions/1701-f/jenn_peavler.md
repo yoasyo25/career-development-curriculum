@@ -1,5 +1,16 @@
 # Jenn Peavler
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Blog Post: Link to gist listing:
+       [Jenn Peavler's Blog Post](https://medium.com/@jpeavler/learning-to-contribute-my-first-dive-into-open-source-led-me-to-learn-a-little-ruby-b21a7b0359b6)
+       
+       This blog will be a great talking point with contacts and potential employers.  It demonstrates how I jumped into an unfamiliar codebase in an unfamiliar languange and quickly adapted in order to contribute to the project.  Not only that, but it gave me some experience with Ruby which is a very strong selling point to a lot of companies.
+       
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 

@@ -1,5 +1,12 @@
 # Leta Keane
 
+## Mod 4 Deliverables:
+* [Blog] post(https://medium.com/@letakeane/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86)
+   - One of my goals is to be a hand up for other Junior developers. I hope this post will help others become more comfortable with contributing to open source projects. It's picked up some retweets and I hope will help expand my network.
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* [Link to post-Turing plan](https://gist.github.com/letakeane/4b900a0b6bb68c04aa69d0239e60d375)
+
 ## Mod 3 Deliverables:
 
 * [Resume](https://www.canva.com/design/DACUfYb4onE/vOIKUVmmC6BdZxbrF5JwAw/view?utm_content=DACUfYb4onE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 

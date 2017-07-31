@@ -2,6 +2,14 @@
 
 Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
 
+## Mod 3 Deliverables:
+
+* Link to resume *(https://docs.google.com/document/d/1sEZs4zyhqn2B8SBk0_soA_jz0XcYo3VHb20E-b2fdow/edit?usp=sharing)*: 
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+* Link to Trello Board with companies that are being tracked: 
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://gist.github.com/noetic97/26638b90133db85b4ed56bacb77b00e2)
 

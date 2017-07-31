@@ -1,4 +1,4 @@
-* Alex Banister, 1706 FE, Mod 1
+# Alex Banister, 1706 FE, Mod 1
 
 ## Mod 1 Deliverables:
 * [Link to DTR Memo](https://gist.github.com/alexbanister/5efa7a501bc92ebb904b538156af3bc2):

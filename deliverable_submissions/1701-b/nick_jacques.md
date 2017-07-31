@@ -1,5 +1,14 @@
 # Nick Jacques
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Blog Post: Link to gist listing: [Link](https://gist.github.com/NicholasJacques/1ee6b20ffd103627cbfce2c07ddf1892)
+    I wrote a guide to authentication users with JWT in rails. I plan to tweet it out and possibly post it on LinkedIn.
+
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 

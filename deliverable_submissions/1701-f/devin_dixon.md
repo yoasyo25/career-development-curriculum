@@ -1,5 +1,11 @@
 # Devin Dixon
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Blog Post: Link to gist listing: [Here](https://gist.github.com/devthehuman/be35d4a2423142a740fcfc1e7108b7d9)
+* Link to your completed Turing portfolio with 2 additional projects: [Here](https://www.turing.io/alumni/devin-dixon)
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [Here](https://gist.github.com/devthehuman/47356d46e70c877ea377c08083da93b7)
+
 ## Mod 3 Deliverables:
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
   * [Resume](https://resume.creddle.io/resume/89qe2f0331o)

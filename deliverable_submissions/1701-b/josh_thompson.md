@@ -1,5 +1,14 @@
 # Josh Thompson
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Cold Outreach Emails: Link to my gist of outreach: https://gist.github.com/josh-works/058dec425e9e54e36d88ff0ff91ef826
+ 
+    
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 

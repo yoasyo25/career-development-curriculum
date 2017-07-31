@@ -1,5 +1,15 @@
 # Laura Turk
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Cold Outreach Emails: [Outreach Emails](https://gist.github.com/lauraturk/1fe61d6f04479c82e1bdbc04fa595719)
+    * Blog Post: Link to gist listing:
+       * [Medium Blog Post](https://medium.com/@LauraTheTurk/in-the-mix-in-51d7d5099574)
+       * I plan to use this blogpost to connect with people in my network by hosting it on medium, sending it to Hacker Noon, posting to Linkedin and adding it to my personal site. This is the first blog in a series I would like to do that takes a humourous approach to reconciling my challenges with CSS while also highlighting how I am constantly pushing myself to learn better, new tools (growth mindset!). Alongside this blog, I would like to write a few about my perspectives around being in a bootcamp (I have a draft called: How Coding Bootcamp made my marriage better, and some ideas floating around with doing a post bootcamp bookclub).
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
 
