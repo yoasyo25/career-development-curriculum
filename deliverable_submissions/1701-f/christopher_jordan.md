@@ -1,10 +1,9 @@
 # Christopher Jordan
 
 ## Mod 4 Deliverables:
-    [Meetup](https://gist.github.com/cjorda15/70704c3b48c86475a99a4cd98b70eeb7)
-
-* Link to your completed Turing portfolio with 2 additional projects:
-  [Turing portfolio](https://www.turing.io/alumni/christopher-jordan)
+ [practice interview](https://gist.github.com/cjorda15/cc9bbeefd1f0aa3f3a90a58a8868fbec)
+ [Meetup](https://gist.github.com/cjorda15/70704c3b48c86475a99a4cd98b70eeb7)
+ [Turing portfolio](https://www.turing.io/alumni/christopher-jordan)
  [completed action](https://gist.github.com/cjorda15/820f63f07a30f9b9d811108f5ffbf4e4)  
  [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
 
