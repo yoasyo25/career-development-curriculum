@@ -1,16 +1,17 @@
 
 # Will Ratterman
 
-Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
-
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+Link to gist documenting mentor outreach conducted using these guidelines: https://gist.github.com/wratterman/fb9ecd5845fc1dba281010e7bbb8a149
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?): https://gist.github.com/wratterman/3970cbd1123972c439f0211f7262756f
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+Link to reflection on in-person feedback conversation using these guidelines: https://gist.github.com/wratterman/8342137a78074abea45c4f43a0f1d1f8
+
+Link to feedback implementation reflection & application of strengths to teams using these guidelines: https://gist.github.com/wratterman/a5a3f1acae35807fff091fe0839ff9f2
+
+odule_two/feedback_implementation_strengths_reflection.md)
 
 ## Mod 1 Deliverables:
 
