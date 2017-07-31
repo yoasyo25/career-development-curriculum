@@ -1,12 +1,23 @@
 # Laura Turk
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Cold Outreach Emails: [Outreach Emails](https://gist.github.com/lauraturk/1fe61d6f04479c82e1bdbc04fa595719)
+    * Blog Post: Link to gist listing:
+       * [Medium Blog Post](https://medium.com/@LauraTheTurk/in-the-mix-in-51d7d5099574)
+       * I plan to use this blogpost to connect with people in my network by hosting it on medium, sending it to Hacker Noon, posting to Linkedin and adding it to my personal site. This is the first blog in a series I would like to do that takes a humourous approach to reconciling my challenges with CSS while also highlighting how I am constantly pushing myself to learn better, new tools (growth mindset!). Alongside this blog, I would like to write a few about my perspectives around being in a bootcamp (I have a draft called: How Coding Bootcamp made my marriage better, and some ideas floating around with doing a post bootcamp bookclub).
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume [turing portfolio - in progress](https://www.turing.io/alumni/laura-turk)
+* Link to Flower Exercise using this [bullet points](https://gist.github.com/lauraturk/abe48eb40b6c51d045c2293c3dae4c0e) 
+* Link to Trello Board with companies that are being tracked[trello board](https://trello.com/b/zjwpQVlk/job-tracker): 
+* Job search action plan for M4, using this [plan](https://gist.github.com/lauraturk/08fb13f227d82ecf2957dceec2397832):
+
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
