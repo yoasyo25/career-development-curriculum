@@ -4,11 +4,11 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 3 Deliverables:
 
-* [Link to resume](https://standardresume.co/evansays) *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Link to resume](https://www.dropbox.com/s/6ijgcldvrwt99i2/Evan_Miller_resume.pdf?dl=1) *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [link](https://www.turing.io/alumni/software-developer-0)
+* Link to Flower Exercise using this [link](https://gist.github.com/EvanSays/1e95a0f8c2a11bce64117f6c27b8e32a) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+* Link to Trello Board with companies that are being tracked: [link](https://trello.com/b/pfyVPoil/tracked-companies)
+* Job search action plan for M4, using this [link](https://gist.github.com/EvanSays/e7e62302fe59f5315ec880c6a7775a32):
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [link](https://gist.github.com/EvanSays/8c14725c8c7c0d1bb811b6a752e999c1)
