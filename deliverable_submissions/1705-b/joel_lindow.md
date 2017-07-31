@@ -3,13 +3,14 @@
 Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+* Link to Joel's Cold Outreach [Link to PD - Cold Outreach](https://gist.github.com/JoelLindow/7d0fa038f9462875efa2b7af887756c5)
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+* Link to reflection on agile practices/project management used in projects [Link to PD - Reflections on Agile and Waterfall](https://gist.github.com/JoelLindow/f8dc3687cce616fd6c6f5506a3294d40)
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Link to reflection on in-person feedback conversation using these [guidelines](https://gist.github.com/JoelLindow/d005df2ea18d6251294eda88f0aaca7b)
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+
+* Link provided in instruction was not valid. Could not get access to formal instructions. I assumed it was refering to our feedback in the session where we did reflection on our Strengths Finder with groups in Clark Hall:[guidelines](https://gist.github.com/JoelLindow/d346ddca34fdc6b8e543427c47d070d6)
 
 ## Mod 1 Round 2 Deliverables:
 
