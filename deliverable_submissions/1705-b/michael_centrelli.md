@@ -7,7 +7,7 @@ Students should clone their individual file and update them with gist links for 
 
 * Project Managment Reflection: (https://gist.github.com/Mcents/c8c00778f0d1f824f92a8e2acfaf9f4f)
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Feedback Reflection: (https://gist.github.com/Mcents/e97d7e9532e056cb2946343b45080684)
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
 
