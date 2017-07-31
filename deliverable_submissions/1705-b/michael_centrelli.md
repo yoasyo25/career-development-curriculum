@@ -7,9 +7,9 @@ Students should clone their individual file and update them with gist links for 
 
 * Project Managment Reflection: (https://gist.github.com/Mcents/c8c00778f0d1f824f92a8e2acfaf9f4f)
 
-* Feedback Reflection: (https://gist.github.com/Mcents/e97d7e9532e056cb2946343b45080684)
+* Feedback II Reflection: (https://gist.github.com/Mcents/e97d7e9532e056cb2946343b45080684)
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+* Feedback III Reflection: (https://gist.github.com/Mcents/9ad3896ca3ae04b54fcb893bfbdce1d4)
 
 ## Mod 1 Deliverables:
 * DTR Black Thursday (https://gist.github.com/Mcents/99737800d78517b0226466598e1d4396):
