@@ -9,3 +9,16 @@ Students should clone their individual file and update them with gist links for 
 https://gist.github.com/DesTodo/4d9c4c0f54e554d4c20767fbd46af9f8
 
 
+## Mod 2 Deliverables:
+Link to gist documenting mentor outreach:
+https://gist.github.com/DesTodo/ce08652054a8b27a592fb76dacccbda3
+
+Link to feedback implementation reflection & application of strengths to teams:
+https://gist.github.com/DesTodo/445ea6f6a4cc90cad061a9194744af15
+
+
+Link to reflection on in-person feedback conversation
+https://gist.github.com/DesTodo/4fd7dcb6ac38e6ad2caf3ce84705de8d
+
+Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?)
+https://gist.github.com/DesTodo/d8c2715271439197a3f7a040b7457362
