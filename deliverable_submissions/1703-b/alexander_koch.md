@@ -5,6 +5,11 @@ Students should clone their individual file and update them with links to specif
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+https://drive.google.com/open?id=0ByM1dLnnjSdIOGtoYWdJNlhaNGs
+
+The website didn't allow for adding projects to it, so that's definitely something to add but I was too far in when I noticed that.
+
+
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 * Link to Trello Board with companies that are being tracked: 
