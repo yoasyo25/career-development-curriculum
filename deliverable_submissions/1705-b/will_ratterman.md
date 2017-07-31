@@ -1,5 +1,5 @@
+
 Will Ratterman
-Please name your Pull Request using this convention: Module First Name Last Name, i.e. "M2 Allison Singer"
 
 Mod 2 Deliverables:
 
