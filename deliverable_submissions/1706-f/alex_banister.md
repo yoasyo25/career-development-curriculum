@@ -6,5 +6,5 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * Mod 1
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* [Link to DTR Memo](https://gist.github.com/alexbanister/5efa7a501bc92ebb904b538156af3bc2):
+* [Link to gist documenting your strengths & storytelling reflection]()
