@@ -3,11 +3,19 @@
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
+[Cold Outreach](https://gist.github.com/jasonlucas907/fc541f113774cca2a4272670bad6f07b.js)
+
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+
+[Agile Practices](https://gist.github.com/jasonlucas907/aae3ded52e771c3e5c09ecd431de138c.js)
 
 * Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
+[Feedback conversation](https://gist.github.com/jasonlucas907/84bb7e6a3ffb6e4310052d0e88e1af6a.js)
+
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+
+[Feedback reflection](https://gist.github.com/jasonlucas907/fa7e16de1db70b961aecd82e0fd934fc.js)
 
 ## Mod 1 Round 2 Deliverables:
 
