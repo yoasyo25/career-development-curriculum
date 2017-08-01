@@ -10,4 +10,4 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 
 ## Mod 1 Deliverables:
 [link]https://gist.github.com/samuelssnider/225a977bd318bdf7f7fbc872cd736437
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+[link]https://gist.github.com/samuelssnider/d4eb18fcb378e1de33065c3eb3f18bce [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
