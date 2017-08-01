@@ -3,7 +3,7 @@
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
     * Blog Post: Link to gist listing: [Link](https://gist.github.com/NicholasJacques/1ee6b20ffd103627cbfce2c07ddf1892)
-    I wrote a guide to authentication users with JWT in rails. I plan to tweet it out and possibly post it on LinkedIn. It needs to be edited a little bit before I actually publish it but I have a draft I on Medium that I will eventually publish.
+    I wrote a guide to authentication users with JWT in rails. I plan to tweet it out and possibly post it on LinkedIn. It needs to be edited a little bit before I actually publish it but I have a draft I on Medium that I will publish as soon as I have a chance to make those edits.
 
 * Link to your completed Turing portfolio with 2 additional projects: [Link](https://www.turing.io/alumni/nicholas-jacques)
 * Summary of participation in practice interview and/or actual interview: [Link](https://gist.github.com/NicholasJacques/1e88ff72b36f2fc2e851374e184067e9)
