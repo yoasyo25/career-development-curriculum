@@ -1,6 +1,7 @@
 Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
 
 ## Mod 2 Deliverables:
+
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md): [Mentor-Outreach](https://gist.github.com/Kalikoze/1f546c1a401d230654b928c5202f3e84)
 
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?): [Agile-Practices-Reflection](https://gist.github.com/Kalikoze/6fd56ef43bc9426aa6d50d8b77d7045b)
