@@ -8,6 +8,7 @@ Students should clone their individual file and update them with links to specif
 https://drive.google.com/open?id=0ByM1dLnnjSdIOGtoYWdJNlhaNGs
 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+https://www.turing.io/alumni/alexander-koch
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 https://gist.github.com/alex-w-k/455a0105c965fbf11a95637be2ca82d5
 * Link to Trello Board with companies that are being tracked: 
