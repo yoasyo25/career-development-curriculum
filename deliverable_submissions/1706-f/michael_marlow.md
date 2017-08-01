@@ -1,14 +1,8 @@
 # Michael Marlow
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
-
-* Your Module
-* Your First Name
-* Your Last Name
-
-Example: M1 Jessica Rodriguez
+M1 Michael Marlow
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Link to DTR Memo: https://gist.github.com/Vision-X/280f271c4d37a56ac95c31d5d8e71824
+ 
+* Link to gist documenting your strengths & storytelling reflection: https://gist.github.com/Vision-X/f4d7e2a50fe4b4d8003af5762ce10232
