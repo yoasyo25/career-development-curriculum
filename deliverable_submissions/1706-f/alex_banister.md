@@ -1,14 +1,5 @@
-# Alex Banister
-
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
-
-* Your Module
-* Your First Name
-* Your Last Name
-
-Example: M1 Jessica Rodriguez
+# Alex Banister, 1706 FE, Mod 1
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* [Link to DTR Memo](https://gist.github.com/alexbanister/5efa7a501bc92ebb904b538156af3bc2):
+* [Link to gist documenting your strengths & storytelling reflection](https://gist.github.com/alexbanister/a014afa4eb107d7daaa6c696685c2ede)
