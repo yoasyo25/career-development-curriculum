@@ -1,12 +1,20 @@
 # Zane Russell
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Blog Post: [The making of Etude](https://medium.com/@zanedanielrussell/the-making-of-etude-1f42e3f1c9f3)
+       This first post may skirt the line a touch since it doesn't directly talk about something we've learned, but this is the introduction of Etude, our final project.  This blog will be continually updated and document our process for design, production, and any issues we run into on the way. Technical posts will follow shortly, with another one either later today or tomorrow. I plan to promote this to potential employers to display my knowledge of design, TDD, and team collaboration.  It will be featured on my LinkdIn, personal site, and show regular updates on Twitter.
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
 ## Mod 3 Deliverables:
 
-* [Resume 5-8-2017](https://drive.google.com/open?id=0B0ka6yTErbseWklwS2JhSGlkb1U)
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Resume 6-4-2017](https://drive.google.com/file/d/0B0ka6yTErbseWklwS2JhSGlkb1U/view?usp=sharing)
+* [Turing grad portfolio](https://www.turing.io/alumni/zane-russell)
+* [Flower Exercise](https://docs.google.com/document/d/1lZ1UfH__F4Mrx3KrqSJyoRMu_r-nrU8lc_2gB7unPEk/edit?usp=sharing)
+* [Trello Board](https://trello.com/b/1wQ3ayqw/job-tracking)
+* [Job action plan](https://gist.github.com/zanedr/8db4540109b85e8bce34dee81c03d1a5):
 
 ## Mod 2 Deliverables:
 #### Name of contact

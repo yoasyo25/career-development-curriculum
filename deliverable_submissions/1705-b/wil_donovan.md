@@ -1,6 +1,6 @@
 Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
 
-## Mod 2 Deliverables:
+
 * Link to gist documenting mentor outreach conducted using these [Mentor Outreach](https://gist.github.com/swdonovan/765911c28966de67deaf2c76c366e0e9)
 
 * Link to reflection on agile practices/project management used in projects
@@ -10,12 +10,6 @@ Students should clone their individual file and update them with gist links for 
 * Link to reflection on in-person feedback conversation using these [Feedback II Reflection](https://gist.github.com/swdonovan/5863b3752f565acdd5af19896f987ee4)
 
 * Link to feedback implementation reflection & application of strengths to teams using these [Feedback III Reflection](https://gist.github.com/swdonovan/d577a4f9259bb31c9962fec1eef82bf3)
-
-
-
-
-
-
 
 
 ## Mod 1 Deliverables:
