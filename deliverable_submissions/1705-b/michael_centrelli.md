@@ -3,13 +3,13 @@
 Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+* Mentor Outreach: (https://gist.github.com/Mcents/d982e3f5a6c40e0f589a43d6ba028d0e)
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+* Project Managment Reflection: (https://gist.github.com/Mcents/c8c00778f0d1f824f92a8e2acfaf9f4f)
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Feedback II Reflection: (https://gist.github.com/Mcents/e97d7e9532e056cb2946343b45080684)
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+* Feedback III Reflection: (https://gist.github.com/Mcents/9ad3896ca3ae04b54fcb893bfbdce1d4)
 
 ## Mod 1 Deliverables:
 * DTR Black Thursday (https://gist.github.com/Mcents/99737800d78517b0226466598e1d4396):
