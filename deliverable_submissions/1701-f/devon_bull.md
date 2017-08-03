@@ -11,9 +11,9 @@
        I'm putting the article on LinkedIn, I haven't posted there in a long time and I bet many people in my network would be surprised I'm a developer now. I don't feel like this is suitable for my Facebook or Twitter since I tried to keep it professional. 
        * Link to blog post on something you've learned 
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: [Profile](https://www.turing.io/alumni/devon-bull)
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): [Gist Link](https://gist.github.com/DBULL7/e99c890cd64a4afe2bd59c6726e0d198)
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [Plan](https://gist.github.com/DBULL7/134530a2eb68664bb651ee2d952ee4f4) 
 
 ## Mod 3 Deliverables:
 
