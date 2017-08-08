@@ -6,7 +6,7 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * Your First Name
 * Your Last Name
 
-Example: M1 FE Jessica Rodriguez
+Example: M1 BE Jessica Rodriguez
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
