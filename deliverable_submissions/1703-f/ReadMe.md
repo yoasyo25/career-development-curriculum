@@ -1,4 +1,4 @@
-Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 BE Allison Singer" 
+Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 FE Allison Singer" 
 
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
