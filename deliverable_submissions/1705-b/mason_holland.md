@@ -1,5 +1,7 @@
 # Mason Holland
 
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
