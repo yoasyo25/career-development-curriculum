@@ -1,5 +1,7 @@
 # Mark Van Akkeren
 
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
+
 ## Mod 3 Deliverables:
 
 * Link to resume: https://github.com/markyv18/resume/blob/master/Mark%20Van%20Akkeren%202017%20Resume.pdf  *
