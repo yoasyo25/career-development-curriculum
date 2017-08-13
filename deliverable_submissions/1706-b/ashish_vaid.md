@@ -1,4 +1,4 @@
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M2 BE Allison Singer"
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
