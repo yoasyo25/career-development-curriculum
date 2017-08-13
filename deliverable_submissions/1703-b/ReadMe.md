@@ -1,4 +1,4 @@
-Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M3 Allison Singer"
+Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
 
 ## Mod 3 Deliverables:
 
