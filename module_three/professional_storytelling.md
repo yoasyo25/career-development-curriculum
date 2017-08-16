@@ -97,6 +97,7 @@ Take a look at a few examples before getting started. What do you notice about t
 
  - [Example 1](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
  - [Example 2](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
+ - 
  - Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
 
 #### Layouts
