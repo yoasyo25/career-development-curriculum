@@ -52,6 +52,11 @@ Other things to keep in mind:
 
 Have an idea of how you would set up a meeting with a mentor before you contact them. 
 
+### Posse Mentors
+Don't forget about the mentors in your posse. If you're not sure who they are, hover over the channel topic in your posse channel to see them listed. 
+
+* Don't forget to do research on these mentors and see what their specialities are
+
 ### Actual Email Formatting
 When you're ready to write your email (or Slack message), here are some things to keep in mind:
 
@@ -144,6 +149,13 @@ It's definitely exciting (or excruciating, depending on your initial viewpoint) 
 * Bull shit. Contacts can tell when you haven't done enough research about what it is you want to connect about
 * Give up if you don't get an immediate response. Mentors are busy. If you reached out using Slack, try their email next
 * Pretend you're an expert when you're not. They're called "mentors" for a reason -- ask questions!
+
+### Build on the Relationship
+* Twitter follows/retweets/messages
+* Connect on LinkedIn
+* Schedule regular meetings
+* Go to a Meetup with your mentor/utilize their network
+* If you work with a posse mentor, in what ways could you build the relationship within the posse? 
 
 ### Research & Execution Time
 
