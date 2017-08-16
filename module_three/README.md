@@ -18,13 +18,10 @@ Students will leave Module Three with a clear blueprint for their job search by 
 ### Sessions
 
 * [Professional Storytelling: Resumes, Cover Letters, & Turing Portfolio](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling.md)
-* Gear Up 1: Microaggressions
 * [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
 * [Finding Opportunities](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/finding_opportunities.md)
-* Gear Up 2: Parable of the Polygon/Automation
 * [Interview Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
 * [Job Search Strategies I](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)
-* Gear Up 3: Case Study with Module 4
 
 ### Deliverables
 In order to fulfill the requirements of module three, students will submit these deliverables:
@@ -37,3 +34,9 @@ In order to fulfill the requirements of module three, students will submit these
 * Gear Up-related reflections
 
 You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
+
+### Gear Up Sessions
+
+* Gear Up 1: Microaggressions
+* Gear Up 2: Parable of the Polygon/Automation
+* Gear Up 3: Case Study with Module 4
