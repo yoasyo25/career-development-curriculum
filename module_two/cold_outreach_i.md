@@ -97,7 +97,7 @@ Example #1 (warm outreach):
     to move back there after I graduate. I'd love to discuss the tech scene there and any 
     advice you have for my job search. 
     I saw on the mentor schedule that you are available Wednesdays at 5pm -- are you free next 
-    Wednesday the 28th? If that date/time doesn't work for you, please let me know a time that's better 
+    Wednesday the 28th? If that date/time doesn't work, please let me know a time that's better 
     for you. 
 
     Thanks,
@@ -110,8 +110,7 @@ Example #2 (warm outreach):
     Hi Jenna,
     
     I'm starting to learn React in Mod Two of the Front End program and figured it's about time 
-    I find a mentor. I saw that you work in React! We're just starting to use that in our projects, 
-    and I'd love to pick your brain about it. Are you available to meet at Turing this Thursday (6/2) 
+    I find a mentor. I saw that you also work in React! I'd love to pick your brain about it. Are you available to meet at Turing this Thursday (6/2) 
     at 4pm to pair? If not, please let me know a better date/time we could meet!
 
     Thanks,
