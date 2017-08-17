@@ -47,7 +47,7 @@ Spend 5 minutes reflecting in your notebook on the following questions:
 
 * In the first chapter you read last night, *Ask Questions Instead of Giving Direct Orders*, navy captain D. Michael Abrashoff takes the approach of asking questions of his sailors. Why does he take that approach? What would that look like in a professional software setting?
 * What does good leadership look like?
-* Look at the slide with the leadership domains from StrengthsFinder and group your top 5 themes into the different domains. What does this tell you about your own leadership style?
+* Look at the slide with the leadership domains from StrengthsFinder and group your top 5 themes into the different domains. Check out [this handout](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) with more information on what the different domains of leadership mean. What does this tell you about your own leadership style?
 
 Now, you've been forming your own ideas of how you could work within a team. You'll want to have a DTR with your team to discuss this Forming stage more in-depth, but we're going to dive into the Storming page now. 
 
