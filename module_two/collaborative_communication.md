@@ -82,7 +82,8 @@ Now let's discuss the norming phase: *"Resolved disagreements and personality cl
 	your team create to allow team members to take risks and try out new things in the project? What will 
 	your team do if Teammate A “fails”? How will your team communicate?
 	
-	Now, it's the day before the project is due, and during a group check-in, Teammate A says that they are not done 	 with the feature. What will your team do now?
+	Now, it's the day before the project is due, and during a group check-in, Teammate A says that 
+	they are not done with the feature. What will your team do now?
 
 ## Whole Group Debrief
 What are your takeaways from today's session?
