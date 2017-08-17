@@ -45,7 +45,7 @@ Recap project management and agile practices:
 ### Personal Reflection
 Spend 5 minutes reflecting in your notebook on the following questions:
 
-* In the first chapter you read last night, Ask Questions Instead of Giving Direct Orders, navy captain D. Michael Abrashoff takes the approach of asking questions of his sailors. Why does he take that approach? What would that look like in a professional software setting?
+* In the first chapter you read last night, *Ask Questions Instead of Giving Direct Orders*, navy captain D. Michael Abrashoff takes the approach of asking questions of his sailors. Why does he take that approach? What would that look like in a professional software setting?
 * What does good leadership look like?
 * Look at the slide with the leadership domains from StrengthsFinder and group your top 5 themes into the different domains. What does this tell you about your own leadership style?
 
@@ -63,7 +63,7 @@ Discuss your reflections and reaction the chapter in small groups:
 * Create a leadership vision for your team on how you will work together. 
 
 ## How to Handle Failure: Norming
-As a group, discuss the second chapter from the homework, *Mitigate Fault*
+Now let's discuss the norming phase: *"Resolved disagreements and personality clashes result in greater intimacy, and a spirit of co-operation emerges."* As a group, discuss the second chapter from the homework, *Mitigate Fault* and these questions:
 
 * What are your takeaways from the chapter? How could this apply to software teams? 
 * What does it look like to actually learn from and move past mistakes?
