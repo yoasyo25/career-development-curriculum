@@ -19,10 +19,10 @@ Students should clone their individual file and update them with links to specif
 ## Mod 3 Deliverables:
 
 * [Cole Worsley Resume](https://github.com/coleworsley/personal-site/blob/master/src/assets/Cole_Worsley_Resume.pdf) 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Turing Portfolio](https://www.turing.io/alumni/cole-worsley)
+* [Flower Exercise](https://gist.github.com/coleworsley/1ff1097ab2315f4a3fa1f98097f30b80)
+* [Trello Board](https://trello.com/b/6gAq7ylh/job-tracker)
+* [Job Search Action Plan](https://gist.github.com/coleworsley/eac1369d842c2df053bf7f3da4bad022):
 
 ## Mod 2 Deliverables:
 *[Mentor Feedback](https://gist.github.com/coleworsley/97194ab16a5a8929a71f3c9e923ad3c6)
