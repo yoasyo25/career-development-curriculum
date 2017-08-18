@@ -18,12 +18,16 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-[Resume on Creddle](https://resume.creddle.io/resume/czq5kygm21m)
+* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*:
+   * [Resume on Creddle](https://resume.creddle.io/resume/czq5kygm21m)
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+   * [Turing Portfolio page](https://www.turing.io/alumni/lindsay-parker)
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
+   * [Flower Exercise Google Doc](https://docs.google.com/document/d/1gPSrxiEQb9FuPUjKhZDqpM20qs-XuR3qU-JFEG1m4_w/edit?usp=sharing)
+* Link to Trello Board with companies that are being tracked:
+   * [Trello Board](https://trello.com/b/DhKlxNNr/job-tracker)
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+   * [Job Search Action Plan Gist](https://gist.github.com/lindsaywparker/b6648b9146c2484059aaac2eee22d7ef)
 
 
 ## Mod 2 Deliverables:
